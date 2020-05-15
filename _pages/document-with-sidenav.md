@@ -4,7 +4,7 @@ layout: page
 sidenav: true
 ---
 
-# Section heading (h1)
+# This is a section heading (h1)
 
 The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
 
