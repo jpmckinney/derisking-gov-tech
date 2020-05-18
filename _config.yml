@@ -68,7 +68,7 @@ dap_agency: GSA
 primary_navigation:
   - name: Home
     url: /
-  - name: Introduction
+  - name: Why this matters
     url: /introduction/
   - name: State Field Guide
     url: /document-with-sidenav/
