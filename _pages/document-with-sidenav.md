@@ -5,12 +5,12 @@ sidenav: true
 ---
 
 # De-risking custom software projects
-A Field Guide for State and Local Governments 
+## A handbook for state grantee budgeting and oversight
 
-Written by: 
-Randy Hart
-Waldo Jaquith
-Robin Carnahan
+Published August 5, 2019
+
+18F, Technology Transformation Service, General Services Administration
+By Robin Carnahan, Randy Hart and Waldo Jaquith
 
 ## Introduction
 
