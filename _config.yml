@@ -68,9 +68,9 @@ dap_agency: GSA
 primary_navigation:
   - name: Home
     url: /
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
+#  - name: Document
+#   url: /document/
+  - name: State Field Guide
     url: /document-with-sidenav/
   - name: Federal Field Guide
     url: /federal-fieldguide/    
