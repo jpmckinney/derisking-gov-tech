@@ -4,11 +4,13 @@ layout: page
 sidenav: true
 ---
 
-# De-risking custom software projects: a field guide for state governments 
+# De-risking custom software projects
+A Field Guide for State and Local Governments 
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
-
-We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
+Written by: 
+Randy Hart
+Waldo Jaquith
+Robin Carnahan
 
 ## Introduction
 
