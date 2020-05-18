@@ -5,7 +5,7 @@ sidenav: true
 ---
 
 # De-risking custom software projects
-## A handbook for state grantee budgeting and oversight
+## A field guide for state governments
 
 Published August 5, 2019
 
