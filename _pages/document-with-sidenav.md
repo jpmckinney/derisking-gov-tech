@@ -4,7 +4,7 @@ layout: page
 sidenav: true
 ---
 
-# De-risking custom software projects: A field guide for state governments
+# FIELD GUIDE FOR STATES
 
 Published August 5, 2019
 
@@ -12,7 +12,7 @@ By Robin Carnahan, Randy Hart and Waldo Jaquith
 18F, Technology Transformation Service, General Services Administration
 
 
-## Field Guide for budgeting and overseeing tech projects
+## Budgeting and overseeing tech projects
 
 ### Think about risk in a new way
 
