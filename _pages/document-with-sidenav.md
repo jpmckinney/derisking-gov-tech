@@ -4,13 +4,12 @@ layout: page
 sidenav: true
 ---
 
-# De-risking custom software projects
-## A field guide for state governments
+# De-risking custom software projects: A field guide for state governments
 
 Published August 5, 2019
 
-18F, Technology Transformation Service, General Services Administration
 By Robin Carnahan, Randy Hart and Waldo Jaquith
+18F, Technology Transformation Service, General Services Administration
 
 ## Introduction
 
