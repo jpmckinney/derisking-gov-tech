@@ -72,6 +72,8 @@ primary_navigation:
     url: /document/
   - name: Document with sidenav
     url: /document-with-sidenav/
+  - name: Federal Field Guide
+    url: /federal-fieldguide/    
   - name: Document submenu
     children:
       - name: Navigation link
