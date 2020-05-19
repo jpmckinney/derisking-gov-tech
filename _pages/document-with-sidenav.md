@@ -4,7 +4,7 @@ layout: page
 sidenav: true
 ---
 
-# FIELD GUIDE FOR STATES
+# State Field Guide
 
 Published August 5, 2019
 
