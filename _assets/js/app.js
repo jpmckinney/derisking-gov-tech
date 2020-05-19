@@ -21,10 +21,12 @@ if (sidenav) {
     }
   })
 }
-/* Adds an item to the TOC sidebar submenu
-@parameters: el - the heading to add to TOC
-             parent - the parent item to append this link to
-*/
+
+/**
+ * Adds an item to the TOC sidebar submenu
+ * @param {h-tag} el The heading to add to TOC
+ * @param {h-tag} parent  The parent item to append this link to
+ */
 function addTocItem (el, parent) {
   var listItem = document.createElement("li")
   var listItemLink = document.createElement("a");
