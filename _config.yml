@@ -68,8 +68,8 @@ dap_agency: GSA
 primary_navigation:
   - name: Home
     url: /
-#  - name: Document
-#   url: /document/
+  - name: Why this matters
+    url: /introduction/
   - name: State Field Guide
     url: /document-with-sidenav/
   - name: Federal Field Guide
@@ -82,7 +82,7 @@ primary_navigation:
         url: "#main-content"
       - name: Navigation link
         url: "#main-content"
-  - name: How we work
+  - name: Blog Posts
     children:
       - name: Blog
         url: /blog/
