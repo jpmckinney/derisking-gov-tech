@@ -87,11 +87,11 @@ primary_navigation:
       - name: Blog
         url: /blog/
 
-secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
-    url: "#main-content"
+# secondary_navigation:
+#   - name: Secondary link
+#     url: "#main-content"
+#   - name: Another secondary link
+#     url: "#main-content"
 
 # Search.gov configuration
 #
