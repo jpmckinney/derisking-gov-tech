@@ -174,17 +174,21 @@ i.e.
 
 // Hero
 .usa-hero__heading {
-  color: white;
+  color:color('primary-darker');
+  @include u-font('sans', '2xl');
 }
 
 .usa-hero{
-  background-image: linear-gradient(
-      90deg,
-      rgba(28, 48, 74, 60),
-      rgba(0, 207, 255, 0)
-    ),
-  image_url('hero-image.jpg');
-  background-position: top left;
+  background: color('secondary');
+}
+
+.hero-img {
+  max-width: 75%; // need to replace with a non-magic number
+}
+
+.hero__intro {
+  @include u-font('sans', 'lg');
+  color: color('primary-darker');
 }
 
 .usa-hero--no-image {
@@ -198,6 +202,12 @@ i.e.
 
 .usa-hero__callout {
   background-color: transparent;
+}
+
+
+//tagline
+.tagline--highlight {
+  color: color('secondary');
 }
 
 // Side Navigation
