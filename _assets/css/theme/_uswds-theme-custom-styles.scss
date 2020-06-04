@@ -175,7 +175,10 @@ i.e.
 // Hero
 .usa-hero__heading {
   color:color('primary-darker');
-  @include u-font('sans', '2xl');
+  @include u-font('sans', 'xl');
+  @include at-media('tablet') {
+      @include u-font('sans', '2xl');
+  }
 }
 
 .usa-hero{
@@ -183,12 +186,19 @@ i.e.
 }
 
 .hero-img {
-  max-width: 75%; // need to replace with a non-magic number
+  @include at-media('tablet') {
+    max-width: 75%; // need to replace with a non-magic number
+  }
+
 }
 
 .hero__intro {
-  @include u-font('sans', 'lg');
   color: color('primary-darker');
+  @include u-font('sans', 'md');
+
+  @include at-media('tablet') {
+    @include u-font('sans', 'lg');
+  }
 }
 
 .usa-hero--no-image {
@@ -206,6 +216,18 @@ i.e.
 
 
 //tagline
+.tagline__heading {
+  @include u-font('heading','lg');
+  @include u-line-height('heading', 3);
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: units(2);
+
+  @include at-media('tablet') {
+    @include u-font('heading','xl');
+  }
+}
+
 .tagline--highlight {
   color: color('secondary');
 }
