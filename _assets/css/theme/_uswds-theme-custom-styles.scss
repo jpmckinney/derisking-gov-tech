@@ -99,6 +99,15 @@ i.e.
   }
 }
 
+// Search bar
+.usa-nav__secondary {
+  margin-top: units(2);
+
+  @include at-media('desktop') {
+    bottom: units(10) + units(2); // XXX magic number
+  }
+}
+
 //// FOOTER
 
 .footer-logo {
