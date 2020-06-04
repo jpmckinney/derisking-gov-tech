@@ -1,14 +1,20 @@
-{% comment %} 
+{% comment %}
 This tagline will appear in your homepage
 {% endcomment %}
 
-<section class="grid-container usa-section usa-prose">
-  <div class="grid-row grid-gap">
-    <div class="tablet:grid-col-4">
-      <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">Only 13% of Government IT projects succeed</h2>
-    </div>
-    <div class="tablet:grid-col-8 usa-prose">
-      <p>Implementing custom software projects can be extraordinarily costly and risky in a government setting. Waterfall software development remains standard at all levels of government. Outdated budgeting and oversight processes have been designed around these very waterfall processes. Moving toward a user-centered, agile approach to this work will save millions of dollars in spending on bad software.</p>
+<section class="usa-section usa-section--dark usa-prose">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-4">
+        {% asset pie-chart.svg alt="Pie chart higlighting 13%" %}
+      </div>
+
+      <div class="tablet:grid-col-8">
+        <h2 class="font-heading-xl margin-top-0 margin-bottom-1">Only <span class="light text-secondary-light">13% </span> of Government IT projects&nbsp;succeed</h2>
+        <div class="usa-prose">
+          <p>Implementing custom software projects can be extraordinarily costly and risky in a government setting. Waterfall software development remains standard at all levels of government. Outdated budgeting and oversight processes have been designed around these very waterfall processes. Moving toward a user-centered, agile approach to this work will save millions of dollars in spending on bad software.</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>

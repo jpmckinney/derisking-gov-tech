@@ -38,8 +38,9 @@ Show updates and notifications.
 ----------------------------------------
 */
 
-$theme-show-compile-warnings: true;
-$theme-show-notifications: true;
+$theme-show-compile-warnings: false !important;
+$theme-show-notifications: false !important;
+$theme-show-notifications: false;
 
 /*
 ----------------------------------------
