@@ -4,10 +4,14 @@ layout: page
 sidenav: true
 ---
 
+<<<<<<< HEAD
 
 
 # FIELD GUIDE FOR STATES
 {:.no_toc}
+=======
+# State Field Guide
+>>>>>>> master
 
 Published August 5, 2019
 
