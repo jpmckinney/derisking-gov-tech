@@ -1,10 +1,10 @@
 ---
-title: Document with Sidenav
+title: State Field Guide
 layout: page
 sidenav: true
 ---
 
-# FIELD GUIDE FOR STATES
+# State Field Guide
 {:.no_toc}
 
 Published August 5, 2019
