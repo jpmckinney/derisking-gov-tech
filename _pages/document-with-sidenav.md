@@ -4,7 +4,8 @@ layout: page
 sidenav: true
 ---
 
-# State Field Guide
+# FIELD GUIDE FOR STATES
+{:.no_toc}
 
 Published August 5, 2019
 
@@ -13,7 +14,7 @@ By Robin Carnahan, Randy Hart and Waldo Jaquith
 
 
 ## Budgeting and overseeing tech projects
-
+{:toc}
 ### Think about risk in a new way
 
 Over the past several decades, government agencies have turned away from using in-house staff, relying on outside vendors to build their mission-critical technology. The decisions to do this were based on trade-offs that seemed like lower-risk options — often driven by limited capacity and promises of cheaper "off the shelf" tools offered by government contractors.
@@ -297,7 +298,7 @@ For small systems, this may require adding one or fewer FTEs to the agency’s s
 
 Software maintenance is sometimes budgeted for as if it is a different activity than initially building software, but that is a mistake. Maintaining software should mean simply continuing to modify it in response to identified user needs, which change continuously along with laws, regulations, policies, best practices, and technology. This requires the same skill sets, methodology, and tasks as building a system in the first place. A proposal to transition software development into an "operations and maintenance" ("O&amp;M") phase should be seen as a red flag,
 
-Rule of thumb: a "scrum team" of 5–9 developers costs 
+Rule of thumb: a "scrum team" of 5–9 developers costs
 \$1–2 million per year, depending on the cost of living in the area where the developers reside. Funding can be ramped up over the course of several budget cycles, as the requesting agency demonstrates that they’re successfully reducing risk, controlling costs, and delivering iteratively to end users.
 
 Ultimately, this can provide agencies with a predictable source of funding for software projects — replacing unpredictable capital expenditures — while simultaneously providing the legislature with a predictable annual cost for all agency software projects.

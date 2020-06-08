@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="296px" height="296px" viewBox="0 0 296 296" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PieChart</title>
+    <g id="V1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Home_G" transform="translate(-35.000000, -636.000000)" stroke-width="17.6928001">
+            <g id="Explainer" transform="translate(-7.000000, 593.000000)">
+                <g id="PieChart" transform="translate(190.000000, 190.500000) rotate(-120.000000) translate(-190.000000, -190.500000) translate(51.000000, 52.000000)">
+                    <ellipse id="Pie_Holder" stroke="#E5FAFF" stroke-linecap="round" cx="138.748801" cy="138.283201" rx="138.748801" ry="138.283201"></ellipse>
+                    <path d="M138.748801,276.566402 C215.377648,276.566402 277.497602,214.654904 277.497602,138.283201 C277.497602,61.9114979 215.377648,0 138.748801,0 C62.1199542,0 0,61.9114979 0,138.283201 C0,214.654904 62.1199542,276.566402 138.748801,276.566402 Z" id="Pie_13%" stroke="#00CFFF" stroke-dasharray="104.6110085634155,9311.069112521363"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

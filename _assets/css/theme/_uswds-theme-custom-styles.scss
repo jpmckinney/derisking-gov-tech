@@ -20,6 +20,11 @@ i.e.
 ----------------------------------------
 */
 
+$max-width-lg: 80%;
+$max-width-md: 60%;
+
+$theme-show-notifications: false;
+
 //// HEADER
 
 // Logo
@@ -99,6 +104,15 @@ i.e.
   }
 }
 
+// Search bar
+.usa-nav__secondary {
+  margin-top: units(2);
+
+  @include at-media('desktop') {
+    bottom: units(10) + units(2); // XXX magic number
+  }
+}
+
 //// FOOTER
 
 .footer-logo {
@@ -174,7 +188,35 @@ i.e.
 
 // Hero
 .usa-hero__heading {
-  color: white;
+  color:color('primary-darker');
+  @include u-font('sans', 'xl');
+  @include at-media('tablet') {
+      @include u-font('sans', '2xl');
+  }
+}
+
+.usa-hero{
+  background: color('secondary');
+  @include at-media('desktop') {
+    padding-top: units(8);
+    padding-bottom: units(8);
+  }
+}
+
+.hero-img {
+  @include at-media('tablet') {
+    max-width: $max-width-lg;
+  }
+
+}
+
+.hero__intro {
+  color: color('primary-darker');
+  @include u-font('sans', 'md');
+
+  @include at-media('tablet') {
+    @include u-font('sans', 'lg');
+  }
 }
 
 .usa-hero--no-image {
@@ -184,6 +226,32 @@ i.e.
 
 .usa-hero--no-image .usa-hero__callout {
   padding-left: 0;
+}
+
+.usa-hero__callout {
+  background-color: transparent;
+}
+
+
+//tagline
+.tagline__heading {
+  @include u-font('heading','lg');
+  @include u-line-height('heading', 3);
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: units(2);
+
+  @include at-media('tablet') {
+    @include u-font('heading','xl');
+  }
+}
+
+.tagline--highlight {
+  color: color('secondary');
+}
+
+.tagline__image {
+  max-width: $max-width-lg;
 }
 
 // Side Navigation
@@ -214,4 +282,8 @@ i.e.
 // Dark sections
 .usa-section--dark h3 {
   @include u-text('secondary');
+}
+
+.usa-section--dark h2 {
+  color: white;
 }

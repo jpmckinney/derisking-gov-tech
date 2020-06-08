@@ -3,6 +3,7 @@ console.log("Hi from Federalist");
 
 
 var sidenav = document.querySelector('.usa-sidenav');
+// var sidenav = false;
 // console.log(sidenav);
 if (sidenav) {
   var headings = document.querySelectorAll('h1, h2, h3, h4');
@@ -24,8 +25,8 @@ if (sidenav) {
 
 /**
  * Adds an item to the TOC sidebar submenu
- * @param {h-tag} el The heading to add to TOC
- * @param {h-tag} parent  The parent item to append this link to
+ * @param {tag} el The heading to add to TOC
+ * @param {tag} parent  The parent item to append this link to
  */
 function addTocItem (el, parent) {
   var listItem = document.createElement("li")
