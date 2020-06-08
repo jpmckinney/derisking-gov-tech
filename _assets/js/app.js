@@ -6,15 +6,14 @@ var sidenav = document.querySelector('.usa-sidenav');
 // var sidenav = false;
 // console.log(sidenav);
 if (sidenav) {
-  var headings = document.querySelectorAll('h2');
-
+  var headings = document.querySelectorAll('h2, h3');
+  parentSection = null;
   headings.forEach(function(heading){
-    currentLevel = null;
-
     if(heading.tagName === "H2"){
       addTocItem(heading, sidenav);
+      parentSection = heading;
     }
-    else if (heading.tagName === "H3") {
+    else if (heading.tagName === "H3" && !parentSection.innerText.includes("Appendix")) {
       var sublist = document.createElement("ul");
       sublist.classList.add("usa-sidenav__sublist");
       sidenav.appendChild(sublist);
