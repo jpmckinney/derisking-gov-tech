@@ -6,7 +6,7 @@ var sidenav = document.querySelector('.usa-sidenav');
 // var sidenav = false;
 // console.log(sidenav);
 if (sidenav) {
-  var headings = document.querySelectorAll('h2, h3');
+  var headings = document.querySelectorAll('h2');
   parentSection = null;
   headings.forEach(function(heading){
     if(heading.tagName === "H2"){
