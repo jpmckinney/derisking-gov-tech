@@ -322,8 +322,8 @@ $theme-show-notifications: false;
   @include grid-col(12);
   border-top: 1px solid color('primary-darker');
   border-left: 1px solid color('primary-darker');
-  padding-top: units(1);
-  padding-left: units(1);
+  padding-top: units(1.5);
+  padding-left: units(1.5);
 
   @include at-media('tablet') {
     @include grid-col(8);

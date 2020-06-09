@@ -7,14 +7,15 @@ sidenav: true
 # State Field Guide
 {:.no_toc}
 
-Published August 5, 2019
-
 By Robin Carnahan, Randy Hart and Waldo Jaquith
 18F, Technology Transformation Service, General Services Administration
 
-
 ## Budgeting and overseeing tech projects
-{:toc}
+
+<div markdown="1" class="guide-sect__img-container">
+{% asset agile-best-practices.svg class="guide-sect__img" alt="" %}
+</div>
+
 ### Think about risk in a new way
 
 Over the past several decades, government agencies have turned away from using in-house staff, relying on outside vendors to build their mission-critical technology. The decisions to do this were based on trade-offs that seemed like lower-risk options â€” often driven by limited capacity and promises of cheaper "off the shelf" tools offered by government contractors.
@@ -341,7 +342,9 @@ It is no kindness to fund a project that is going to fail. If the agency doesnâ€
 - What are you doing to avoid paying expensive change fees in the future?
 
 ## Appendix A: Questions to ask
-
+<div markdown="1" class="guide-sect__img-container">
+{% asset questions.svg class="guide-sect__img" alt="" %}
+</div>
 When you are considering a budget request for a custom software project, it will be difficult to consult this entire handbook to find the right questions to ask. Here are some basic, open-ended questions that you can ask to determine if a project is set up for success.
 
 ### What are the goals of the project? What outcomes are prioritized?
@@ -421,6 +424,9 @@ Wrong answer: "The vendor."
 Right answer: "The state" or "it will be committed to the public domain."
 
 ## Appendix B: Sample Quality Assessment Surveillance Plan (QASP)
+<div markdown="1" class="guide-sect__img-container">
+{% asset qasp-checks.svg class="guide-sect__img" alt="" %}
+</div>
 
 Per [the "Require demos, not memos" best practice](#require-demos-not-memos), here is a sample QASP, which should be incorporated into agile software RFPs.
 
