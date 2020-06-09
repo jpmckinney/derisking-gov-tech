@@ -1,10 +1,17 @@
 ---
 title: Getting started
 layout: page
-sidenav: false
+sidenav: true
+
 ---
 
-## Getting Started
+# Getting Started
+
+## Introduction
+
+<div markdown="1" class="guide-sect__img-container">
+{% asset pie-chart-circle-1.svg class="guide-sect__img" alt="" %}
+</div>
 
 Only 13% of large government software projects are successful.<sup id="reference-1"><a href="#footnote-1">1</a></sup> State IT projects, in particular, are often challenged because states lack basic knowledge about modern software development, relying on outdated procurement processes. Every year, the federal government matches billions of dollars in funding to state and local governments to maintain and modernize IT systems used to implement federal programs such as Medicaid, child welfare benefits, housing, and unemployment insurance. Efforts to modernize those legacy systems fail at an alarmingly high rate and at great cost to the federal budget.
 
@@ -27,7 +34,11 @@ This is written specifically for procurement of custom software, but it’s impo
 
 As government leaders, we must be good stewards of public money by demanding easy-to-use, cost-effective, sustainable digital tools for use by the public and civil servants. This handbook will help you do just that.
 
-### Basic principles of modern software design
+## Basic principles of modern software&nbsp;design
+
+<div markdown="1" class="guide-sect__img-container">
+{% asset agile-basics.svg class="guide-sect__img" alt="" %}
+</div>
 
 A technology project’s odds of success improve when the "non-technical" government leaders who fund and oversee it understand six basics concepts of modern software development: **user-centered design**, **agile software development**, **DevOps**, **building with loosely coupled parts**, **modular contracting**, and **product ownership**. You don’t have to be a technologist to understand these general concepts. Once you grasp them, it’ll feel like you’ve gained a new super power, allowing you to cut through the jargon and technical detail, and stay focused on the basics of successfully guiding any software project.
 

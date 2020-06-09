@@ -22,7 +22,7 @@ i.e.
 
 $max-width-lg: 80%;
 $max-width-md: 60%;
-
+$guide-illo-size: 200px;
 $theme-show-notifications: false;
 
 //// HEADER
@@ -286,4 +286,50 @@ $theme-show-notifications: false;
 
 .usa-section--dark h2 {
   color: white;
+}
+
+
+//// Guide Pages
+.guide-sect__img-container {
+  @include grid-col(12);
+  background-color: color('primary-darker');
+  display: flex;
+  justify-content: center;
+  margin-top: units(2);
+  margin-bottom:  units(1);
+
+  @include at-media('tablet') {
+    @include grid-col(8);
+  }
+
+  @include at-media('desktop') {
+    @include grid-col(10);
+  }
+}
+
+//jekyll wraps image in a p
+.guide-sect__img-container p {
+  margin: 0;
+}
+
+.guide-sect__img {
+  padding-top: units('205');
+  padding-bottom: units('205');
+  width: $guide-illo-size;
+}
+
+.usa-layout-docs__main h2 {
+  @include grid-col(12);
+  border-top: 1px solid color('primary-darker');
+  border-left: 1px solid color('primary-darker');
+  padding-top: units(1);
+  padding-left: units(1);
+
+  @include at-media('tablet') {
+    @include grid-col(8);
+  }
+
+  @include at-media('desktop') {
+    @include grid-col(10);
+  }
 }
