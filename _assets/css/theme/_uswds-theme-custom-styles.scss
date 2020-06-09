@@ -333,3 +333,22 @@ $theme-show-notifications: false;
     @include grid-col(10);
   }
 }
+
+////State Guidelines
+.usa-layout-docs__main .guide-checklist,
+.usa-layout-docs__main .key-questions {
+  color: color('white');
+  padding: units(1);
+}
+
+.usa-layout-docs__main .guide-checklist {
+  background-color: color('primary');
+}
+
+.usa-layout-docs__main .key-questions {
+  background-color: color('primary-darker');
+}
+
+.guide-checklist + ul, .key-questions + ul {
+  background-color: color('blue-5v');
+}
