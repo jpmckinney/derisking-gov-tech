@@ -22,7 +22,9 @@ i.e.
 
 $img-max-width-lg: 80%;
 $img-max-width-md: 60%;
-$h2-max-width: 32ex; //the measure function minimum is 44ex, which is too large
+//the min. value for measure() is 44ex, which is too large for headings
+$h2-max-width: 34ex;  // 0.5 * 68ex (body measure)
+$h3-max-width: 51ex;  // 0.75 * 68ex (body measure)
 $guide-illo-size: 200px;
 $theme-show-notifications: false;
 
@@ -292,20 +294,12 @@ $theme-show-notifications: false;
 
 //// Guide Pages
 .guide-sect__img-container {
-  @include grid-col(12);
   background-color: color('primary-darker');
   display: flex;
   justify-content: center;
   margin-top: units(2);
   margin-bottom:  units(1);
-
-  @include at-media('tablet') {
-    @include grid-col(8);
-  }
-
-  @include at-media('desktop') {
-    @include grid-col(10);
-  }
+  max-width: measure(4);
 }
 
 //jekyll wraps image in a p
@@ -320,19 +314,14 @@ $theme-show-notifications: false;
 }
 
 .usa-layout-docs__main h2 {
-  @include grid-col(12);
+
   border-top: 1px solid color('primary-darker');
-  // border-left: 1px solid color('primary-darker');
   padding-top: units(1.5);
-  // padding-left: units(1.5);
+  max-width: $h2-max-width;
+}
 
-  @include at-media('tablet') {
-    @include grid-col(8);
-  }
-
-  @include at-media('desktop') {
-    @include grid-col(10);
-  }
+.usa-layout-docs__main h3 {
+  max-width: $h3-max-width;
 }
 
 ////State Guidelines
