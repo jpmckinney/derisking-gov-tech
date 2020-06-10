@@ -337,6 +337,12 @@ $theme-show-notifications: false;
 
 ////State Guidelines
 
+.guide-download {
+  background-color: color('blue-5');
+  border-left: 4px solid color('secondary');
+  padding: units(1);
+}
+
 .usa-layout-docs__main .guide-checklist,
 .usa-layout-docs__main .key-questions {
   color: color('white');

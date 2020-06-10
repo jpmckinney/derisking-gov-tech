@@ -12,6 +12,7 @@ By **Robin Carnahan**, **Randy Hart** and **Waldo Jaquith**<br>
 {:.guide-authors}
 
 You can download this guide as a [printable pdf](#)
+{:.guide-download}
 
 ## Budgeting and overseeing tech projects
 
