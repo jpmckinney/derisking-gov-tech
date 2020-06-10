@@ -7,8 +7,11 @@ sidenav: true
 # State Field Guide
 {:.no_toc}
 
-By Robin Carnahan, Randy Hart and Waldo Jaquith
+By **Robin Carnahan**, **Randy Hart** and **Waldo Jaquith**<br>
 18F, Technology Transformation Service, General Services Administration
+{:.guide-authors}
+
+You can download this guide as a [printable pdf](#)
 
 ## Budgeting and overseeing tech projects
 
@@ -31,9 +34,9 @@ Technical knowledge is cheap and abundant, but knowing how to run a state agency
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The project has a dedicated, empowered product owner who is an employee of the mission agency — not a contractor, and not an employee of the state’s IT agency
-- [ ] Stakeholders recognize that the existing approach (waterfall development) fails the majority of the time, and that moving to agile development and modular procurement is, in fact, significantly less risky
-- [ ] Stakeholders regard outside vendors as interchangeable tools to accomplish a goal, rather than as the "owners" of a project or its outcome
+- The project has a dedicated, empowered product owner who is an employee of the mission agency — not a contractor, and not an employee of the state’s IT agency
+- Stakeholders recognize that the existing approach (waterfall development) fails the majority of the time, and that moving to agile development and modular procurement is, in fact, significantly less risky
+- Stakeholders regard outside vendors as interchangeable tools to accomplish a goal, rather than as the "owners" of a project or its outcome
 
 #### Key questions
 {:.key-questions}
@@ -57,14 +60,14 @@ Historically, there has been pressure to only use firm fixed price contracts, on
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The project has a dedicated, empowered product owner who is an employee of the agency — not a contractor, and not an employee of the state’s IT agency — whose job it is to prioritize work for the development team
-- [ ] An agency contracting officer has embraced this project, and is enthusiastic about procuring software in new ways
-- [ ] The RFP will be solely about procuring development services, not about procuring a tangible thing
-- [ ] The RFP will require a cross-functional team of designers, user researchers, and developers
-- [ ] The RFP will be no more than 20 pages in length
-- [ ] A backlog of at least a dozen user stories has been created and added to the RFP
-- [ ] A time and materials contract (with a cap) will be used
-- [ ] The simplest available procurement vehicle that provides access to the targeted vendors will be used
+- The project has a dedicated, empowered product owner who is an employee of the agency — not a contractor, and not an employee of the state’s IT agency — whose job it is to prioritize work for the development team
+- An agency contracting officer has embraced this project, and is enthusiastic about procuring software in new ways
+- The RFP will be solely about procuring development services, not about procuring a tangible thing
+- The RFP will require a cross-functional team of designers, user researchers, and developers
+- The RFP will be no more than 20 pages in length
+- A backlog of at least a dozen user stories has been created and added to the RFP
+- A time and materials contract (with a cap) will be used
+- The simplest available procurement vehicle that provides access to the targeted vendors will be used
 
 #### Key questions
 {:.key-questions}
@@ -89,8 +92,8 @@ It may well make sense to use COTS or SaaS as the core of a major new agency sys
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The budget allocation does not mandate the use of COTS, SaaS, or custom software, but allows the agency to fund a combination of those as they find necessary
-- [ ] Vendors’ claims that their COTS or SaaS product will work immediately, without burdensome modification or customization, are independently investigated by talking to other states and agencies that have used those products and gone through the customization and deployment process
+- The budget allocation does not mandate the use of COTS, SaaS, or custom software, but allows the agency to fund a combination of those as they find necessary
+- Vendors’ claims that their COTS or SaaS product will work immediately, without burdensome modification or customization, are independently investigated by talking to other states and agencies that have used those products and gone through the customization and deployment process
 
 #### Key questions
 {:.key-questions}
@@ -112,11 +115,11 @@ The QASP does not require producing any artifacts explicitly for the purpose of 
 #### Checklist
 {:.guide-checklist}
 
-- [ ] An empowered, dedicated government employee will serve as the product owner
-- [ ] There will be no planning or reporting requirements that run counter to agile (i.e., there are no dates by which specific tasks are to be completed and no specifications of exact functionality that will be required — whether in the RFP, the acquisition plan, or legislation)
-- [ ] There will be a government-employed software developer who will ensure compliance with the QASP at the end of each sprint
-- [ ] People providing oversight, above the level of the government product owner, are willing to primarily receive "reports" in the form of demonstrations of functioning software and burn down charts, combined with a review of user stories that have been completed and those that remain to be completed
-- [ ] There is an identified person within the agency who is prepared to provide repeated explanations of progress to each level of oversight, because artifacts of measuring progress on an agile project are unfamiliar to people accustomed to waterfall projects
+- An empowered, dedicated government employee will serve as the product owner
+- There will be no planning or reporting requirements that run counter to agile (i.e., there are no dates by which specific tasks are to be completed and no specifications of exact functionality that will be required — whether in the RFP, the acquisition plan, or legislation)
+- There will be a government-employed software developer who will ensure compliance with the QASP at the end of each sprint
+- People providing oversight, above the level of the government product owner, are willing to primarily receive "reports" in the form of demonstrations of functioning software and burn down charts, combined with a review of user stories that have been completed and those that remain to be completed
+- There is an identified person within the agency who is prepared to provide repeated explanations of progress to each level of oversight, because artifacts of measuring progress on an agile project are unfamiliar to people accustomed to waterfall projects
 
 #### Key questions
 {:.key-questions}
@@ -145,9 +148,9 @@ For larger projects, you’ll need to contract for a development team indefinite
 #### Checklist
 {:.guide-checklist}
 
-- [ ] There are one or more budget-office employees with experience developing complex, custom software in an agile environment who will assist in evaluating custom-software budget requests
-- [ ] If there are no budget-office employees with relevant experience, the legislature has a contract with a non-conflicted vendor — one with no other contracts with the state and no ties or partnerships with any COTS products
-- [ ] The agency has identified a specific government employee who will be providing technical leadership for the project, along with evidence of their experience developing custom software in an agile environment
+- There are one or more budget-office employees with experience developing complex, custom software in an agile environment who will assist in evaluating custom-software budget requests
+- If there are no budget-office employees with relevant experience, the legislature has a contract with a non-conflicted vendor — one with no other contracts with the state and no ties or partnerships with any COTS products
+- The agency has identified a specific government employee who will be providing technical leadership for the project, along with evidence of their experience developing custom software in an agile environment
 
 #### Key questions
 {:.key-questions}
@@ -170,12 +173,12 @@ So rather than acquiring one giant piece of proprietary software, insist that yo
 {:.guide-checklist}
 
 
-- [ ] Systems, whether cloud-native or being moved to the cloud, will use service-oriented architecture (SOA) that is vendor- and product-agnostic
-- [ ] To ensure data portability, files will be stored in open, non-patented formats supported by multiple vendors
-- [ ] APIs will use open schemas
-- [ ] To avoid product lock-in, open source software will be used instead of commercial software whenever possible
-- [ ] Government will own all vendor work products
-- [ ] If using COTS components, the vendor will provide a path to leave for a competitor — both contractually and technologically — with a cost-effective way to export all stored data
+- Systems, whether cloud-native or being moved to the cloud, will use service-oriented architecture (SOA) that is vendor- and product-agnostic
+- To ensure data portability, files will be stored in open, non-patented formats supported by multiple vendors
+- APIs will use open schemas
+- To avoid product lock-in, open source software will be used instead of commercial software whenever possible
+- Government will own all vendor work products
+- If using COTS components, the vendor will provide a path to leave for a competitor — both contractually and technologically — with a cost-effective way to export all stored data
 
 #### Key questions
 {:.key-questions}
@@ -195,11 +198,11 @@ Don’t measure progress in "story points," lines of code written, person-hours 
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The vendor team will use agile
-- [ ] The vendor will be required to deploy functioning software into a government-owned environment at the end of each sprint
-- [ ] The project team will interview and test their work with end users routinely, both to inform planned work and to determine whether the work already done is correct
-- [ ] The RFP will have no mention of a detailed project schedule, and there will be no mention of Gantt charts or Independent Validation and Verification (IV&amp;V) contracts
-- [ ] A legislative staffer will be assigned to provide oversight of the project, and will coordinate with project leadership to monitor progress by periodically attending sprint reviews
+- The vendor team will use agile
+- The vendor will be required to deploy functioning software into a government-owned environment at the end of each sprint
+- The project team will interview and test their work with end users routinely, both to inform planned work and to determine whether the work already done is correct
+- The RFP will have no mention of a detailed project schedule, and there will be no mention of Gantt charts or Independent Validation and Verification (IV&amp;V) contracts
+- A legislative staffer will be assigned to provide oversight of the project, and will coordinate with project leadership to monitor progress by periodically attending sprint reviews
 
 #### Key questions
 {:.key-questions}
@@ -214,7 +217,7 @@ The greater the amount of money spent on a software project, the greater the odd
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The requesting agency understands they’re not being given a small percentage of the resources they believe they need — instead, they’re being given an entirely new process to procure software, as well as adequate funding under that model
+- The requesting agency understands they’re not being given a small percentage of the resources they believe they need — instead, they’re being given an entirely new process to procure software, as well as adequate funding under that model
 
 #### Key questions
 {:.key-questions}
@@ -236,10 +239,10 @@ As the number of people who work on a project increases, so does the amount of t
 #### Checklist
 {:.guide-checklist}
 
-- [ ] If the project will require multiple contracts, the scope of the first contract has been identified, and there is a general idea of what some other contracts may be comprised of
-- [ ] If there will be more than one development team, service-oriented architecture (SOA) will be employed
-- [ ] When possible, contracts will be sized within the simplified procurement threshold so they can be awarded quickly and easily
-- [ ] The identified first project has relatively low technical complexity, low political risk, and high end-user value, so that teams can start practicing working this way while experimenting and learning in a relatively low-risk environment
+- If the project will require multiple contracts, the scope of the first contract has been identified, and there is a general idea of what some other contracts may be comprised of
+- If there will be more than one development team, service-oriented architecture (SOA) will be employed
+- When possible, contracts will be sized within the simplified procurement threshold so they can be awarded quickly and easily
+- The identified first project has relatively low technical complexity, low political risk, and high end-user value, so that teams can start practicing working this way while experimenting and learning in a relatively low-risk environment
 
 #### Key questions
 {:.key-questions}
@@ -254,10 +257,10 @@ Don’t replace the old legacy system with a new legacy system. Insist on loosel
 #### Checklist
 {:.guide-checklist}
 
-- [ ] Each contract will be written to deliver value to end users — they’re not for "maintaining servers" or "setting up a database," but for "adding a web-based permit application system" or "simplifying the intake process"
-- [ ] There will be no single "enterprise architect," because the architecture will emerge iteratively throughout the agile process
-- [ ] If the project is large enough that it will include multiple scrum teams working simultaneously, there is no expectation that all members of all teams will ever be in meetings together
-- [ ] The RFP will specify the use of service-oriented architecture for each component
+- Each contract will be written to deliver value to end users — they’re not for "maintaining servers" or "setting up a database," but for "adding a web-based permit application system" or "simplifying the intake process"
+- There will be no single "enterprise architect," because the architecture will emerge iteratively throughout the agile process
+- If the project is large enough that it will include multiple scrum teams working simultaneously, there is no expectation that all members of all teams will ever be in meetings together
+- The RFP will specify the use of service-oriented architecture for each component
 
 #### Key questions
 {:.key-questions}
@@ -280,13 +283,13 @@ Although the procurement team will be tempted to seek out vendors who have previ
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The RFP will be streamlined (no more than 20 pages), and comprehensible by software developers who do not normally work with government
-- [ ] The acquisition plan includes reaching out to small vendors to encourage them to bid
-- [ ] The RFP will not be hidden on a registration-required procurement website, but published openly on the web so the vendor community can share it
-- [ ] The RFP will require that vendors name their key personnel in their proposals — no more than three people — such as the lead developer or the lead designer
-- [ ] The acquisition plan includes interviewing the finalists about their proposed approach, questioning the named key personnel, _not_ the vendor’s sales staff
-- [ ] Vendor employees will not be required to work on-site at a government facility
-- [ ] Vendor teams and the government product owner will be permitted to use a desktop-based video call service, a real-time chat tool, and a public, Git-based version-control system, such as [those available for use by remote employees of the General Service Administration](https://www.gsa.gov/reference/for-gsa-employees/on-the-go) and [other tools commonly used by agile development teams](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF#page=3)
+- The RFP will be streamlined (no more than 20 pages), and comprehensible by software developers who do not normally work with government
+- The acquisition plan includes reaching out to small vendors to encourage them to bid
+- The RFP will not be hidden on a registration-required procurement website, but published openly on the web so the vendor community can share it
+- The RFP will require that vendors name their key personnel in their proposals — no more than three people — such as the lead developer or the lead designer
+- The acquisition plan includes interviewing the finalists about their proposed approach, questioning the named key personnel, _not_ the vendor’s sales staff
+- Vendor employees will not be required to work on-site at a government facility
+- Vendor teams and the government product owner will be permitted to use a desktop-based video call service, a real-time chat tool, and a public, Git-based version-control system, such as [those available for use by remote employees of the General Service Administration](https://www.gsa.gov/reference/for-gsa-employees/on-the-go) and [other tools commonly used by agile development teams](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF#page=3)
 
 #### Key questions
 {:.key-questions}
@@ -304,10 +307,10 @@ If the software is published openly, vendors’ employees will be eager to work 
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The RFP will require that software source code be written and maintained in public on a social-coding platform (e.g., [GitHub](http://github.com/) or [GitLab](https://gitlab.com/)), from day one
-- [ ] The RFP will require that software be explicitly dedicated to the public domain or published under an [open source license](https://opensource.org/licenses)
-- [ ] The RFP will use best security practices by requiring that software be strictly separated from data and secrets (e.g., passwords), with automated testing to make sure that separation is maintained
-- [ ] The RFP will require that software be documented sufficiently well that a developer with no connection to the project can use it to run their own copy of the software
+- The RFP will require that software source code be written and maintained in public on a social-coding platform (e.g., [GitHub](http://github.com/) or [GitLab](https://gitlab.com/)), from day one
+- The RFP will require that software be explicitly dedicated to the public domain or published under an [open source license](https://opensource.org/licenses)
+- The RFP will use best security practices by requiring that software be strictly separated from data and secrets (e.g., passwords), with automated testing to make sure that separation is maintained
+- The RFP will require that software be documented sufficiently well that a developer with no connection to the project can use it to run their own copy of the software
 
 #### Key questions
 {:.key-questions}
@@ -332,11 +335,11 @@ Ultimately, this can provide agencies with a predictable source of funding for s
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The agency recognizes that software must be improved continuously as long as it is in use, because "maintenance" is functionally the same as building software in the first place
-- [ ] The agency plans to procure agile development services
-- [ ] You have talked with the requesting agency to determine if they would prefer to receive funding over years, as a predictable stream of operational funding, instead of as a lump sum
-- [ ] This approach has been coordinated with the governor’s office, the budget office, agencies, and the state IT agency — this is likely a radical change that will require trust and cooperation between all parties
-- [ ] If an agency’s request is at a high risk of failure, you will allocate only a few million dollars in the first year, increasing funding as the project delivers value
+- The agency recognizes that software must be improved continuously as long as it is in use, because "maintenance" is functionally the same as building software in the first place
+- The agency plans to procure agile development services
+- You have talked with the requesting agency to determine if they would prefer to receive funding over years, as a predictable stream of operational funding, instead of as a lump sum
+- This approach has been coordinated with the governor’s office, the budget office, agencies, and the state IT agency — this is likely a radical change that will require trust and cooperation between all parties
+- If an agency’s request is at a high risk of failure, you will allocate only a few million dollars in the first year, increasing funding as the project delivers value
 
 #### Key questions
 {:.key-questions}
@@ -354,11 +357,11 @@ It is no kindness to fund a project that is going to fail. If the agency doesn�
 #### Checklist
 {:.guide-checklist}
 
-- [ ] The agency will rely on the U.S. Digital Service’s [Digital Services Playbook](https://playbook.cio.gov/)
-- [ ] If building a website, the agency will direct the vendor to use the [United States Web Design System (USWDS)](https://designsystem.digital.gov/)
-- [ ] The agency will adhere to the Defense Innovation Board’s "[Ten Commandments of Software](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF)"
-- [ ] The agency has read this handbook
-- [ ] The rules and questions found in the Defense Innovation Board’s "[Detecting Agile BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)" guide have been applied to and asked of the agency, and their answers are satisfactory
+- The agency will rely on the U.S. Digital Service’s [Digital Services Playbook](https://playbook.cio.gov/)
+- If building a website, the agency will direct the vendor to use the [United States Web Design System (USWDS)](https://designsystem.digital.gov/)
+- The agency will adhere to the Defense Innovation Board’s "[Ten Commandments of Software](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF)"
+- The agency has read this handbook
+- The rules and questions found in the Defense Innovation Board’s "[Detecting Agile BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)" guide have been applied to and asked of the agency, and their answers are satisfactory
 
 #### Key questions
 {:.key-questions}
