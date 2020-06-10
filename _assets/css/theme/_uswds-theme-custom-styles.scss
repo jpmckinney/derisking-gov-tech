@@ -335,9 +335,11 @@ $theme-show-notifications: false;
 }
 
 ////State Guidelines
+
 .usa-layout-docs__main .guide-checklist,
 .usa-layout-docs__main .key-questions {
   color: color('white');
+  max-width: measure(4);
   padding: units(1);
 }
 
@@ -350,5 +352,15 @@ $theme-show-notifications: false;
 }
 
 .guide-checklist + ul, .key-questions + ul {
-  background-color: color('blue-5v');
+  background-color: color('blue-5');
+  margin-top:0;
+  max-width: measure(4);
+  padding-top: units(1);
+  padding-right: units(1);
+  padding-bottom: units(1);
+}
+
+//space between list items in the cheklist/key questions
+.guide-checklist + ul li {
+  margin-bottom: units(1);
 }

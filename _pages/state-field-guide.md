@@ -211,7 +211,7 @@ Don’t measure progress in "story points," lines of code written, person-hours 
 
 The greater the amount of money spent on a software project, the greater the odds of failure. As a general rule, plan to spend no more than \$10 million on an entire project.<sup id="reference-10"><a href="#footnote-10">10</a></sup> (There are rare exceptions for extraordinarily complex systems like unemployment insurance, Medicaid Eligibility &amp; Enrollment, and Medicaid Management Information Systems.)
 
-####Checklist
+#### Checklist
 {:.guide-checklist}
 
 - [ ] The requesting agency understands they’re not being given a small percentage of the resources they believe they need — instead, they’re being given an entirely new process to procure software, as well as adequate funding under that model
@@ -233,7 +233,7 @@ In addition to preventing lock-in, there’s another benefit to using smaller co
 
 As the number of people who work on a project increases, so does the amount of time that all of those people have to spend coordinating with each other. The solution to this is to have them work in parallel, which is possible when building with loosely coupled parts. Having more than one vendor team working on your project also provides you with more competitive options if you need to change vendors.
 
-####Checklist
+#### Checklist
 {:.guide-checklist}
 
 - [ ] If the project will require multiple contracts, the scope of the first contract has been identified, and there is a general idea of what some other contracts may be comprised of
