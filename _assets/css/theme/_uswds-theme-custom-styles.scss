@@ -20,8 +20,9 @@ i.e.
 ----------------------------------------
 */
 
-$max-width-lg: 80%;
-$max-width-md: 60%;
+$img-max-width-lg: 80%;
+$img-max-width-md: 60%;
+$h2-max-width: 32ex; //the measure function minimum is 44ex, which is too large
 $guide-illo-size: 200px;
 $theme-show-notifications: false;
 
@@ -205,7 +206,7 @@ $theme-show-notifications: false;
 
 .hero-img {
   @include at-media('tablet') {
-    max-width: $max-width-lg;
+    max-width: $img-max-width-lg;
   }
 
 }
@@ -251,7 +252,7 @@ $theme-show-notifications: false;
 }
 
 .tagline__image {
-  max-width: $max-width-lg;
+  max-width: $img-max-width-lg;
 }
 
 // Side Navigation
@@ -321,9 +322,9 @@ $theme-show-notifications: false;
 .usa-layout-docs__main h2 {
   @include grid-col(12);
   border-top: 1px solid color('primary-darker');
-  border-left: 1px solid color('primary-darker');
+  // border-left: 1px solid color('primary-darker');
   padding-top: units(1.5);
-  padding-left: units(1.5);
+  // padding-left: units(1.5);
 
   @include at-media('tablet') {
     @include grid-col(8);
@@ -356,7 +357,7 @@ $theme-show-notifications: false;
   margin-top:0;
   max-width: measure(4);
   padding-top: units(1);
-  padding-right: units(1);
+  padding-right: units(2);
   padding-bottom: units(1);
 }
 
