@@ -133,6 +133,11 @@ $theme-show-notifications: false;
 
 //// TYPOGRAPHY
 
+.usa-layout-docs__main {
+  max-width: units('tablet');
+}
+
+
 // Headings
 .usa-prose{
   h1,h2,h3,h4,h5,h6 {
@@ -299,7 +304,6 @@ $theme-show-notifications: false;
   justify-content: center;
   margin-top: units(2);
   margin-bottom:  units(1);
-  max-width: measure(4);
 }
 
 //jekyll wraps image in a p
@@ -317,11 +321,9 @@ $theme-show-notifications: false;
 
   border-top: 1px solid color('primary-darker');
   padding-top: units(1.5);
-  max-width: $h2-max-width;
 }
 
 .usa-layout-docs__main h3 {
-  max-width: $h3-max-width;
 }
 
 ////State Guidelines
@@ -335,7 +337,6 @@ $theme-show-notifications: false;
 .usa-layout-docs__main .guide-checklist,
 .usa-layout-docs__main .key-questions {
   color: color('white');
-  max-width: measure(4);
   padding: units(1);
 }
 
@@ -350,7 +351,6 @@ $theme-show-notifications: false;
 .guide-checklist + ul, .key-questions + ul {
   background-color: color('blue-5');
   margin-top:0;
-  max-width: measure(4);
   padding-top: units(1);
   padding-right: units(2);
   padding-bottom: units(1);
