@@ -360,3 +360,13 @@ $theme-show-notifications: false;
 .guide-checklist + ul li {
   margin-bottom: units(1);
 }
+
+//QASP table
+.qasp-table {
+  width: units('tablet');
+}
+
+.qasp-table td, .qasp-table th {
+  @include u-font('body', 'xs');
+  vertical-align: top;
+}
