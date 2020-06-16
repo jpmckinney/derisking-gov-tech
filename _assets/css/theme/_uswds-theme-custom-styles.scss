@@ -20,7 +20,8 @@ i.e.
 ----------------------------------------
 */
 
-$img-max-width-lg: 80%;
+$img-max-width-xl: 80%;
+$img-max-width-lg: 65%;
 $img-max-width-md: 60%;
 //the min. value for measure() is 44ex, which is too large for headings
 $h2-max-width: 34ex;  // 0.5 * 68ex (body measure)
@@ -213,7 +214,9 @@ $theme-show-notifications: false;
 
 .hero-img {
   @include at-media('tablet') {
+    margin-left: units(2);
     max-width: $img-max-width-lg;
+
   }
 
 }
@@ -259,7 +262,7 @@ $theme-show-notifications: false;
 }
 
 .tagline__image {
-  max-width: $img-max-width-lg;
+  max-width: $img-max-width-xl;
 }
 
 // Side Navigation
