@@ -114,6 +114,19 @@ There are vendor teams that specialize in working as we’ve described here. As 
 
 This approach will require coordination and buy-in from your procurement teams. Procurement personnel are often accustomed to the traditional approach of outsourcing IT projects: one large procurement based on lengthy RFP documents, asking for lengthy proposals and outdated, waterfall-style certifications and qualifications from vendors. Generally, vendors that use agile, user-centered methods don’t have any idea what "CMMI" or "EVMS" is — such standards are no longer considered best practices for creating flexible and cost-effective software systems. This is a barrier to entry for many of the vendors that might be new to government and don’t want to expend all of the resources required to write a proposal.
 
-<p align="center">* * *</p>
+<p align="center">* * \*</p>
 
 Modern software development processes are founded on user-centered design, agile software development, product ownership, DevOps, building with loosely coupled parts, and modular contracting. By understanding those core concepts, you’re in a great position to understand how to budget for software more effectively, and to understand the rest of this handbook.
+
+## Endnotes
+<p class="footnote" id="footnote-1">1. Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. From The Standish Group’s "<a href="https://www.standishgroup.com/sample_research_files/Haze4.pdf">Haze</a>," based on their CHAOS database. <a href="#reference-1">↩︎</a></p>
+
+<p class="footnote" id="footnote-2">2. Of the $90 billion in federal IT spending in FY2019, 80% is allocated for maintenance of legacy software, according to the GAO’s June 2019 report, "<a href="https://www.gao.gov/products/GAO-19-471">Agencies Need to Develop Modernization Plans for Critical Legacy Systems</a>." They write that inadequately-maintained legacy software leads to security risks, unmet mission needs, staffing issues, and increased costs. <a href="#reference-2">↩︎</a></p>
+
+<p class="footnote" id="footnote-3">3. The National Association of State Budget Officers’ “2018 State Expenditure Report” finds that federal grants provide an average of 31.2% of each state’s budget, climbing by 5.7% in FY2018. <a href="#reference-3">↩︎</a></p>
+
+<p class="footnote" id="footnote-4">4. A user story reads in form of "as a [role], I need [this thing], so I can [accomplish this]." For example, "as a social worker, I need case notes to be cached on my phone, so that I can access case notes in areas without mobile phone service." All technical work is done in the service of addressing a user story. <a href="#reference-4">↩︎</a></p>
+
+<p class="footnote" id="footnote-5">5. Stack Overflow’s 2018 survey of 57,075 developers found that <a href="https://insights.stackoverflow.com/survey/2018#work-_-which-methodologies-do-developers-use">85% of professional software developers use agile</a>. And <a href="https://softwaretestinggenius.com/docs/4aa5-7619.pdf">a 2015 study by Hewlett Packard</a> found that "the vast majority of organizations [they] surveyed reported that today they primarily use Agile methods." The process described here is not extraordinary in any way. <a href="#reference-5">↩︎</a></p>
+
+<p class="footnote" id="footnote-6">6. For more on DevOps, see the Defense Innovation Board’s "<a href="https://media.defense.gov/2018/Oct/09/2002049592/-1/-1/0/DIB_DEVELOPMENT_ENVIRONMENT_2018.10.05.PDF">Is Your Development Environment Holding You Back? A DIB Guide for the Acquisition Community</a>." <a href="#reference-6">↩︎</a></p>

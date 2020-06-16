@@ -370,3 +370,12 @@ $theme-show-notifications: false;
   @include u-font('body', 'xs');
   vertical-align: top;
 }
+
+//Endnotes
+.footnote {
+  @include u-font('body','xs');
+}
+
+#endnotes {
+  @include u-font('heading', 'md');
+}
