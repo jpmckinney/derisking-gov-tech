@@ -476,7 +476,6 @@ Per [the "Require demos, not memos" best practice](#require-demos-not-memos), he
 
 ## Endnotes
 
-
 <p class="footnote" id="footnote-1">1. For details, see the U.S. Department of Health &amp; Human Services’ Office of the Inspector General report about the Healthcare.gov failure, "<a href="https://oig.hhs.gov/oei/reports/oei-06-14-00350.asp">Case Study of CMS Management of the Federal Marketplace</a>" and Harvard Business School case study, "<a href="https://hbswk.hbs.edu/item/the-spectacular-fall-and-fix-of-healthcare-gov">The Spectacular Fall and Fix of HealthCare.gov</a>." <a href="#reference-1">↩︎</a></p>
 
 <p class="footnote" id="footnote-2">2. For an example RFP, see the <a href="https://github.com/ustaxcourt/case-management-rfq">U.S. Tax Court’s 2018 EF-CMS RFQ</a>, which includes a QASP, under the <a href="https://github.com/ustaxcourt/case-management-rfq/blob/master/02_SOW.md#deliverables-and-performance-standards">"Deliverables and Performance Standards" section</a>. <a href="#reference-2">↩︎</a></p>

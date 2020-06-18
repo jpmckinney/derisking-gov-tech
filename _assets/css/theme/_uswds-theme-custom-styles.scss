@@ -20,9 +20,16 @@ i.e.
 ----------------------------------------
 */
 
-$img-max-width-xl: 80%;
-$img-max-width-lg: 65%;
-$img-max-width-md: 60%;
+$img-max-width-3xl:  100%;
+$img-max-width-2xl:   90%;
+$img-max-width-xl:    80%;
+$img-max-width-lg:    70%;
+$img-max-width-md:    60%;
+$img-max-width-sm:    50%;
+$img-max-width-xs:    40%;
+$img-max-width-2xs:   30%;
+
+
 //the min. value for measure() is 44ex, which is too large for headings
 $h2-max-width: 34ex;  // 0.5 * 68ex (body measure)
 $h3-max-width: 51ex;  // 0.75 * 68ex (body measure)
@@ -205,18 +212,28 @@ $theme-show-notifications: false;
 }
 
 .usa-hero{
-  background: color('secondary');
+  background: color('cyan-5v');
   @include at-media('desktop') {
     padding-top: units(8);
     padding-bottom: units(8);
   }
 }
 
+.usa-button:visited {
+  color: color('primary-darker');
+}
+
+.hero-img__container {
+  text-align: center;
+}
+
 .hero-img {
   @include at-media('tablet') {
     margin-left: units(2);
+    max-width: $img-max-width-xl;
+  }
+  @include at-media('desktop') {
     max-width: $img-max-width-lg;
-
   }
 
 }
@@ -262,7 +279,11 @@ $theme-show-notifications: false;
 }
 
 .tagline__image {
-  max-width: $img-max-width-xl;
+  display: none;
+  @include at-media('tablet') {
+      display: block;
+      max-width: $img-max-width-md;
+  }
 }
 
 // Side Navigation
