@@ -400,10 +400,12 @@ $theme-show-notifications: false;
 }
 
 //Endnotes
-.footnote {
+.footnotes ol {
+  padding-left: 0;
+  list-style-position: inside;
   @include u-font('body','xs');
 }
 
-#endnotes {
+#footnotes {
   @include u-font('heading', 'md');
 }
