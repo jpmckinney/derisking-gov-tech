@@ -263,19 +263,18 @@ $theme-show-notifications: false;
 
 //tagline
 .tagline{
-  background-color: color('cyan-5v');
+  padding-bottom: 0;
 }
 
 .usa-prose .tagline__heading {
-  color: color('primary');
-  @include u-font('heading','md');
+  // @include u-font('heading','md');
   @include u-line-height('heading', 3);
   margin-top: 0;
   margin-right: 0;
   margin-bottom: units(2);
 
   @include at-media('tablet') {
-    @include u-font('heading','lg');
+    // @include u-font('heading','lg');
   }
 }
 
