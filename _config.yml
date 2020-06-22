@@ -109,10 +109,11 @@ searchgov:
 # changed if you know what they do
 ##########################################################################################
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+# collections:
+#   pages:
+#     output: true
+#     permalink: /:path/
+include: ['_pages']
 
 permalink: pretty
 

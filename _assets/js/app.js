@@ -2,8 +2,8 @@
 console.log("Hi from Federalist");
 
 
-var sidenav = document.querySelector('.usa-sidenav');
-// var sidenav = false;
+// var sidenav = document.querySelector('.usa-sidenav');
+var sidenav = false;
 // console.log(sidenav);
 if (sidenav) {
   var headings = document.querySelectorAll('h2');

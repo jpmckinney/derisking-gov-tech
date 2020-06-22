@@ -1,7 +1,10 @@
 ---
 title: Getting started
+permalink: /getting-started/
 layout: page
 sidenav: true
+subnav:
+  -
 
 ---
 
