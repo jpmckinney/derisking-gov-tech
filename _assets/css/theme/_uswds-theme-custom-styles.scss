@@ -19,6 +19,7 @@ i.e.
 @include u-padding-right('05');
 ----------------------------------------
 */
+$theme-show-notifications: false;
 
 $img-max-width-3xl:  100%;
 $img-max-width-2xl:   90%;
@@ -29,10 +30,9 @@ $img-max-width-sm:    50%;
 $img-max-width-xs:    40%;
 $img-max-width-2xs:   30%;
 
-
-//the min. value for measure() is 44ex, which is too large for headings
 $section-img-size: 200px;
-$theme-show-notifications: false;
+
+$bullet-spacing: 1.25rem; // matches defualt in MD
 
 //// HEADER
 
@@ -390,8 +390,8 @@ $theme-show-notifications: false;
 }
 
 .guide-checklist + ul li {
-  padding-left: units(1);
-  text-indent: (-1 * units(1)) - units(.5); //magic number
+  padding-left: $bullet-spacing;
+  text-indent: (-1 * $bullet-spacing);
   margin-bottom: units(1);
 
   &:before {
