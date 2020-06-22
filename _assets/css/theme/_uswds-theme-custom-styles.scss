@@ -31,9 +31,7 @@ $img-max-width-2xs:   30%;
 
 
 //the min. value for measure() is 44ex, which is too large for headings
-$h2-max-width: 34ex;  // 0.5 * 68ex (body measure)
-$h3-max-width: 51ex;  // 0.75 * 68ex (body measure)
-$guide-illo-size: 200px;
+$section-img-size: 200px;
 $theme-show-notifications: false;
 
 //// HEADER
@@ -342,7 +340,7 @@ $theme-show-notifications: false;
 .guide-sect__img {
   padding-top: units('205');
   padding-bottom: units('205');
-  width: $guide-illo-size;
+  width: $section-img-size;
 }
 
 .usa-layout-docs__main h2 {
@@ -384,9 +382,22 @@ $theme-show-notifications: false;
   padding-bottom: units(1);
 }
 
-//space between list items in the cheklist/key questions
+
+.guide-checklist + ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: units(1);
+}
+
 .guide-checklist + ul li {
+  padding-left: units(1);
+  text-indent: (-1 * units(1)) - units(.5); //magic number
   margin-bottom: units(1);
+
+  &:before {
+    content: '\25A1';
+    padding-right: units(1);
+  }
 }
 
 //QASP table
@@ -401,8 +412,7 @@ $theme-show-notifications: false;
 
 //Endnotes
 .footnotes ol {
-  padding-left: 0;
-  list-style-position: inside;
+  padding-left: units(2);
   @include u-font('body','xs');
 }
 
