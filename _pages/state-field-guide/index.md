@@ -4,6 +4,35 @@ title: State Field Guide
 permalink: /state-field-guide/
 sidenav: state
 sticky_sidenav: true
+subnav:
+- text: Think about risk in a new way
+  href: '#think-about-risk-in-a-new-way'
+- text: Procure services, not software
+  href: '#procure-services-not-software'
+- text: Beware the customized commercial software trap
+  href: '#beware-the-customized-commercial-software-trap'
+- text: Require demos, not memos
+  href: '#require-demos-not-memos'
+- text: Hire tech talent in-house
+  href: '#hire-tech-talent-in-house'
+- text: Minimize the cost of change
+  href: '#minimize-the-cost-of-change'
+- text: Measure success based on iterative outcomes, not project milestones
+  href: '#measure-success-based-on-iterative-outcomes-not-project-milestones'
+- text: Limit total spending
+  href: '#limit-total-spending'
+- text: Limit contract sizes
+  href: '#limit-contract-sizes'
+- text: Fund systems, not monoliths
+  href: '#fund-systems-not-monoliths'
+- text: Expand your vendor pool
+  href: '#expand-your-vendor-pool'
+- text: Share your software
+  href: '#share-your-software'
+- text: Budget for software as an operational expense
+  href: '#budget-for-software-as-an-operational-expense'
+- text: Ask technical questions of agencies
+  href: '#ask-technical-questions-of-agencies'
 ---
 
 
