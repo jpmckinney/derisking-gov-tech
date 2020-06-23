@@ -217,6 +217,10 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   }
 }
 
+.usa-section--dark .usa-button {
+  color: color('primary-darker');
+}
+
 .usa-button:visited {
   color: color('primary-darker');
 }
