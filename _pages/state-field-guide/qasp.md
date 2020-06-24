@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Appendix: QASP'
+title: Appendix\:QASP
 permalink: /state-field-guide/qasp/
 sidenav: state
 sticky_sidenav: true
