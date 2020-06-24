@@ -6,3 +6,9 @@ state:
     href: /state-field-guide/questions-to-ask
   - text: Appendix
     href: /state-field-guide/qasp/
+
+getting-started:
+  - text: Introduction
+    href: /getting-started/
+  - text: Basic principles of modern software design
+    href: /getting-started/basic-principles/
