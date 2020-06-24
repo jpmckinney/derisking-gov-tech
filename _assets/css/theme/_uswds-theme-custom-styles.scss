@@ -293,7 +293,7 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 }
 
 // Side Navigation
-.usa-layout-docs__sidenav {
+.usa-sticky-sidenav {
   @include at-media('desktop') {
     position: sticky;
     top: 0;
