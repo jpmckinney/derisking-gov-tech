@@ -10,7 +10,7 @@ sticky_sidenav: true
 {% asset qasp-checks.svg class="guide-sect__img" alt="" %}
 </div>
 
-Per [the "Require demos, not memos" best practice](#require-demos-not-memos), here is a sample QASP, which should be incorporated into agile software RFPs.
+Per [the "Require demos, not memos" best practice]({{ site.baseurl }}/state-field-guide/#require-demos-not-memos), here is a sample QASP, which should be incorporated into agile software RFPs.
 
 | **Deliverable** | **Performance Standard(s)** | **Acceptable Quality Level** | **Method of Assessment** |
 | --- | --- | --- | --- |
