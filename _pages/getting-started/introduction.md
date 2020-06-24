@@ -3,7 +3,7 @@ title: Getting started
 permalink: /getting-started/
 layout: page
 sidenav: getting-started
-subnav: true
+sticky_sidenav: true
 ---
 
 # Getting Started
