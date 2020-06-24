@@ -6,7 +6,7 @@ sidenav: state
 sticky_sidenav: true
 ---
 
-## Appendix A: Questions to ask
+## Questions to ask
 <div markdown="1" class="guide-sect__img-container">
 {% asset questions.svg class="guide-sect__img" alt="" %}
 </div>
