@@ -1,18 +1,9 @@
 ---
 layout: page
 title: Questions to aks
-permalink: /state-field-guide/questions-to-ask/
-sidenav: state-guide
+permalink: /state-field-guide/questions-to-ask
+sidenav: state
 sticky_sidenav: true
-subnav:
-- text: Communicating with prototypes
-  href: '#communicating-with-prototypes'
-- text: Building prototypes with Federalist
-  href: '#building-prototypes-with-federalist'
-- text: Getting started with Federalist
-  href: '#getting-started-with-federalist'
-- text: Authorized prototyping tools
-  href: '#authorized-prototyping-tools'
 ---
 
 ## Appendix A: Questions to ask

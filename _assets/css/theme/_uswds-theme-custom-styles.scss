@@ -217,6 +217,10 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   }
 }
 
+.usa-section--dark .usa-button {
+  color: color('primary-darker');
+}
+
 .usa-button:visited {
   color: color('primary-darker');
 }
@@ -289,7 +293,7 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 }
 
 // Side Navigation
-.usa-layout-docs-sidenav {
+.usa-layout-docs__sidenav {
   @include at-media('desktop') {
     position: sticky;
     top: 0;
