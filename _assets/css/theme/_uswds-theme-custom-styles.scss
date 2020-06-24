@@ -308,6 +308,10 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   @include u-text('ink');
 }
 
+.usa-sidenav a:hover {
+  color: inherit;
+}
+
 .usa-sidenav > .usa-sidenav__item {
   padding-left: 0;
 }
@@ -324,8 +328,8 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   bottom: 0;
 }
 
-.usa-sidenav a:hover {
-  color: inherit;
+.usa-sidenav__sublist a {
+  padding-left: units(3);
 }
 
 // Dark sections
