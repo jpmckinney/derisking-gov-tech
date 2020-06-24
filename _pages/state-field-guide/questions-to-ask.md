@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Questions to aks
+title: Questions to ask
 permalink: /state-field-guide/questions-to-ask
 sidenav: state
 sticky_sidenav: true
