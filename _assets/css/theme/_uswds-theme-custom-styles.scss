@@ -295,13 +295,12 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 // Side Navigation
 .usa-sticky-sidenav {
   @include at-media('desktop') {
+    align-self: flex-start;
+    max-height: 100vh;
+    overflow-y: auto;
     position: sticky;
     top: 0;
-    align-self: flex-start;
   }
-  // @include at-media('dekstop') {
-  //   position: sticky;
-  // }
 }
 
 .usa-sidenav a {
