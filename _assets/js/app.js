@@ -66,7 +66,7 @@ function setCurrentLink(){
     if (oldLink) {
       oldLink.classList.remove('usa-current');
     }
-    let currentLink = document.querySelector('[href="#'+href+'"]').parentElement;
+    let currentLink = document.querySelector('.usa-sidenav__sublist [href="#'+href+'"]').parentElement;
     currentLink.classList.add('usa-current');
 
   }
