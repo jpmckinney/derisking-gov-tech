@@ -42,7 +42,7 @@ function addTocItem (el, parent) {
 
 
 /**
- * Find the most recently passed heading and adds a usa-currentl
+ * Find the most recently passed heading and adds a usa-current
  * class to the correspoing link in the sidenav subnav
  */
 function setCurrentLink(){
