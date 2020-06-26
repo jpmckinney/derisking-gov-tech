@@ -284,6 +284,21 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   color: color('primary-darker');
 }
 
+.tagline--citation {
+  color: color('primary');
+}
+
+p.tagline__caption {
+  @include u-font('body', 'xs');
+  color: color('base-dark');
+  text-indent: -1 * units(1);
+  max-width: measure(5);
+}
+
+.tagline__caption .tagline--citation {
+  @include u-text('bold');
+}
+
 .tagline__image {
   display: none;
   @include at-media('tablet') {
