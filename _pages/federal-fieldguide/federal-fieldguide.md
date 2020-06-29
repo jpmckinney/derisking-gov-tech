@@ -1,20 +1,20 @@
 ---
-title: Federal field guide
 layout: page
+title: Federal field guide
+permalink: /federal-field-guide/
 sidenav: true
 ---
 
 # De-risking custom software projects: A field guide for federal agencies
 
-Coming soon! 
+Coming soon!
 
-### Planning a custom technology project 
+### Planning a custom technology project
 
 ### Competition
 
-### Doing the Work 
+### Doing the Work
 
 ### How to Conduct Modern Market Research
 
 ### Budgeting for Agile Software Projects
-

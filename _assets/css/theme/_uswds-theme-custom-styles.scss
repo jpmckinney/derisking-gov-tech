@@ -284,6 +284,21 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   color: color('primary-darker');
 }
 
+.tagline--citation {
+  color: color('primary');
+}
+
+p.tagline__caption {
+  @include u-font('body', '3xs');
+  color: color('base-dark');
+  text-indent: -1 * units(1);
+  max-width: measure(5);
+}
+
+.tagline__caption .tagline--citation {
+  @include u-text('bold');
+}
+
 .tagline__image {
   display: none;
   @include at-media('tablet') {
@@ -293,8 +308,22 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 }
 
 // Side Navigation
+.usa-sticky-sidenav {
+  @include at-media('desktop') {
+    align-self: flex-start;
+    max-height: 100vh;
+    overflow-y: auto;
+    position: sticky;
+    top: 0;
+  }
+}
+
 .usa-sidenav a {
   @include u-text('ink');
+}
+
+.usa-sidenav a:hover {
+  color: inherit;
 }
 
 .usa-sidenav > .usa-sidenav__item {
@@ -313,8 +342,8 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   bottom: 0;
 }
 
-.usa-sidenav a:hover {
-  color: inherit;
+.usa-sidenav__sublist a {
+  padding-left: units(3);
 }
 
 // Dark sections
@@ -347,8 +376,7 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   width: $section-img-size;
 }
 
-.usa-layout-docs__main h2 {
-
+.usa-layout-docs__main h2, #footnotes {
   border-top: 1px solid color('primary-darker');
   padding-top: units(1.5);
 }
