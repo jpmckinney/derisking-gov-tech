@@ -289,7 +289,7 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 }
 
 p.tagline__caption {
-  @include u-font('body', 'xs');
+  @include u-font('body', '3xs');
   color: color('base-dark');
   text-indent: -1 * units(1);
   max-width: measure(5);
