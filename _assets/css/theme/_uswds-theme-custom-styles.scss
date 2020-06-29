@@ -201,7 +201,7 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 }
 
 // Hero
-.usa-hero__heading {
+ .usa-section--dark .usa-hero__heading {
   // color: color('primary-darker');
   @include u-font('sans', 'xl');
   @include at-media('tablet') {
@@ -351,7 +351,7 @@ p.tagline__caption {
   @include u-text('secondary');
 }
 
-.usa-section--dark h2 {
+.usa-section--dark h1, .usa-section--dark h2 {
   color: white;
 }
 
