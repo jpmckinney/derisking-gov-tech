@@ -23,13 +23,13 @@ subnav:
   href: '#limit-total-spending'
 - text: Limit contract sizes
   href: '#limit-contract-sizes'
-- text: System not monoliths
+- text: Systems not monoliths
   href: '#fund-systems-not-monoliths'
-- text: Vendor pool
+- text: Expand vendor pool
   href: '#expand-your-vendor-pool'
 - text: Share your software
   href: '#share-your-software'
-- text: Software as operational expense
+- text: Operational not capital
   href: '#budget-for-software-as-an-operational-expense'
 - text: Ask technical questions
   href: '#ask-technical-questions-of-agencies'
@@ -409,7 +409,7 @@ It is no kindness to fund a project that is going to fail. If the agency doesn�
 - What are you doing to avoid paying expensive change fees in the future?
 
 
-## Footnotes
+### Footnotes
 [^failure]: For details, see the U.S. Department of Health &amp; Human Services’ Office of the Inspector General report about the Healthcare.gov failure, "<a href="https://oig.hhs.gov/oei/reports/oei-06-14-00350.asp">Case Study of CMS Management of the Federal Marketplace</a>" and Harvard Business School case study, "<a href="https://hbswk.hbs.edu/item/the-spectacular-fall-and-fix-of-healthcare-gov">The Spectacular Fall and Fix of HealthCare.gov</a>."
 
 [^deployed]: For an example RFP, see the <a href="https://github.com/ustaxcourt/case-management-rfq">U.S. Tax Court’s 2018 EF-CMS RFQ</a>, which includes a QASP, under the <a href="https://github.com/ustaxcourt/case-management-rfq/blob/master/02_SOW.md#deliverables-and-performance-standards">"Deliverables and Performance Standards" section</a>.

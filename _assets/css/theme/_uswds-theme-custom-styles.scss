@@ -376,8 +376,7 @@ p.tagline__caption {
   width: $section-img-size;
 }
 
-.usa-layout-docs__main h2 {
-
+.usa-layout-docs__main h2, #footnotes {
   border-top: 1px solid color('primary-darker');
   padding-top: units(1.5);
 }

@@ -17,7 +17,8 @@ subnav:
   href: '#building-with-loosely-coupled-parts'
 - text: Modular contracting
   href: '#modular-contracting'
-
+- text: Footnotes
+  href: '#footnotes'
 ---
 ## Basic principles of modern software&nbsp;design
 
@@ -103,7 +104,7 @@ This approach will require coordination and buy-in from your procurement teams. 
 
 Modern software development processes are founded on user-centered design, agile software development, product ownership, DevOps, building with loosely coupled parts, and modular contracting. By understanding those core concepts, you’re in a great position to understand how to budget for software more effectively, and to understand the rest of this handbook.
 
-## Footnotes
+### Footnotes
 [^research]: A user story reads in form of "as a [role], I need [this thing], so I can [accomplish this]." For example, "as a social worker, I need case notes to be cached on my phone, so that I can access case notes in areas without mobile phone service." All technical work is done in the service of addressing a user story.
 
 [^first]: Stack Overflow’s 2018 survey of 57,075 developers found that <a href="https://insights.stackoverflow.com/survey/2018#work-_-which-methodologies-do-developers-use">85% of professional software developers use agile</a>. And <a href="https://softwaretestinggenius.com/docs/4aa5-7619.pdf">a 2015 study by Hewlett Packard</a> found that "the vast majority of organizations [they] surveyed reported that today they primarily use Agile methods." The process described here is not extraordinary in any way.
