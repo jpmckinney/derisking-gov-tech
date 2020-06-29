@@ -1,26 +1,27 @@
-#Delivering successful custom technology projects in government
+# Delivering successful custom technology projects in government
 
-##Project description
+## Project description
 The De-risking Government Technology project provides expert, actionable guidance to the public sector for delivering federally-funded, custom technology projects successfully. Such technology projects stand to benefit from an agile and human centered approach to planning, budgeting, buying, implementation and oversight. Putting these approaches into practice lead to better outcomes for US taxpayers and decrease the failure rate of custom IT work.
  
-##Current Challenges 
+## Current Challenges 
 Implementing custom software projects can be extraordinarily costly and risky in a government setting. Decision makers tasked with funding and overseeing custom technology projects have often not been exposed to modern software development techniques before. These stakeholders often rely on outdated procurement processes better suited to physical infrastructure than modern software. As a result, only about 13% of major government software projects succeed.
  
 Today, waterfall software development remains standard at all levels of government. Outdated budgeting and oversight processes have been designed around these very waterfall processes. Adapting to a new, agile approach involves supporting autonomous product teams within government. It also involves training for government leadership on how to budget for, and provide oversight on Agile software procurement, to reduce wasteful spending. Moving toward a user-centered, agile approach to this work can prevent millions of dollars in spending on bad software.
  
 Building on several years of research and learning from procurement and technology professionals at all levels of government, TTS has developed a robust training series and a set of field guides for state, local and federal government partners.
 
-###Field Guides 
+## Field Guides 
 TTS published a set of field guides - designed to provide state and federal decision-makers with actionable strategies to yield more successful custom technology projects. Dozens of best practices are documented, including budgeting for software as an operational expense, limiting contract size, measuring success iteratively, and hiring in-house tech talent. Additionally, the field guides can help leaders identify better outcomes, empowering them with basic knowledge of software design principles.
  
-Field Guide for State governments 
+### Field Guide for State governments 
 40-page guide for executives, budget specialists, legislators, and other decision makers who fund or oversee state government technology projects.
 Published August 2019
  
-###Field Guide for Federal Agencies 
+### Field Guide for Federal Agencies 
 80-page guide for federal executives, product owners, budget specialists and agency staff who fund or oversee state government technology projects.
 Coming soon: July 2020 
-###Training Series
+
+## Training Series
 Key stakeholders responsible for making project decisions (funding, scoping or oversight) may lack specific technical knowledge necessary for evaluating requests for custom software funding, how to write a successful RFP for agile projects or how to balance feasibility, user need and regulatory mandates as a product owner.
 
 To address this knowledge gap - TTS piloted an interactive training series on how to deliver successful technology projects in government. Training series are targeted toward budgeting and procurement staff, legislative aides, departments and agencies requesting funds for IT projects. Training leads to a common vocabulary around agile across government - with an in-depth introduction to agile, user centered design, budgeting and oversight approaches on agile software projects. 
@@ -39,13 +40,13 @@ The series involves four, 2-hour sessions (remote or in-person), designed to inc
 
 State of Colorado 
  
-#Supporting federal agencies and state governments:
+# Supporting federal agencies and state governments:
 
-##Improve Customer Experience: Incorporating user-centered design and agile approaches yield better functioning software. Agile and user-centered approaches ensure the software government funds and procures functions as it is intended to - delivering high quality services to the American public.
+## Improve Customer Experience: Incorporating user-centered design and agile approaches yield better functioning software. Agile and user-centered approaches ensure the software government funds and procures functions as it is intended to - delivering high quality services to the American public.
  
-##Save funds and improve outcomes: Billions of dollars are spent each year on technology in the public sector. This is met with an alarming rate of failure. By reducing the size of contracts, and using approaches to lower the risk of implementation, governments can avoid spending millions of dollars on software that doesn't work.
+## Save funds and improve outcomes: Billions of dollars are spent each year on technology in the public sector. This is met with an alarming rate of failure. By reducing the size of contracts, and using approaches to lower the risk of implementation, governments can avoid spending millions of dollars on software that doesn't work.
 
-#What we've done so far
+# What we've done so far
 In phases 1 & 2, 10x researchers met with state legislators, legislative fiscal staff, budget and contracting officers, as well as gubernatorial policy advisors. Our aim was to reduce risk and deliver value faster to people using IT systems, both inside and outside of government. We learned about their challenges and developed the handbook to provide a comprehensive guide to share insights and best practices.
  
 Since publication, the state field guide has been translated into multiple languages, been written into proposed law and used to inform quality assurance guidelines in multiple state governments. See Waldo's testimony on this work to the Michigan State Senate Appropriations Committee in February 2020.
@@ -55,7 +56,7 @@ Seeking new partners
 
 If you are a state, local or federal agency in need of advice or training on de-risking your custom IT project - please get in touch with alicia.rouault@gsa.gov or randy.hart@gsa.gov 
  
-#Project Team
+# Project Team
 
 Current Team 
 Alicia Rouault
