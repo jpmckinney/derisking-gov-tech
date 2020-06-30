@@ -15,11 +15,11 @@ TTS published a set of field guides - designed to provide state and federal deci
  
 ### [Field Guide for State governments](https://github.com/18F/derisking-gov-tech/blob/master/State%20Field%20Guide%20-%20Agile%20Budgeting%20%26%20Oversight.pdf)
 40-page guide for executives, budget specialists, legislators, and other decision makers who fund or oversee state government technology projects.
-Published August 2019
+<em>Published August 2019</em>
  
 ### Field Guide for Federal Agencies 
 80-page guide for federal executives, product owners, budget specialists and agency staff who fund or oversee state government technology projects.
-Coming soon: July 2020 
+<em>Coming soon: July 2020</em>
 
 ## Training Series
 Key stakeholders responsible for making project decisions (funding, scoping or oversight) may lack specific technical knowledge necessary for evaluating requests for custom software funding, how to write a successful RFP for agile projects or how to balance feasibility, user need and regulatory mandates as a product owner.
@@ -36,7 +36,7 @@ The series involves four, 2-hour sessions (remote or in-person), designed to inc
 
 **- Agile Oversight:** A workshop designed for legislative staff, legislators and federal funders on the importance of adjusting oversight of agile IT projects. Best practices and an interactive discussion of what is working across government.
  
-> “This workshop series was crucial to building foundational knowledge, shared language, and buy-in for modern software development processes across different stakeholder groups. Leading up to the workshops, the 18F team provided guidance on numerous topics like relationship management, procurement and contracting, and product strategy.” —State of Colorado 
+> “This workshop series was crucial to building foundational knowledge, shared language, and buy-in for modern software development processes across different stakeholder groups. Leading up to the workshops, the 18F team provided guidance on numerous topics like relationship management, procurement and contracting, and product strategy.” <em>—State of Colorado</em> 
  
 # Supporting federal agencies and state governments:
 
