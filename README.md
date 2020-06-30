@@ -28,17 +28,15 @@ To address this knowledge gap - TTS piloted an interactive training series on ho
  
 The series involves four, 2-hour sessions (remote or in-person), designed to include a cross-section of government staff involved in the end-to-end cycle of planning, budgeting, overseeing and implementing technology projects:
  
-- Delivering Software in Government - The Fundamentals: An introduction to agile, user centered design, modular contracting and DevSecOps. Provides a common vocabulary and understanding of core approaches to software delivery in the public sector. Broad attendance suggested.
+**- Delivering Software in Government -** The Fundamentals: An introduction to agile, user centered design, modular contracting and DevSecOps. Provides a common vocabulary and understanding of core approaches to software delivery in the public sector. Broad attendance suggested.
 
-- Product Ownership in the Public Sector: A workshop for emergent product owners in government. Includes discussion of the role of a PO in government, relationship to leadership, vendor team management and using product strategy.
+**- Product Ownership in the Public Sector:** A workshop for emergent product owners in government. Includes discussion of the role of a PO in government, relationship to leadership, vendor team management and using product strategy.
 
-- Agile Scoping, Budgeting & Solicitation (RFx) Writing: Interactive workshop session designed to help improve budget requests and scope of work. After deciding what you need to procure, you can then begin to design a successful solicitation. Brainstorm approaches tailored to the unique realities of your organization.
+**- Agile Scoping, Budgeting & Solicitation (RFx) Writing:** Interactive workshop session designed to help improve budget requests and scope of work. After deciding what you need to procure, you can then begin to design a successful solicitation. Brainstorm approaches tailored to the unique realities of your organization.
 
-- Agile Oversight: A workshop designed for legislative staff, legislators and federal funders on the importance of adjusting oversight of agile IT projects. Best practices and an interactive discussion of what is working across government.
+**- Agile Oversight:** A workshop designed for legislative staff, legislators and federal funders on the importance of adjusting oversight of agile IT projects. Best practices and an interactive discussion of what is working across government.
  
-“This workshop series was crucial to building foundational knowledge, shared language, and buy-in for modern software development processes across different stakeholder groups. Leading up to the workshops, the 18F team provided guidance on numerous topics like relationship management, procurement and contracting, and product strategy.”
-
-State of Colorado 
+> “This workshop series was crucial to building foundational knowledge, shared language, and buy-in for modern software development processes across different stakeholder groups. Leading up to the workshops, the 18F team provided guidance on numerous topics like relationship management, procurement and contracting, and product strategy.” —State of Colorado 
  
 # Supporting federal agencies and state governments:
 
