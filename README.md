@@ -1,10 +1,10 @@
 ![De-risking Gov Tech logo](https://github.com/18F/derisking-gov-tech/blob/master/_assets/images/Budget_Readme_Project.png)
 
 ## Project description
-The De-risking Government Technology project provides expert, actionable guidance to the public sector for delivering federally-funded, custom technology projects successfully. Such technology projects stand to benefit from an agile and human centered approach to planning, budgeting, buying, implementation and oversight. Putting these approaches into practice lead to better outcomes for US taxpayers and decrease the failure rate of custom IT work.
+The <em>De-risking Government Technology project</em> provides expert, actionable guidance to the public sector for delivering federally-funded, custom technology projects successfully. Such technology projects stand to benefit from an agile and human centered approach to planning, budgeting, buying, implementation and oversight. Putting these approaches into practice lead to better outcomes for US taxpayers and decrease the failure rate of custom IT work.
  
 ## Current Challenges 
-Implementing custom software projects can be extraordinarily costly and risky in a government setting. Decision makers tasked with funding and overseeing custom technology projects have often not been exposed to modern software development techniques before. These stakeholders often rely on outdated procurement processes better suited to physical infrastructure than modern software. As a result, only about 13% of major government software projects succeed.
+Implementing custom software projects can be extraordinarily costly and risky in a government setting. Decision makers tasked with funding and overseeing custom technology projects have often not been exposed to modern software development techniques before. These stakeholders often rely on outdated procurement processes better suited to physical infrastructure than modern software. According to the Standish Group, only about 13% of large government software projects succeed.
  
 Today, waterfall software development remains standard at all levels of government. Outdated budgeting and oversight processes have been designed around these very waterfall processes. Adapting to a new, agile approach involves supporting autonomous product teams within government. It also involves training for government leadership on how to budget for, and provide oversight on Agile software procurement, to reduce wasteful spending. Moving toward a user-centered, agile approach to this work can prevent millions of dollars in spending on bad software.
  
@@ -18,7 +18,7 @@ TTS published a set of field guides - designed to provide state and federal deci
 <em>Published August 2019</em>
  
 ### Field Guide for Federal Agencies 
-80-page guide for federal executives, product owners, budget specialists and agency staff who fund or oversee state government technology projects.
+Field guide for federal executives, product owners, budget specialists and agency staff who fund or oversee state government technology projects.
 <em>Coming soon: July 2020</em>
 
 ## Training Series
