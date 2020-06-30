@@ -1,4 +1,4 @@
-![De-risking Gov Tech logo](/assets/Budget_Readme_Tech.svg)
+![De-risking Gov Tech logo](https://github.com/18F/derisking-gov-tech/blob/master/_assets/images/Budget_Readme_Tech.svg)
 
 ## Project description
 The <em>De-risking Government Technology Project</em> provides expert, actionable guidance to the public sector for delivering federally-funded, custom technology projects successfully. Such technology projects stand to benefit from an agile and human centered approach to planning, budgeting, buying, implementation and oversight. Putting these approaches into practice lead to better outcomes for US taxpayers and decrease the failure rate of custom IT work.
