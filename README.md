@@ -42,9 +42,11 @@ State of Colorado
  
 # Supporting federal agencies and state governments:
 
-## Improve Customer Experience: Incorporating user-centered design and agile approaches yield better functioning software. Agile and user-centered approaches ensure the software government funds and procures functions as it is intended to - delivering high quality services to the American public.
+## Improve Customer Experience: 
+Incorporating user-centered design and agile approaches yield better functioning software. Agile and user-centered approaches ensure the software government funds and procures functions as it is intended to - delivering high quality services to the American public.
  
-## Save funds and improve outcomes: Billions of dollars are spent each year on technology in the public sector. This is met with an alarming rate of failure. By reducing the size of contracts, and using approaches to lower the risk of implementation, governments can avoid spending millions of dollars on software that doesn't work.
+## Save funds and improve outcomes: 
+Billions of dollars are spent each year on technology in the public sector. This is met with an alarming rate of failure. By reducing the size of contracts, and using approaches to lower the risk of implementation, governments can avoid spending millions of dollars on software that doesn't work.
 
 # What we've done so far
 In phases 1 & 2, 10x researchers met with state legislators, legislative fiscal staff, budget and contracting officers, as well as gubernatorial policy advisors. Our aim was to reduce risk and deliver value faster to people using IT systems, both inside and outside of government. We learned about their challenges and developed the handbook to provide a comprehensive guide to share insights and best practices.
