@@ -38,7 +38,7 @@ The series involves four, 2-hour sessions (remote or in-person), designed to inc
  
 > “This workshop series was crucial to building foundational knowledge, shared language, and buy-in for modern software development processes across different stakeholder groups. Leading up to the workshops, the 18F team provided guidance on numerous topics like relationship management, procurement and contracting, and product strategy.” <em>—State of Colorado</em> 
  
-# Supporting federal agencies and state governments:
+## Supporting federal agencies and state governments:
 
 - Improve Customer Experience: 
 Incorporating user-centered design and agile approaches yield better functioning software. Agile and user-centered approaches ensure the software government funds and procures functions as it is intended to - delivering high quality services to the American public.
@@ -46,16 +46,16 @@ Incorporating user-centered design and agile approaches yield better functioning
 - Save funds and improve outcomes: 
 Billions of dollars are spent each year on technology in the public sector. This is met with an alarming rate of failure. By reducing the size of contracts, and using approaches to lower the risk of implementation, governments can avoid spending millions of dollars on software that doesn't work.
 
-# What we've done so far
+## What we've done so far
 In phases 1 & 2, 10x researchers met with state legislators, legislative fiscal staff, budget and contracting officers, as well as gubernatorial policy advisors. Our aim was to reduce risk and deliver value faster to people using IT systems, both inside and outside of government. We learned about their challenges and developed the handbook to provide a comprehensive guide to share insights and best practices.
  
 Since publication, the state field guide has been translated into multiple languages, been written into proposed law and used to inform quality assurance guidelines in multiple state governments. See Waldo's testimony on this work to the Michigan State Senate Appropriations Committee in February 2020.
 
-# Seeking new partners
+## Seeking new partners
 
 If you are a state, local or federal agency in need of advice or training on de-risking your custom IT project - please get in touch with alicia.rouault@gsa.gov or randy.hart@gsa.gov 
  
-# Project Team
+## Project Team
 
 **Current Team**
 - Alicia Rouault
