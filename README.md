@@ -1,4 +1,4 @@
-![Eligibility APIs Initiative logo](assets/Eligibility-APIs-Initiative-logo-long.png)
+![De-risking Gov Tech logo](assets/Budget_Readme_Project.png)
 
 ## Project description
 The De-risking Government Technology project provides expert, actionable guidance to the public sector for delivering federally-funded, custom technology projects successfully. Such technology projects stand to benefit from an agile and human centered approach to planning, budgeting, buying, implementation and oversight. Putting these approaches into practice lead to better outcomes for US taxpayers and decrease the failure rate of custom IT work.
