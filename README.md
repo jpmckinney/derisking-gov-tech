@@ -1,143 +1,73 @@
-<!--
-  Federalist recommends you use Continuous Integration to automatically test
-  and validate any new changes to your site. CircleCI is free for open source
-  projcets. You should replace this badge with your own.
+![Eligibility APIs Initiative logo](assets/Eligibility-APIs-Initiative-logo-long.png)
 
-  https://circleci.com/
--->
-[![CircleCI](https://circleci.com/gh/18F/federalist-uswds-jekyll.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
-# 18F theme for Federalist + U.S. Web Design System + Jekyll
-
-This is an in progress repo to create and 18F theme of the [federalist-uswds-jekyll](https://github.com/18F/federalist-uswds-jekyll) templates to make it easier for team members to create and update 18F guides. 
-
---------
-
-# Federalist + U.S. Web Design System + Jekyll
-
-This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for Federalist websites.
-
-This code uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby. If you prefer to use Javascript, check out [federalist-uswds-gatsby](https://github.com/18F/federalist-uswds-gatsby), which uses [Gatsby](https://gatsbyjs.org) site engine.
-
-This project assumes that you are comfortable editing source code. If you prefer to launch a website without editing any source code, checkout [uswds-jekyll](https://github.com/18F/uswds-jekyll), which allows you to change the layout and content with configuration files.
-
-This project strives to be compliant with requirements set by [21st Century IDEA Act](https://www.meritalk.com/articles/senate-passes-idea-act/). The standards require that a website or digital service:
-
-- is accessible to individuals with disabilities;
-- has a consistent appearance;
-- does not duplicate any legacy websites (the legislation also requires agencies to ensure that legacy websites are regularly reviewed, removed, and consolidated);
-- has a search function;
-- uses an industry standard secure connection;
-- “is designed around user needs with data-driven analysis influencing management and development decisions, using qualitative and quantitative data to determine user goals, needs, and behaviors, and continually test the website, web-based form, web-based application, or digital service to ensure that user needs are addressed;”
-- allows for user customization; and
-- is mobile-friendly.
-
-## Key Functionality
-This repository contains the following examples and functionality:
+## Project description
+The De-risking Government Technology project provides expert, actionable guidance to the public sector for delivering federally-funded, custom technology projects successfully. Such technology projects stand to benefit from an agile and human centered approach to planning, budgeting, buying, implementation and oversight. Putting these approaches into practice lead to better outcomes for US taxpayers and decrease the failure rate of custom IT work.
  
-✅  Publish blog posts, press releases, announcements, etc. To modify this code, check out `blog/index.html`, which manages how the posts are listed. You should then check out `_layouts/post.html` to see how individual posts are structured.
+## Current Challenges 
+Implementing custom software projects can be extraordinarily costly and risky in a government setting. Decision makers tasked with funding and overseeing custom technology projects have often not been exposed to modern software development techniques before. These stakeholders often rely on outdated procurement processes better suited to physical infrastructure than modern software. As a result, only about 13% of major government software projects succeed.
+ 
+Today, waterfall software development remains standard at all levels of government. Outdated budgeting and oversight processes have been designed around these very waterfall processes. Adapting to a new, agile approach involves supporting autonomous product teams within government. It also involves training for government leadership on how to budget for, and provide oversight on Agile software procurement, to reduce wasteful spending. Moving toward a user-centered, agile approach to this work can prevent millions of dollars in spending on bad software.
+ 
+Building on several years of research and learning from procurement and technology professionals at all levels of government, TTS has developed a robust training series and a set of field guides for state, local and federal government partners.
 
-✅ Publish single one-off pages. Instead of creating lots of folders throughout the root directory, you should put single pages in `_pages` folder and change the `permalink` at the top of each page. Use sub-folders only when you really need to.
+## Field Guides 
+TTS published a set of field guides - designed to provide state and federal decision-makers with actionable strategies to yield more successful custom technology projects. Dozens of best practices are documented, including budgeting for software as an operational expense, limiting contract size, measuring success iteratively, and hiring in-house tech talent. Additionally, the field guides can help leaders identify better outcomes, empowering them with basic knowledge of software design principles.
+ 
+### Field Guide for State governments 
+40-page guide for executives, budget specialists, legislators, and other decision makers who fund or oversee state government technology projects.
+Published August 2019
+ 
+### Field Guide for Federal Agencies 
+80-page guide for federal executives, product owners, budget specialists and agency staff who fund or oversee state government technology projects.
+Coming soon: July 2020 
 
-✅  Publish data (for example: job listings, links, references), you can use the template `_layouts/data.html`. Just create a file in you `_pages` folder with the following options:
+## Training Series
+Key stakeholders responsible for making project decisions (funding, scoping or oversight) may lack specific technical knowledge necessary for evaluating requests for custom software funding, how to write a successful RFP for agile projects or how to balance feasibility, user need and regulatory mandates as a product owner.
 
-```
----
-title: Collections Page
-layout: data
-permalink: /collections
-datafile: collections
----
-```
+To address this knowledge gap - TTS piloted an interactive training series on how to deliver successful technology projects in government. Training series are targeted toward budgeting and procurement staff, legislative aides, departments and agencies requesting funds for IT projects. Training leads to a common vocabulary around agile across government - with an in-depth introduction to agile, user centered design, budgeting and oversight approaches on agile software projects. 
+ 
+The series involves four, 2-hour sessions (remote or in-person), designed to include a cross-section of government staff involved in the end-to-end cycle of planning, budgeting, overseeing and implementing technology projects:
+ 
+- Delivering Software in Government - The Fundamentals: An introduction to agile, user centered design, modular contracting and DevSecOps. Provides a common vocabulary and understanding of core approaches to software delivery in the public sector. Broad attendance suggested.
 
-The reference to `datafile` referers to the name of the file in `_data/collections.yml` and loops through the values. Feel free to modify this as needed.
+- Product Ownership in the Public Sector: A workshop for emergent product owners in government. Includes discussion of the role of a PO in government, relationship to leadership, vendor team management and using product strategy.
 
-✅  There are two different kinds of `pages`, one does not have a side bar navigation, and the other uses `_includes/sidenav.html`. You can enable this option by adding `sidenav: true` to your page front matter.
+- Agile Scoping, Budgeting & Solicitation (RFx) Writing: Interactive workshop session designed to help improve budget requests and scope of work. After deciding what you need to procure, you can then begin to design a successful solicitation. Brainstorm approaches tailored to the unique realities of your organization.
 
-```
----
-title: Document with Sidenav
-layout: page
-sidenav: true
-permalink: /document-with-sidenav
----
-```
+- Agile Oversight: A workshop designed for legislative staff, legislators and federal funders on the importance of adjusting oversight of agile IT projects. Best practices and an interactive discussion of what is working across government.
+ 
+“This workshop series was crucial to building foundational knowledge, shared language, and buy-in for modern software development processes across different stakeholder groups. Leading up to the workshops, the 18F team provided guidance on numerous topics like relationship management, procurement and contracting, and product strategy.”
 
-✅ Enable search with [Search.gov](https://search.gov) by adding option to `_config.yml`. 
+State of Colorado 
+ 
+# Supporting federal agencies and state governments:
 
+## Improve Customer Experience: Incorporating user-centered design and agile approaches yield better functioning software. Agile and user-centered approaches ensure the software government funds and procures functions as it is intended to - delivering high quality services to the American public.
+ 
+## Save funds and improve outcomes: Billions of dollars are spent each year on technology in the public sector. This is met with an alarming rate of failure. By reducing the size of contracts, and using approaches to lower the risk of implementation, governments can avoid spending millions of dollars on software that doesn't work.
 
-```
----
-searchgov:
-  endpoint: https://search.usa.gov  # You should not change this.
-  affiliate: federalist-uswds-example # replace this with your search.gov account 
-  access_key: your-access-key # This is placeholder. Not private.
-  inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
----
-```
+# What we've done so far
+In phases 1 & 2, 10x researchers met with state legislators, legislative fiscal staff, budget and contracting officers, as well as gubernatorial policy advisors. Our aim was to reduce risk and deliver value faster to people using IT systems, both inside and outside of government. We learned about their challenges and developed the handbook to provide a comprehensive guide to share insights and best practices.
+ 
+Since publication, the state field guide has been translated into multiple languages, been written into proposed law and used to inform quality assurance guidelines in multiple state governments. See Waldo's testimony on this work to the Michigan State Senate Appropriations Committee in February 2020.
 
+This work is funded by the U.S. General Services Administration’s 10x program.
+Seeking new partners
 
-## How to edit
-- Non-developers should focus on editing markdown content in the `_posts` and `_pages` folder
+If you are a state, local or federal agency in need of advice or training on de-risking your custom IT project - please get in touch with alicia.rouault@gsa.gov or randy.hart@gsa.gov 
+ 
+# Project Team
 
-- We try to keep configuration options to a minimum so you can easily change functionality. You should review `_config.yml` to see the options that are available to you. There are a few values on top that you **need** to change. They refer to the agency name and contact information. The rest of `_config.yml` has a range of more advanced options.
-
-- The contents inside `assets/` folder store your Javascript, SCSS/CSS, images, and other media assets are managed by  [jekyll-assets](https://github.com/envygeeks/jekyll-assets).  Assets are combined, compressed, and automatically available in your theme
-
-- If you look at `package.json` you will see that the `npm run federalist` command that will run when running on the Federalist platform.
-
-- Do not edit files in the `_site/` folder. These files are auto-generated, and any change you make in the folder will be overwritten.
-
-- To edit the look and feel of the site, you need to edit files in `_includes/` folder, which render key components, like the menu, side navigation, and logos.
-
-- `index.html` may not require much editing, depending on how you customize `hero.html` and `highlights.html`.
-
-- `_layouts/` may require the least amount of editing of all the files since they are primarily responsible for printing the content.
-
-- `blog/index.html` can be edited, but be careful. It will impact the pagination system for the posts. If you do edit the file, be prepared to edit `_config.yml`.  For example, you may need go change configurations for [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
-
-- `search/index.html` is used by search.gov.
-
-## Getting Started
-
-### Installation as a starter
-
-#### With `npx`
-The simplest way to create your own repository based on this starter is to use `npx` (included with `node`) with `degit`.
-
-    $ npx degit https://github.com/18F/federalist-uswds-jekyll <destination-folder>
-    $ cd <destination-folder>
-    $ git init
-
-#### With `git`
-    $ git clone --depth 1 https://github.com/18F/federalist-uswds-jekyll <destination-folder>
-    $ cd <destination-folder>
-    $ npm run reset
-    $ git init
-
-### Installation for development
-
-    $ git clone https://github.com/18F/federalist-uswds-jekyll
-    $ cd federalist-uswds-jekyll
-
-Note that when built by Federalist, `npm run federalist` is used instead of the
-`build` script.
-
-### Install dependencies and run app
-    $ npm install
-    $ bundle install
-    $ npm start
-
-Open your web browser to [localhost:4000](http://localhost:4000/) to view your
-site.
-
-### Testing
-    $ npm test
-
-## Technologies you should be familiarize yourself with
-
-- [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
-- [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) 
+Current Team 
+Alicia Rouault
+Rebecca Refoy
+Randy Hart
+Mark Hopson
+Vicki McFadden 
+Igor Korenfeld 
+Founding contributors and 18F Alumni 
+Waldo Jaquith
+Robin Carnahan
 
 
 ## Contributing
