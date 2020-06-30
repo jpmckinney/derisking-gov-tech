@@ -51,24 +51,25 @@ In phases 1 & 2, 10x researchers met with state legislators, legislative fiscal 
  
 Since publication, the state field guide has been translated into multiple languages, been written into proposed law and used to inform quality assurance guidelines in multiple state governments. See Waldo's testimony on this work to the Michigan State Senate Appropriations Committee in February 2020.
 
-This work is funded by the U.S. General Services Administration’s 10x program.
-Seeking new partners
+# Seeking new partners
 
 If you are a state, local or federal agency in need of advice or training on de-risking your custom IT project - please get in touch with alicia.rouault@gsa.gov or randy.hart@gsa.gov 
  
 # Project Team
 
-Current Team 
-Alicia Rouault
-Rebecca Refoy
-Randy Hart
-Mark Hopson
-Vicki McFadden 
-Igor Korenfeld 
-Founding contributors and 18F Alumni 
-Waldo Jaquith
-Robin Carnahan
+**Current Team**
+- Alicia Rouault
+- Rebecca Refoy
+- Randy Hart
+- Mark Hopson
+- Vicki McFadden 
+- Igor Korenfeld 
 
+**Founding contributors and 18F Alumni**
+- Waldo Jaquith
+- Robin Carnahan
+
+This work is funded by the U.S. General Services Administration’s 10x program.
 
 ## Contributing
 
