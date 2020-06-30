@@ -49,7 +49,7 @@ Billions of dollars are spent each year on technology in the public sector. This
 ## What we've done so far
 In phases 1 & 2, 10x researchers met with state legislators, legislative fiscal staff, budget and contracting officers, as well as gubernatorial policy advisors. Our aim was to reduce risk and deliver value faster to people using IT systems, both inside and outside of government. We learned about their challenges and developed the handbook to provide a comprehensive guide to share insights and best practices.
  
-Since publication, the state field guide has been translated into multiple languages, been written into proposed law and used to inform quality assurance guidelines in multiple state governments. See Waldo's testimony on this work to the Michigan State Senate Appropriations Committee in February 2020.
+Since publication, the state field guide has been translated into multiple languages, been written into proposed law and used to inform quality assurance guidelines in multiple state governments. See Waldo's testimony on this work to the [Michigan State Senate Appropriations Committee](https://www.youtube.com/watch?v=g-h6CtSwk30) in February 2020
 
 ## Seeking new partners
 
