@@ -18,11 +18,11 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Field Guide
+title: De-risking guide
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   The De-risking Government Technology Project provides expert, actionable guidance to the public sector
-  for delivering federally-funded, custom technology projects successfully. 
+  for delivering federally-funded, custom technology projects successfully.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 

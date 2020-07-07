@@ -182,22 +182,16 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 //// PAGE COMPONENTS
 
 // Buttons
-// .usa-button:hover {
-//   @include u-bg('primary')
-// }
-//
-// .usa-button:hover {
-//   @include u-bg('primary-dark')
-// }
 
 .usa-button--secondary {
   @include u-text('primary-darker');
-  @include u-bg('secondary')
+  @include u-bg('secondary');
+  margin-bottom: units(2);
 }
 
 .usa-button--secondary:hover{
   @include u-text('primary-darker');
-  @include u-bg('secondary-light')
+  @include u-bg('secondary-light');
 }
 
 // Hero
