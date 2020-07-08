@@ -2,20 +2,16 @@
 This tagline will appear in your homepage
 {% endcomment %}
 
-<section class="usa-section usa-prose tagline">
+<section class="usa-graphic-list usa-section usa-prose tagline-section ">
   <div class="grid-container">
-    <div class="grid-row flex-align-center">
-      <div class="tablet:grid-col-4">
-        {% asset pie-chart-medium-1.svg alt="" class="tagline__image"%}
-      </div>
-
-      <div class="tablet:grid-col-8">
-        <h2 class="tagline__heading">Only <span class="tagline--highlight">13%</span> of large government IT projects&nbsp;succeed<sup class="tagline--citation">*</sup></h2>
-        <div class="usa-prose">
+    <div class="usa-graphic-list__row grid-row grid-gap">
+      <div class="usa-media-block ">
+        {% asset pie-chart-186.png alt="" class="tagline__image usa-media-block__img"%}
+        <div class="usa-media-block__body">
+          <h2 class="tagline__heading">Only <span class="tagline--highlight">13%</span> of large government IT projects&nbsp;succeed<sup class="tagline--citation">*</sup></h2>
           <p>Implementing custom software projects can be extraordinarily costly and risky in a government setting. Waterfall software development remains standard at all levels of government. Outdated budgeting and oversight processes have been designed around these very waterfall processes. Moving toward a user-centered, agile approach to this work will save millions of dollars in spending on bad software.</p>
-
           <p class="tagline__caption">
-            <span class="tagline--citation tagline--outdent"> * </span> From The Standish Group’s &ldquo;Haze&rdquo; report
+            <span class="tagline--citation tagline--outdent"> * </span> From The Standish Group’s   &ldquo;Haze&rdquo; report
           </p>
         </div>
       </div>

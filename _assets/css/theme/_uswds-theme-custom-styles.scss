@@ -29,6 +29,7 @@ $img-max-width-md:    60%;
 $img-max-width-sm:    50%;
 $img-max-width-xs:    40%;
 $img-max-width-2xs:   30%;
+$img-max-width-3xs:   20%;
 
 $section-img-size: 200px;
 
@@ -211,11 +212,11 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   }
 }
 
-.usa-section--dark .usa-button {
+.usa-section--dark .usa-button--secondary {
   color: color('primary-darker');
 }
 
-.usa-button:visited {
+.usa-button:visited, .usa-prose a:visited  {
   color: color('primary-darker');
 }
 
@@ -258,20 +259,15 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 
 
 //tagline
-.tagline{
+.tagline-section{
   padding-bottom: 0;
 }
 
 .usa-prose .tagline__heading {
-  // @include u-font('heading','md');
   @include u-line-height('heading', 3);
   margin-top: 0;
   margin-right: 0;
   margin-bottom: units(2);
-
-  @include at-media('tablet') {
-    // @include u-font('heading','lg');
-  }
 }
 
 .tagline--highlight {
@@ -285,8 +281,6 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 p.tagline__caption {
   @include u-font('body', '3xs');
   color: color('base-dark');
-  text-indent: -1 * units(1);
-  max-width: measure(5);
 }
 
 .tagline__caption .tagline--citation {
@@ -297,13 +291,16 @@ p.tagline__caption {
   display: none;
   @include at-media('tablet') {
       display: block;
-      max-width: $img-max-width-md;
   }
 }
 
-//highlights
+//Workshop
 .workshop-section {
   background-color: color('blue-5');
+}
+
+.workshop-section p, .tagline-section p{
+  max-width: units('tablet');
 }
 
 // Side Navigation
@@ -355,7 +352,7 @@ p.tagline__caption {
 }
 
 
-//// Guide Pages
+//// GUIDE PAGES
 .guide-sect__img-container {
   background-color: color('primary-darker');
   display: flex;
@@ -383,7 +380,7 @@ p.tagline__caption {
 .usa-layout-docs__main h3 {
 }
 
-////State Guidelines
+// State Guidelines
 
 .guide-download {
   background-color: color('blue-5');
@@ -412,7 +409,6 @@ p.tagline__caption {
   padding-right: units(2);
   padding-bottom: units(1);
 }
-
 
 .guide-checklist + ul {
   list-style: none;
