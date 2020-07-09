@@ -2,10 +2,10 @@
 # See usa_anchor.html for the template
 
 anchor_data:
-  - site_name: Site name
+  - site_name: De-risking Guide
     site_email: 18F@gsa.gov
-    site_url: site-url
-    site_about: site-about
+    site_url: https://derisking-guide.18f.gsa.gov
+    site_about: https://derisking-guide.18f.gsa.gov
     agency: U.S. General Services Administration
     agency_acronym: GSA
     agency_logo: gsa-logo-w100.png
