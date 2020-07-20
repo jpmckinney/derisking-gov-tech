@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter: 18F
 
 # Configuration for Google Analytics, add your UA code here:
-google_analytics_ua: UA-????????-??
+google_analytics_ua: UA-48605964-1
 
 
 dap_agency: GSA
@@ -100,8 +100,8 @@ primary_navigation:
 # 3. Add your site/affiliate name here.
 searchgov:
   endpoint: https://search.usa.gov # You should not change this.
-  affiliate: federalist-uswds-example # replace this with your search.gov account
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko= # This is placeholder. Not private.
+  affiliate: derisking-guide # search.gov handle
+  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko= # Not private.
   inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
 
 ##########################################################################################
