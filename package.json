@@ -9,6 +9,7 @@
     "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'"
   },
   "dependencies": {
+    "jquery": "^3.5.1",
     "netlify-cms": "^2.10.23",
     "uswds": "^2.6.0"
   },
