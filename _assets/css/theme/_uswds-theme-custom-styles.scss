@@ -381,6 +381,10 @@ p.tagline__caption {
   padding-top: units(1.5);
 }
 
+.usa-sr-only + h2 {
+  margin-top: 0
+}
+
 .usa-layout-docs__main h3 {
 }
 

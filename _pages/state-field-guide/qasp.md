@@ -5,6 +5,9 @@ permalink: /state-field-guide/qasp/
 sidenav: state
 sticky_sidenav: true
 ---
+# State Field Guide
+{:.usa-sr-only}
+
 ## Appendix B: Sample Quality Assessment Surveillance Plan (QASP)
 <div markdown="1" class="guide-sect__img-container">
 {% asset qasp-checks.svg class="guide-sect__img" alt="" %}
