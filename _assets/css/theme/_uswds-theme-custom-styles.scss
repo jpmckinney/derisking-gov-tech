@@ -123,6 +123,10 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   }
 }
 
+.usa-nav__secondary-links {
+  display: none;
+}
+
 //// FOOTER
 
 .footer-logo {
@@ -437,7 +441,7 @@ p.tagline__caption {
   vertical-align: top;
 }
 
-//Endnotes
+//Footnotes
 .footnotes ol {
   padding-left: units(2);
   @include u-font('body','xs');
