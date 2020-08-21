@@ -4,5 +4,6 @@ _site
 node_modules
 .bundle
 .jekyll-cache/
-*.DS_Store
+**/.DS_Store
 Gemfile.lock
+.DS_Store

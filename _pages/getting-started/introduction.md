@@ -10,8 +10,8 @@ sticky_sidenav: true
 
 ## Introduction
 
-<div markdown="1" class="guide-sect__img-container">
-{% asset pie-chart-circle-1.svg class="guide-sect__img" alt="" %}
+<div markdown="1" class="chapter__img-container">
+{% asset pie-chart-circle-1.svg class="chapter__img" alt="" %}
 </div>
 
 Only 13% of large government software projects are successful.[^13pct] State IT projects, in particular, are often challenged because states lack basic knowledge about modern software development, relying on outdated procurement processes. Every year, the federal government matches billions of dollars in funding to state and local governments to maintain and modernize IT systems used to implement federal programs such as Medicaid, child welfare benefits, housing, and unemployment insurance. Efforts to modernize those legacy systems fail at an alarmingly high rate and at great cost to the federal budget.

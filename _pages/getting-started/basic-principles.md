@@ -25,8 +25,8 @@ subnav:
 
 ## Basic principles of modern software&nbsp;design
 
-<div markdown="1" class="guide-sect__img-container">
-{% asset agile-basics.svg class="guide-sect__img" alt="" %}
+<div markdown="1" class="chapter__img-container">
+{% asset agile-basics.svg class="chapter__img" alt="" %}
 </div>
 
 A technology project’s odds of success improve when the "non-technical" government leaders who fund and oversee it understand six basics concepts of modern software development: **user-centered design**, **agile software development**, **DevOps**, **building with loosely coupled parts**, **modular contracting**, and **product ownership**. You don’t have to be a technologist to understand these general concepts. Once you grasp them, it’ll feel like you’ve gained a new super power, allowing you to cut through the jargon and technical detail, and stay focused on the basics of successfully guiding any software project.

@@ -357,7 +357,7 @@ p.tagline__caption {
 
 
 //// GUIDE PAGES
-.guide-sect__img-container {
+.chapter__img-container {
   background-color: color('primary-darker');
   display: flex;
   justify-content: center;
@@ -366,11 +366,11 @@ p.tagline__caption {
 }
 
 //jekyll wraps image in a p
-.guide-sect__img-container p {
+.chapter__img-container p {
   margin: 0;
 }
 
-.guide-sect__img {
+.chapter__img {
   padding-top: units('205');
   padding-bottom: units('205');
   width: $section-img-size;

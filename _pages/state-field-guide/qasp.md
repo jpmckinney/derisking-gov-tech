@@ -9,8 +9,8 @@ sticky_sidenav: true
 {:.usa-sr-only}
 
 ## Appendix B: Sample Quality Assessment Surveillance Plan (QASP)
-<div markdown="1" class="guide-sect__img-container">
-{% asset qasp-checks.svg class="guide-sect__img" alt="" %}
+<div markdown="1" class="chapter__img-container">
+{% asset qasp-checks.svg class="chapter__img" alt="" %}
 </div>
 
 Per [the "Require demos, not memos" best practice]({{ site.baseurl }}/state-field-guide/#require-demos-not-memos), here is a sample QASP, which should be incorporated into agile software RFPs.

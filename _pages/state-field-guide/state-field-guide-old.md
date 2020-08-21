@@ -16,8 +16,8 @@ Download this guide as a [printable pdf](#)
 
 ## Budgeting and overseeing tech projects
 
-<div markdown="1" class="guide-sect__img-container">
-{% asset agile-best-practices.svg class="guide-sect__img" alt="" %}
+<div markdown="1" class="chapter__img-container">
+{% asset agile-best-practices.svg class="chapter__img" alt="" %}
 </div>
 
 ### Think about risk in a new way
@@ -375,8 +375,8 @@ It is no kindness to fund a project that is going to fail. If the agency doesnâ€
 - What are you doing to avoid paying expensive change fees in the future?
 
 ## Appendix A: Questions to ask
-<div markdown="1" class="guide-sect__img-container">
-{% asset questions.svg class="guide-sect__img" alt="" %}
+<div markdown="1" class="chapter__img-container">
+{% asset questions.svg class="chapter__img" alt="" %}
 </div>
 When you are considering a budget request for a custom software project, it will be difficult to consult this entire handbook to find the right questions to ask. Here are some basic, open-ended questions that you can ask to determine if a project is set up for success.
 
@@ -457,8 +457,8 @@ Wrong answer: "The vendor."
 Right answer: "The state" or "it will be committed to the public domain."
 
 ## Appendix B: Sample Quality Assessment Surveillance Plan (QASP)
-<div markdown="1" class="guide-sect__img-container">
-{% asset qasp-checks.svg class="guide-sect__img" alt="" %}
+<div markdown="1" class="chapter__img-container">
+{% asset qasp-checks.svg class="chapter__img" alt="" %}
 </div>
 
 Per [the "Require demos, not memos" best practice](#require-demos-not-memos), here is a sample QASP, which should be incorporated into agile software RFPs.

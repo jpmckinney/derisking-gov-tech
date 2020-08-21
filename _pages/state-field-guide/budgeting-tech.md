@@ -50,8 +50,8 @@ Download this guide as a [printable pdf](#)
 
 ## Budgeting and overseeing tech projects
 
-<div markdown="1" class="guide-sect__img-container">
-{% asset agile-best-practices.svg class="guide-sect__img" alt="" %}
+<div markdown="1" class="chapter__img-container">
+{% asset agile-best-practices.svg class="chapter__img" alt="" %}
 </div>
 
 ### Think about risk in a new way

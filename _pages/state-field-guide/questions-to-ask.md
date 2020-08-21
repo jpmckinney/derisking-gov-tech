@@ -9,8 +9,8 @@ sticky_sidenav: true
 {:.usa-sr-only}
 
 ## Questions to ask
-<div markdown="1" class="guide-sect__img-container">
-{% asset questions.svg class="guide-sect__img" alt="" %}
+<div markdown="1" class="chapter__img-container">
+{% asset questions.svg class="chapter__img" alt="" %}
 </div>
 When you are considering a budget request for a custom software project, it will be difficult to consult this entire handbook to find the right questions to ask. Here are some basic, open-ended questions that you can ask to determine if a project is set up for success.
 
