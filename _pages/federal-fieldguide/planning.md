@@ -6,6 +6,6 @@ sidenav: federal
 sticky_sidenav: true
 ---
 
-# Federal field guide
+# Federal Field Guide
 
 ## Planning
