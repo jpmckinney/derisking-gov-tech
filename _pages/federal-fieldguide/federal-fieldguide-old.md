@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Federal field guide
-permalink: /federal-field-guide/
 sidenav: true
 ---
 
