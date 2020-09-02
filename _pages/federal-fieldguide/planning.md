@@ -6,6 +6,6 @@ sidenav: federal
 sticky_sidenav: true
 ---
 
-# De-risking custom software projects: A field guide for federal agencies
+# Federal field guide
 
 ## Planning
