@@ -151,10 +151,20 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 
 // Headings
 .usa-prose{
-  h1,h2,h3,h4,h5,h6 {
+  h1,h2,h3,h4 {
     @include u-text('primary-darker');
   }
+  h5 {
+    @include u-text ('primary');
+  }
+  h6 {
+    @include u-text ('primary');
+    @include u-text('bold');
+    text-transform: capitalize;
+    letter-spacing: normal;
+  }
 }
+
 
 // prose
 
