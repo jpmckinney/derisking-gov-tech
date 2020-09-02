@@ -308,6 +308,12 @@ p.tagline__caption {
   }
 }
 
+// Graphic list
+
+.usa-graphic-list__heading {
+  @include u-font('sans','lg')
+}
+
 //Workshop
 .workshop-section {
   background-color: color('blue-5');
