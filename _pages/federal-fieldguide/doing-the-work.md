@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Federal field guide
-permalink: /federal-field-guide/doing-the-work
+permalink: /federal-field-guide/doing-the-work/
 sidenav: federal
 sticky_sidenav: true
 ---
