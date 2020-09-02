@@ -7,6 +7,14 @@ state:
   - text: Appendix
     href: /state-field-guide/qasp/
 
+federal:
+  - text: Planning
+    href: /federal-field-guide/
+  - text: Deciding what to buy
+    href: /federal-field-guide/deciding-what-to-buy
+  - text: Doing the work
+    href: /federal-field-guide/doing-the-work
+
 getting-started:
   - text: Introduction
     href: /getting-started/
