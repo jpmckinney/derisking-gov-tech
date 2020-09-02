@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Federal field guide
-permalink: /federal-field-guide/doing-the-work
+permalink: /federal-field-guide/doing-the-work/
 sidenav: federal
 sticky_sidenav: true
 subnav:
-- text: Post-award kick-off
+- text: Kick-off meeting
   href: '#host-an-effective-post-award-kick-off-meeting-to-energize-folks-for-the-work-to-come'
-- text: Overseeing Agile projects
+- text: Agile oversight
   href: '#oversee-agile-projects-by-measuring-end-user-outcomes-instead-of-requiring-project-teams-to-perform-tasks-by-specific-dates'
-- text: Post-award contract administration
+- text: Post-award administration
   href: '#post-award-contract-administration-looks-different-in-agile'
-- text: Monitor conformance with the QASP
+- text: QASP monitoring
   href: '#monitor-conformance-with-the-qasp-at-the-end-of-every-sprint'
 - text: Footnotes
   href: '#footnotes'
@@ -171,7 +171,7 @@ For example, if the code is completely new -- i.e., what the FAR calls "first pr
 
 In six months, if a team has not delivered software with value to end users, meet with the project team to decide whether to continue the project. 
 
-The Office of Management and Budget writes, in [their guidance for capital expenditures](https://www.whitehouse.gov/wp-content/uploads/2019/07/FY-2021-IT-Budget-Guidance.pdf#page=38), that "[a]ll software development projects must produce usable functionality at intervals of no more than six months." If the team has not been able to deliver value to users in that timespan, it's time for serious reflection and possible termination for default. 
+The Office of Management and Budget writes, in [their guidance for capital expenditures](https://www.whitehouse.gov/wp-content/uploads/2019/07/FY-2021-IT-Budget-Guidance.pdf#page=38), that "[a]ll software development projects must produce usable functionality at intervals of no more than six months." If the team has not been able to deliver value to users in that timespan, it's time for serious reflection and possible termination for default. [^default]
 
 ##### Common antipatterns
 
@@ -310,3 +310,5 @@ At the end of the sprint, this technical lead will review all the code produced 
 This is not a full-time job, but will likely take 4--8 hours per scrum team, per sprint.
 
 ### Footnotes
+
+[^default]: FAR 49.4 – https://www.acquisition.gov/content/subpart-494-termination-default.
