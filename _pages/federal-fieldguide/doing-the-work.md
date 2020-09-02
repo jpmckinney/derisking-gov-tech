@@ -31,44 +31,44 @@ We recommend being more intentional about the kick-offs, either as one combined 
 
 Goals of a post-award kick-off:
 
--   Make introductions: Start building a new team by getting everybody acquainted.
+- **Make introductions:** Start building a new team by getting everybody acquainted.
 
--   Share vision: Make sure everyone understands the work's purpose and impact.
+- **Share vision:** Make sure everyone understands the work's purpose and impact.
 
--   Establish roles: Determine who will play what role on the agency and contractor teams; clarify the lanes for the Contracting Officer, Contracting Officer's Representative (COR), and product owner (PO); outline escalation paths. 
+- **Establish roles:** Determine who will play what role on the agency and contractor teams; clarify the lanes for the Contracting Officer, Contracting Officer's Representative (COR), and product owner (PO); outline escalation paths. 
 
--   Publicly empower the product owner: Make it clear to the team that the product owner is empowered to make decisions, that they are the agency's go-to person, and that the agency expects the product to evolve over time through learning and iteration with users.
+- **Publicly empower the product owner**: Make it clear to the team that the product owner is empowered to make decisions, that they are the agency's go-to person, and that the agency expects the product to evolve over time through learning and iteration with users.
 
--   Make time for the contractual kick-off: If this is held as a single meeting, cover whatever the CO would like to discuss --- this can include security, legal concerns, and the COR's and the CO's contractual responsibilities. 
+- **Make time for the contractual kick-off:** If this is held as a single meeting, cover whatever the CO would like to discuss --- this can include security, legal concerns, and the COR's and the CO's contractual responsibilities. 
 
--   Establish initial working practices: Discuss folks' preferred communication methods and working hours; plan tools and technology.
+- **Establish initial working practices:** Discuss folks' preferred communication methods and working hours; plan tools and technology.
 
--   Plan next steps: Pick a few action-oriented tasks that get the team started on a positive cadence (e.g. scheduling Agile cadence, user research, technical prototype, etc.)
+- **Plan next steps:** Pick a few action-oriented tasks that get the team started on a positive cadence (e.g. scheduling Agile cadence, user research, technical prototype, etc.)
 
--   Get folks excited: Set the relationship off on the right foot, with the team leaving excited and energized.
+- **Get folks excited:** Set the relationship off on the right foot, with the team leaving excited and energized.
 
 To align both the government and the vendor, consider these things when planning a kick-off:
 
--   Attendance: Who will attend?
+-   **Attendance:** Who will attend?
 
--   Leadership involvement: Does an agency leader want to kick off the meeting by saying a few words (e.g. underpinning the importance of this initiative, publicly empowering the PO, etc.)?
+-   **Leadership involvement:** Does an agency leader want to kick off the meeting by saying a few words (e.g. underpinning the importance of this initiative, publicly empowering the PO, etc.)?
 
--   Stakeholder management: Who needs time on the agenda? Who needs to feel heard?
+-   **Stakeholder management:** Who needs time on the agenda? Who needs to feel heard?
 
--   Agency preference: 
+-   **Agency preference:** 
 
--   Does the agency have a policy for contract kick-offs?
+    -   Does the agency have a policy for contract kick-offs?
 
--   How does the CO/program office usually handle kick-offs?
+    -   How does the CO/program office usually handle kick-offs?
 
--   Would they like to have one meeting (combining the contractual kick-off and team kick-off) or two (separating these meetings)?
+    -   Would they like to have one meeting (combining the contractual kick-off and team kick-off) or two (separating these meetings)?
 
--   What does the CO want to cover in the meeting (to prevent duplication)?
+        -   What does the CO want to cover in the meeting (to prevent duplication)?
 
--   How long are kick-offs, typically? Are they held in-person or virtually? If in-person, and the contractor is remote or distributed, how can these meetings accommodate remote contractors?
+    -   How long are kick-offs, typically? Are they held in-person or virtually? If in-person, and the contractor is remote or distributed, how can these meetings accommodate remote contractors?
 
--   Contractor preference: Is there anything that the contractor would like to highlight/include in the agenda? 
+-   **Contractor preference:** Is there anything that the contractor would like to highlight/include in the agenda? 
 
--   Facilitator: Who will facilitate the discussion?
+-   **Facilitator:** Who will facilitate the discussion?
 
 Thinking through these goals and considerations should help make the kick-off productive and energizing.
