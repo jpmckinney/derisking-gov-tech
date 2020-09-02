@@ -414,10 +414,12 @@ p.tagline__caption {
 
 .usa-layout-docs__main .guide-checklist {
   background-color: color('primary');
+  @include u-font('sans','md')
 }
 
 .usa-layout-docs__main .key-questions {
   background-color: color('primary-darker');
+  @include u-font('sans','md')
 }
 
 .guide-checklist + ul, .key-questions + ul {
