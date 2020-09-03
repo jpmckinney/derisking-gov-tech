@@ -159,7 +159,7 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   }
   h6 {
     @include u-text ('primary');
-    @include u-text('bold');
+    @include u-text('normal');
     text-transform: capitalize;
     letter-spacing: normal;
   }
