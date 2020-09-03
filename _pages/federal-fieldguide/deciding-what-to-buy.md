@@ -17,13 +17,13 @@ The following sections identify challenges and strategies to mitigate risk durin
 By **Mark Hopson**
 
 **Challenge:** Agencies do not use industry best practices for market research. 
-{:.guide-download}
+{:.guide-higlight}
 
 #### Executive Summary
 
--   Market research is vitally important to ensure successful outcomes with any acquisition. Given the dynamic nature of software, this is especially true. 
+- Market research is vitally important to ensure successful outcomes with any acquisition. Given the dynamic nature of software, this is especially true. 
 
--   If done well, market research can provide reliable, accurate information that will help shape requirements, competitors, and ultimately the final product. If done poorly, then the project will be plagued from the beginning, which could lead to delayed schedules, increased costs, and ultimately, dissatisfied users. More often than not, many of the major failures involving government IT projects started off on the wrong foot based on the conclusions reached in market research.
+- If done well, market research can provide reliable, accurate information that will help shape requirements, competitors, and ultimately the final product. If done poorly, then the project will be plagued from the beginning, which could lead to delayed schedules, increased costs, and ultimately, dissatisfied users. More often than not, many of the major failures involving government IT projects started off on the wrong foot based on the conclusions reached in market research.
 
 #### Recommendation 
 
@@ -37,15 +37,15 @@ A government employee can easily spend one third of their time educating themsel
 
 For this approach, market research has two distinct methods: market surveillance and market investigation:
 
--   Market surveillance is an ongoing process to stay informed on industry trends, new technologies, and general information about the marketplace of offerings for the goods and services needed to fulfill the mission.
+-   **Market surveillance** is an ongoing process to stay informed on industry trends, new technologies, and general information about the marketplace of offerings for the goods and services needed to fulfill the mission.
 
--   Market investigation is a comprehensive, focused process on specific sources, materials, or potential competitors to fulfill a requirement usually done in order to complete a market research report for an active procurement.
+-   **Market investigation** is a comprehensive, focused process on specific sources, materials, or potential competitors to fulfill a requirement usually done in order to complete a market research report for an active procurement.
 
 The easiest way to keep the two clear is to think of market surveillance as being strategic in nature, whereas market investigation is more tactical. 
 
 For example, consider something that is very popular because it is essential for digital products and services: user experience (UX).
 
-Market surveillance would involve a series of broader questions such as:
+**Market surveillance** would involve a series of broader questions such as:
 
 -   What exactly is user experience?
 
@@ -57,7 +57,7 @@ Market surveillance would involve a series of broader questions such as:
 
 -   What kind of qualifications and experience do good user experience providers have?
 
-With market investigation the questions become more pointed:
+With **market investigation** the questions become more pointed:
 
 -   Who is a good user experience provider?
 
@@ -87,7 +87,7 @@ Keep these points in mind when you are conducting market research:
 
 -   Market research is meant to be a forecasting exercise, not a legally binding process. Market research cannot be used in place of the government's source selection or evaluation process to determine a contract award, nor can it favor a specific vendor or company that will eventually be awarded a contract. It's also very difficult for people to keep themselves from jumping to this step (we're all human). Keep those two procedures (surveillance and investigation) separate. Don't try to rush right into picking something when the real goal is to just see what is available. 
 
--   Market research shouldn't decide a preferred or specific manufacturer, model, or brand. This is prescribed in FAR Part 11.104 for a not-so-obvious reason: honing into a specific manufacturer, model, or brand eliminates all of a buyer's negotiating leverage.
+-   Market research shouldn't decide a preferred or specific manufacturer, model, or brand. This is prescribed in FAR Part 11.104 for a not-so-obvious reason: honing into a specific manufacturer, model, or brand eliminates **all** of a buyer's negotiating leverage.
 
     This is one of the less appreciated reasons for the legal mandate to compete an agency's requirements to the maximum extent practicable. It's to ensure you don't lose bargaining power.
 
@@ -97,7 +97,7 @@ One big mistake people make when it comes to government acquisitions is thinking
 
 But this isn't really the case in practice. A good market researcher will conduct both market surveillance and market investigation as the mission needs dictate. Usually they occur in parallel, because one will inform the other and vice versa. To do that well, agencies need to think about how to generally gather reliable information regardless of the formal title for any given step.
 
-In the [Evaluate contractor proposals based on industry best practices](https://docs.google.com/document/d/1P5034x8YoNj0v1NqxLbqfBApNSgX2m7gO16uLd1TegI/edit?ts=5f4ec0a9#bookmark=id.6dvhd0igmcw7) section of this handbook, we provide a list of what to look for in a quality vendor proposal. If you are conducting market research to acquire this kind of developer team from a company, then you can use those same questions during market research. These questions are useful in the context of evaluating a competitive bid, but they can also be used to help you do your agency's information gathering and market research.
+In the [Evaluate contractor proposals based on industry best practices](!!!!!!!) section of this handbook, we provide a list of what to look for in a quality vendor proposal. If you are conducting market research to acquire this kind of developer team from a company, then you can use those same questions during market research. These questions are useful in the context of evaluating a competitive bid, but they can *also be used* to help you do your agency's information gathering and market research.
 
 By the time an agency enters into a legally binding competitive bidding process, they'll be prepared and equipped with a much clearer understanding of what matters. 
 
@@ -115,31 +115,31 @@ As a best practice, government buyers should rely on multiple primary sources as
 
 -   Vendors
 
--   Manufacturers
+    -   Manufacturers
 
--   Distributors
+    -   Distributors
 
--   Resellers
+    -   Resellers
 
 -   Other buyers
 
--   Private sector
+    -   Private sector
 
--   Other federal agencies
+    -   Other federal agencies
 
--   Colleagues
+        -   Colleagues
 
--   State governments
+        -   State governments
 
--   Non-profit organizations
+    -   Non-profit organizations
 
 -   Independents
 
--   Experts
+    -   Experts
 
--   Specialized consultants
+    -   Specialized consultants
 
--   Research companies
+    -   Research companies
 
 ###### Secondary 
 
@@ -291,7 +291,7 @@ Should agencies spend a few months learning about custom software development pr
 By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, and **Vicki McFadden**
 
 **Challenge:** Agencies are not structuring their contracts to support buying Agile software development services. 
-{:.guide-download}
+{:.guide-higlight}
 
 #### Executive Summary
 
@@ -307,7 +307,7 @@ For more than 20 years, using non-performance based formats, such as the Stateme
 
            (1) Use performance-based acquisition methods to the maximum extent practicable
 
-Performance-based service contracting (PBSC) emphasizes that all aspects of an acquisition must be structured around the purpose of the work to be performed with an objective assessment of contractor performance, instead of prescribing the manner in which the work is to be performed. It ensures that:
+Performance-based service contracting (PBSC) emphasizes that all aspects of an acquisition must be structured around the *purpose of the work* to be performed with an objective assessment of contractor performance, instead of prescribing the manner in which the work is to be performed. It ensures that:
 
 -   contractors are given freedom to determine how to meet the government's performance objectives, 
 
@@ -319,47 +319,47 @@ This proven methodology has yet to be fully implemented governmentwide for a var
 
 The problems caused by not using performance-based methods is especially acute when it comes to the software development professional services. Government solicitations to procure non-performance based custom software are often long and complicated, include many pages of requirements, and can take months --- even years --- to write. 
 
-Structuring solicitations for Agile projects
+##### Structuring solicitations for Agile projects
 
 A quicker, more outcome-oriented method, such as 18F's [Agile contract format](https://18f.gsa.gov/assets/presentations/agile-software-development-solicitation-template.docx), would allow an agency to acquire an Agile software contractor with a solicitation that's only a dozen pages and written in an afternoon. It can be executed under existing procurement regulations and within Contracting Officers' (CO) existing authority. It can save enormous amounts of time, and the contract structure supports -- not impedes -- Agile development efforts.
 
 The format is simple but contains a major shift in how agencies procure Agile software development services. In our experience, these elements are needed to align the solicitation with Agile software development best practices:
 
--   Use a Statement of Objectives --- not a Statement of Work or Performance Work Statement --- because, with Agile, an agency doesn't know exactly what needs to be done, and can't possibly define it up front. The product owner, working with the development team, will determine on a sprint-by-sprint basis what work needs to be done. Anything else wouldn't be Agile.
+-   **Use a Statement of Objectives --- not a Statement of Work or Performance Work Statement** --- because, with Agile, an agency doesn't know exactly what needs to be done, and can't possibly define it up front. The product owner, working with the development team, will determine on a sprint-by-sprint basis what work needs to be done. Anything else wouldn't be Agile.
 
--   Contract for time and materials, not a firm-fixed-price. In most cases when an agency is purchasing for a software project, they're not buying a defined product, but instead buying a software development teams' time. Agencies can use a time-and-materials contract, as the CO may prefer, or a labor hour contract. Historically, the default contract types for IT projects were firm-fixed-price, based on the assumption that this reduces risk and aligns with the way software licenses have historically been offered.
+-   **Contract for time and materials, not a firm-fixed-price.** In most cases when an agency is purchasing for a software project, they're not buying a defined product, but instead buying a software development teams' time. Agencies can use a time-and-materials contract, as the CO may prefer, or a labor hour contract. Historically, the default contract types for IT projects were firm-fixed-price, based on the assumption that this reduces risk and aligns with the way software licenses have historically been offered.
 
     However, if an agency is in a position to constantly measure ("inspect and accept" in Agile) software quality, a time and materials contract --- with a ceiling on total spending (or not-to-exceed ceiling) --- allows for more flexibility for the software development team. A time and materials contract also allows for much easier escape clauses if the direction of the work changes or the contractor team does not produce quality software. If their work is inadequate, or their skills prove inappropriate, then no further work needs to be assigned to that contractor (effectively terminating the contract), and the contractor can be replaced. See our sample[ Determinations & Findings](https://18f.gsa.gov/assets/presentations/determinations-findings-for-a-time-and-materials-contract-type-sample.docx) for more information on time and material contracts.
 
--   Have a short base period of performance, usually between 6--12 months. A couple of options to extend are fine, but keep them short, and never exceed a total contract length of three years. The agency is hiring a team to achieve a defined set of objectives and then leave. The government product owner should be heavily engaged throughout the project so contractor transitions should be relatively easy.
+-   **Have a short base period of performance, usually between 6--12 months.** A couple of options to extend are fine, but keep them short, and never exceed a total contract length of three years. The agency is hiring a team to achieve a defined set of objectives and then leave. The government product owner should be heavily engaged throughout the project so contractor transitions should be relatively easy.
 
--   Maintain a nominal appendix of the backlog of user stories. User stories allow contractors to understand the specifics of the work that they're being asked to do, beyond whatever brief summary exists in the introduction. An agency must make it clear that the backlog has been included to illustrate the work that is presently believed will need to be done, but that it is only an illustration, and not a list of tasks that must be completed. It's a mistake to inventory user stories up front, rather than as part of performance. There's no way to know up front what work will need to be done, as is inherent to Agile (design, build, test; inspect; repeat). The language provided in the Agile contract format allows for this flexibility, since the backlog accounts for evolving outcomes rather than a predefined list of needs.
+-   **Maintain a nominal appendix of the backlog of user stories.** User stories allow contractors to understand the specifics of the work that they're being asked to do, beyond whatever brief summary exists in the introduction. An agency must make it clear that the backlog has been included to illustrate the work that is presently believed will need to be done, but that it is only an illustration, and not a list of tasks that must be completed. It's a mistake to inventory user stories up front, rather than as part of performance. There's no way to know up front what work will need to be done, as is inherent to Agile (design, build, test; inspect; repeat). The language provided in the Agile contract format allows for this flexibility, since the backlog accounts for evolving outcomes rather than a predefined list of needs.
 
--   Write a Quality assurance and surveillance plan (QASP). This is the cornerstone of performance-based service contracting. Rather than an exhaustive list, we focus on key, objective criteria that are able to determine and ensure quality. For example, in our model, we require that at the end of each sprint, all code be complete, tested, accessible, deployed, documented, and secure.
+-   **Write a Quality assurance and surveillance plan (QASP).** This is the cornerstone of performance-based service contracting. Rather than an exhaustive list, we focus on key, objective criteria that are able to determine and ensure quality. For example, in our model, we require that at the end of each sprint, all code be complete, tested, accessible, deployed, documented, and secure.
 
     Historically, the process of preparing software for use by its intended audience was complex, time-consuming, and risky. Standard industry practices have been automated making it simple, fast, and routine. Contractors must adhere to this practice ensuring agencies can deploy software themselves, without requiring highly technical staff to perform this trivial task. Allowing deployment to become complicated makes the agency dependent on that contractor, and makes it risky to replace them with a new contractor in the future.
 
     We publish [a sample QASP](https://github.com/18F/technology-budgeting/blob/master/handbook.md#appendix-b-sample-quality-assessment-surveillance-plan-qasp) that can be incorporated as-is. We will continue to update this QASP as we discover additional, meaningful, and objective quality metrics.
 
--   Key personnel should include, at a minimum, the lead developer, and quite possibly the project manager. The agency is buying people's time, and wants to make sure that it's getting the people who were advertised. Be wary of specifying too many key personnel, though --- this requires that the contractors put those people on the project if they get the contract, which can mean that they're functionally benched until the contract is awarded. 
+-   **Key personnel should include, at a minimum, the lead developer, and quite possibly the project manager.** The agency is buying people's time, and wants to make sure that it's getting the people who were advertised. Be wary of specifying too many key personnel, though --- this requires that the contractors put those people on the project if they get the contract, which can mean that they're functionally benched until the contract is awarded. 
 
 In a truly Agile project, the project manager plays a very different role than in a waterfall project. Agile teams are self-organizing, which eliminates a major role traditionally played by a project manager. Instead, the project manager should serve as the contractor's interface to the client, be responsible for unblocking tasks and overseeing --- but not controlling --- the work performed by the vendor team. In many agencies, the project manager's role is usually required to prove that the agency is not engaged in personal services.
 
--   Allow for a distributed team, whenever possible. We advocate for remote development, rather than requiring the contractor team to be onsite at the agency's location. The best development resources are not in your city --- they're spread out across your state and even the country. (There's a [150% difference in the salary of software developers](https://www.bls.gov/oes/current/oes151132.htm#IDX701) between the most-expensive and least-expensive states in the United States.)
+-   **Allow for a distributed team**, whenever possible. We advocate for remote development, rather than requiring the contractor team to be onsite at the agency's location. The best development resources are not in your city --- they're spread out across your state and even the country. (There's a [150% difference in the salary of software developers](https://www.bls.gov/oes/current/oes151132.htm#IDX701) between the most-expensive and least-expensive states in the United States.)
 
     Using a modern technology suite, collaboration is easy. The product owner should always know what the team is working on, and the team should be readily available to answer questions or huddle on any issue that arises. They can do this with video calling for face-to-face collaboration (e.g. Google Meet, Zoom, etc.); instant messaging (e.g. Slack, Google Chat, etc.); task management (e.g. GitHub, Trello, etc.); and collaborative document editing (e.g. Google Docs, Office 365, etc.).
 
--   All work products must be published under an open source license --- or, if using traditional proprietary code, the contract must secure sufficient data rights for the government in the work product to allow for use as intended and future development.
+-   **All work products must be published under an open source license** --- or, if using traditional proprietary code, the contract must secure sufficient data rights for the government in the work product to allow for use as intended and future development.
 
--   All work will be committed to a public code repository at least daily.
+-   **All work will be committed to a public code repository** at least daily.
 
--   Keep technical proposals within page limitations, to minimize both contractor work and the time required for evaluation. Requests for more space may indicate that the contractor isn't taking an Agile approach, or that they don't adequately understand what they're proposing. In 18F acquisitions, we typically ask for responses to be 2-3 pages.
+-   **Keep technical proposals within page limitations**, to minimize both contractor work and the time required for evaluation. Requests for more space may indicate that the contractor isn't taking an Agile approach, or that they don't adequately understand what they're proposing. In 18F acquisitions, we typically ask for responses to be 2-3 pages.
 
--   The contractor must submit links to 2--3 source code repositories where their illustrative past work can be seen. Allow this to include work done by key personnel (e.g., the technical lead) outside of their employment with the contractor, since many contractors will not have any public repositories to point to for lack of clients willing to work in the open. This is a far better indicator for how they are likely to perform under real-world conditions rather than the attempted simulation of coding challenges or hackathons.
+-   **The contractor must submit links to 2-3 source code repositories** where their illustrative past work can be seen. Allow this to include work done by key personnel (e.g., the technical lead) outside of their employment with the contractor, since many contractors will not have any public repositories to point to for lack of clients willing to work in the open. This is a far better indicator for how they are likely to perform under real-world conditions rather than the attempted simulation of coding challenges or hackathons.
 
--   Evaluation criteria should emphasize the contractor's proposed technical approach and their similar experience / past performance. An agency should hire a team based on their experience and their general approach to the work at hand. There's little else to go on other than these two criteria. This focus also keeps the contractor's performance work statement brief and to the point.
+-   **Evaluation criteria should emphasize the contractor's proposed technical approach and their similar experience / past performance.** An agency should hire a team based on their experience and their general approach to the work at hand. There's little else to go on other than these two criteria. This focus also keeps the contractor's performance work statement brief and to the point.
 
--   Contractors' key personnel must participate in a verbal interview process. This provides an opportunity to hear directly from the people who will be doing the work, rather than contractors' capture managers, and usually proves a quick way of separating the wheat from the chaff. This is not the type of conversation that is defined in the FAR as "discussions," or "clarifications," and does not allow for any revisions to the already submitted, written proposal. Instead it's a critical quality control measure that confirms what was written down in the written proposal.\
+-   **Contractors' key personnel must participate in a verbal interview process.** This provides an opportunity to hear directly from the people who will be doing the work, rather than contractors' capture managers, and usually proves a quick way of separating the wheat from the chaff. This is not the type of conversation that is defined in the FAR as "discussions," or "clarifications," and does not allow for any revisions to the already submitted, written proposal. Instead it's a critical quality control measure that confirms what was written down in the written proposal.\
 All of the above can be incorporated into a solicitation in a dozen or so pages, not including appendices like standard administrative clauses, a description of the technical environment that the contractor will be working within, the product backlog, etc.
 
 You can put a solicitation like this together in a few hours. In a standard, three-day 18F procurement workshop, we use only the latter half of the third day to lead our client through an exercise in which we put together such a solicitation. With the right coaching, it's not hard.
@@ -372,7 +372,7 @@ Don't use hand-me-down government solicitations to procure Agile software develo
 By **Mark Hopson**, **Vicki McFadden**, **Alan Atlas**, and **Waldo Jaquith**
 
 **Challenge:** Firm-fixed-price contracts are not appropriate for custom Agile development.
-{:.guide-download}
+{:.guide-higlight}
 
 #### Executive Summary
 
@@ -422,7 +422,7 @@ In this contract type, the contractor is rewarded when it delivers the exact lis
 
 When developing software using Agile development, the best requirements for a product cannot be known accurately before development, so FFP is not appropriate.
 
-That being said, we've seen several programs try to FFP Agile, sometimes in elaborate and complex ways, and none of them have worked well. The most popular method is to FFP a sprint. Another commonly used method is FFP by story points.
+That being said, we've seen several programs *try* to FFP Agile, sometimes in elaborate and complex ways, and none of them have worked well. The most popular method is to FFP a sprint. Another commonly used method is FFP by story points.
 
 Both scenarios result in unnecessary gamesmanship and fighting between the contractor and government. The contractor is incentivized to overbill and underdeliver. There are no canonical, objective ways to measure the number of user stories included in a given sprint or the size of a story point. So, when the government says "we think this story is size X" and the contractor says "we think this story is size Y" the resulting debate is difficult to resolve. These methods don't help to gauge contractor performance in any way. Agile quality or outcomes cannot be measured by the number of sprints or user stories completed. 
 
@@ -436,8 +436,7 @@ The only repeatable, standard, objective, scalable, universal way to measure wor
 By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, **Vicki McFadden**, **Kelsey Foley**, **Miatta Myers**, and **Stephanie Rivera**
 
 **Challenge:** Traditional evaluation methods of custom technology practices are not based on industry standards.
-{:.guide-download}
-
+{:.guide-higlight}
 
 #### Executive Summary
 
@@ -449,11 +448,11 @@ Scenario: An agency has received contractors' proposals and their evaluation tea
 
 This overview supports the evaluation team and helps them identify both indicators that show a strong proposal and red flags that indicate a weak proposal. This list is not exhaustive --- every procurement is different.
 
-##### Evaluation process
+#### Evaluation process
 
 At 18F, we typically conduct targeted market research to identify a strong candidate pool of companies. As a best practice, we use the procedures allowed under FAR Part [8.405-2(c)(3)(iii)(B)](https://www.acquisition.gov/content/part-8-required-sources-supplies-and-services#i1117591) to identify around ten potential companies interested in bidding before we issue any solicitation on [GSA Schedule 70](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/gsa-schedule-offerings/list-of-legacy-schedules/schedule-70); this ensures that we solicit qualified and interested bidders. This method balances good competition and a reasonable number of proposals for the evaluation panel to assess.
 
-Note: Your agency can only use this process if your agency intends to use GSA Schedules as their acquisition strategy. If your agency doesn't intend to use Schedules, your agency needs to follow the procedures required under the FAR that pertain to their acquisition strategy. 
+Note: *Your agency can only use this process if your agency intends to use GSA Schedules as their acquisition strategy. If your agency doesn't intend to use Schedules, your agency needs to follow the procedures required under the FAR that pertain to their acquisition strategy.* 
 
 Don't use a point system to score proposals. Instead, each evaluation team member should review each proposal and list its advantages and disadvantages. Then, the whole evaluation team can discuss each proposal's advantages and disadvantages, and determine the strongest proposals. 
 
@@ -473,7 +472,7 @@ The three technical evaluation factors, when combined, are significantly more im
 
 Below is what we suggest agencies consider when they're reviewing proposals using these evaluation criteria. 
 
-##### Technical Approach
+###### Technical Approach
 
 What to look for:
 
@@ -535,7 +534,7 @@ Red flags:
 
 -   They propose long-term staff augmentation.
 
-##### Staffing Approach
+###### Staffing Approach
 
 What to look for:
 
@@ -559,7 +558,7 @@ What to look for:
 
 -   Generally, the team is assigned to the project full-time and will not be splitting their time across other unrelated projects. There may be acceptable exceptions, such as for a scrum master or agile coach, but in general everyone should be fully staffed to the project. This is critical for developers, user researchers, designers, and all key personnel. 
 
-##### Red flags:
+Red flags:
 
 -   Overstaffing the bid. A team that consists of people with far more experience than necessary or more people than necessary means that the contractor either doesn't understand this way of working or is trying to over-staff the engagement.
 
@@ -621,11 +620,11 @@ What to look for:
 
 -   Key staff are not proposed to be 100% full time to the project, or the project is staffed with a number of partial FTE personnel. 
 
-##### Similar experience
+###### Similar experience
 
 18F often asks contractors to submit code repositories that demonstrate producing quality code that is in similar size, scope, and complexity to what the agency needs. If you do not have someone on your evaluation team that is familiar with code repositories, you should find one to serve as a technical advisor. 18F can support agencies with this need with a signed interagency agreement. 
 
-###### Technical evaluations should look for:
+Technical evaluations should look for:
 
 -   Proper use of Git, commit changes with personal accounts (not organizational), use of a branching / merging strategy, informative comments, evidence of code reviews, and use of a CI/CD pipeline.
 
@@ -641,7 +640,7 @@ What to look for:
 
 -   Consistent, enforced code style.
 
-###### Programmatic evaluations should look for:
+Programmatic evaluations should look for:
 
 -   Work that is conceptually similar to the agency's needs.
 
@@ -651,7 +650,7 @@ What to look for:
 
 -   Design artifacts that show continuous and ongoing usability testing that indicate a user-centered approach to iterative design and development.
 
-###### Red flags:
+Red flags:
 
 -   The cited projects bear little evidence that the contractor created them.
 
