@@ -14,10 +14,10 @@ sticky_sidenav: true
 The following sections identify challenges and strategies to mitigate risk during the research and solicitation phase of custom technology projects in government.
 
 ### Conduct Modern Market Research.
+By **Mark Hopson**
 
-Challenge: Agencies do not use industry best practices for market research. 
-
-Mark Hopson
+**Challenge:** Agencies do not use industry best practices for market research. 
+{:.guide-download}
 
 #### Executive Summary
 
@@ -169,17 +169,17 @@ It should be the same when you are acting as the public's buyer. 
 
 Consider any typical exchange between a buyer and seller:
 
-Buyer: Does your company offer X?
+> Buyer: *Does your company offer X?*
 
-Seller: Yes of course we do. We sell the best X out there.
+> Seller: *Yes of course we do. We sell the best X out there.*
 
-Buyer: Great, I am interested in purchasing it.
+> Buyer: *Great, I am interested in purchasing it.*
 
-Seller: You should definitely buy mine over anyone else's out there.
+> Seller: *You should definitely buy mine over anyone else's out there.*
 
-Buyer: Why?
+> Buyer: *Why?*
 
-Seller: Mine is the best!
+> Seller: *Mine is the best!*
 
 How do government employees know if the seller's assertions here are true and accurate? They can't know, not without other information to compare it against. 
 
@@ -187,9 +187,9 @@ How do government employees know if the seller's assertions here are true and ac
 
 There's two ways agencies can engage with a source: directly or indirectly.
 
-Direct contact is where an agency is engaged in a verbal or written conversation with a source. This is problematic when that source may be a future competitor for your requirement. Sometimes this will generate more useful or substantive information, but is far riskier and more easily misinterpreted.
+**Direct contact** is where an agency is engaged in a verbal or written conversation with a source. This is problematic when that source may be a future competitor for your requirement. Sometimes this will generate more useful or substantive information, but is far riskier and more easily misinterpreted.
 
-Indirect contact is where an agency reviews material without directly engaging a potential future competitor, or talks with a disinterested party. The majority of market research should be done indirectly. Not only is it easier by far, but it is less prone to bias from direct conversations, especially with potential competitors.
+**Indirect contact** is where an agency reviews material without directly engaging a potential future competitor, or talks with a disinterested party. The majority of market research should be done indirectly. Not only is it easier by far, but it is less prone to bias from direct conversations, especially with potential competitors.
 
 Requests for Information (RFIs) are a very popular market research method but consider their limitations before using them:
 
@@ -207,7 +207,7 @@ RFIs have a place in market research, but most of their value has been eclipsed 
 
 #### Considerations for Sales and Capture Management
 
-Whether agencies want to engage the market or not, chances are very high that if a government employee has anything to do with spending government money, the market will engage them.
+Whether agencies want to engage the market or not, chances are very high that if a government employee has anything to do with spending government money, the *market will engage them*.
 
 Unlike many decades ago, there are now dedicated firms and resources designed to gather intelligence and package customer engagement solutions for companies to increase sales specifically for government agencies' budgets. Firms dedicate roles in departments for business development or "capture" in government with specific training regimens for effectiveness. 
 
@@ -223,7 +223,7 @@ However, rather than scare government employees off from conducting market resea
 
 Considerations for any direct conversations with contractors:
 
--   Any information that is shared in a conversation or a meeting could directly affect proposal preparation. By law, all potential offerors that could fulfill the agency's requirements must also have the exact same information, or they may suffer from an unfair competitive advantage. If information isn't shared properly, it could lead to a protest.
+-   Any information that is shared in a conversation or a meeting could directly affect proposal preparation. By law, *all potential offerors* that could fulfill the agency's requirements must also have the exact same information, or they may suffer from an unfair competitive advantage. If information isn't shared properly, it could lead to a protest.
 
 -   All federal personnel have a responsibility to protect proprietary or confidential information, and not share such information with companies or potential competitors.
 
@@ -247,13 +247,13 @@ Government employees must ensure that they keep all transactions with sales peop
 
 Here are some common sales tactics agencies face:
 
--   Cold contact: Where someone you probably have never met calls or emails you about their company or offerings and how it will help you.
+-   **Cold contact:** Where someone you probably have never met calls or emails you about their company or offerings and how it will help you.
 
--   Name-dropping: Mentioning someone in a higher position or a supervisor, or referencing a conversation that may never have happened to try and gain influence with you or sway you in the direction they want.
+-   **Name-dropping:** Mentioning someone in a higher position or a supervisor, or referencing a conversation that may never have happened to try and gain influence with you or sway you in the direction they want.
 
--   Networked intro: Best way is to develop a good reputation with one customer and then make that customer work for you by introducing or referring them to other potential customers within an organization.
+-   **Networked intro:** Best way is to develop a good reputation with one customer and then make that customer work for you by introducing or referring them to other potential customers within an organization.
 
--   Big pitch: Much broader or organized effort to provide a well-thought-out presentation to get a bigger group of customers excited or interested in buying a solution.
+-   **Big pitch:** Much broader or organized effort to provide a well-thought-out presentation to get a bigger group of customers excited or interested in buying a solution.
 
 Talking to potential competitors can be extremely valuable, as the Office of Management and Budget's memo, [Myth-Busting: Addressing Misconceptions to Improve Communication with Industry during the Acquisition Process](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/Myth-Busting.pdf), points out. 
 
@@ -287,20 +287,19 @@ The size, scope, and complexity of the requirement will determine the amount of 
 
 Should agencies spend a few months learning about custom software development projects, and find companies that seem to have a good track record before building a mission critical system? Absolutely.
 
-Use the Agile contract format to procure Agile software development services.
------------------------------------------------------------------------------
+### Use the Agile contract format to procure Agile software development services.
+By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, and **Vicki McFadden**
 
-### Challenge: Agencies are not structuring their contracts to support buying Agile software development services. 
+**Challenge:** Agencies are not structuring their contracts to support buying Agile software development services. 
+{:.guide-download}
 
-Waldo Jaquith, Randy Hart, Mark Hopson, and Vicki McFadden
-
-### Executive Summary
+#### Executive Summary
 
 -   Legacy contract formats that detail hundreds to thousands of software requirements up front are not suitable for Agile software development services.
 
 -   With the Agile contract template, available as a template, agencies should procure developers' time, as prioritized by the government product owner through an Agile cadence. Any contract must secure sufficient data rights for the agency in the work product or result of the development effort based on their mission needs.
 
-### Recommendation
+#### Recommendation
 
 For more than 20 years, using non-performance based formats, such as the Statement of Work, for professional services, [has been strongly discouraged](https://obamawhitehouse.archives.gov/omb/procurement_index_pbsa/), as enshrined in FAR Part 37 - Service Contracting: 
 
@@ -369,14 +368,13 @@ Include the Contracting Officer (CO) in this process at every step of the way, s
 
 Don't use hand-me-down government solicitations to procure Agile software development services. By focusing on procuring competent development team(s) to achieve clear objectives, your agency can produce solicitations in hours, not months.
 
-Use time and material contract types for custom Agile software development services.
-------------------------------------------------------------------------------------
+### Use time and material contract types for custom Agile software development services.
+By **Mark Hopson**, **Vicki McFadden**, **Alan Atlas**, and **Waldo Jaquith**
 
-### Challenge: Firm-fixed-price contracts are not appropriate for custom Agile development.
+**Challenge:** Firm-fixed-price contracts are not appropriate for custom Agile development.
+{:.guide-download}
 
-Mark Hopson, Vicki McFadden, Alan Atlas, and Waldo Jaquith
-
-### Executive Summary
+#### Executive Summary
 
 -   Use time and material (T&M) contracts with a not-to-exceed ceiling. If there is an engaged government product owner on the development team, they will know what the team is working on every day, so the historical risk of T&M contracts --- costs spinning out of control --- is reduced. 
 
@@ -384,7 +382,7 @@ Mark Hopson, Vicki McFadden, Alan Atlas, and Waldo Jaquith
 
 -   Don't measure Agile quality or outcomes by the completion of a number of sprints or user stories. 
 
-### Recommendation
+#### Recommendation
 
 We recommend a time and material (T&M) contract for Agile software development with a not-to-exceed ceiling. 
 
@@ -408,11 +406,11 @@ To be clear, T&M does require more active management than the FFP "set it and fo
 
 Find more information in our sample  [T&M determination and findings](https://18f.gsa.gov/assets/presentations/determinations-findings-for-a-time-and-materials-contract-type-sample.docx), which agencies can modify for their needs.
 
-Labor hour contract
+##### Labor hour contract
 
 Why not a labor hour contract? Our experience reveals it's often necessary to buy additional materials for a software development project, such as cloud instances, software licenses, or SaaS fees. In those situations, it's better to pay the negligible costs for the contractor's materials; it will save a lot of headaches. 
 
-Firm-fixed-price contract
+##### Firm-fixed-price contract
 
 Don't procure Agile under a firm-fixed-price contract. We understand that most agencies discourage the use of T&M contracts in favor of FFP. However, Contracting Officers can use time and materials contracts when it is not possible to estimate accurately the extent or duration of the work, or to anticipate costs with any reasonable degree of confidence. This is the case with Agile software development.
 
@@ -434,24 +432,24 @@ With FFP contracts, agencies don't have the flexibility to change the contractor
 
 The only repeatable, standard, objective, scalable, universal way to measure work during a sprint is total effort-hours, which is not appropriate for firm-fixed-pricing. This is the purpose of time-and-materials or labor hour contracts.
 
-Evaluate contractor proposals based on industry best practices.
----------------------------------------------------------------
+### Evaluate contractor proposals based on industry best practices.
+By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, **Vicki McFadden**, **Kelsey Foley**, **Miatta Myers**, and **Stephanie Rivera**
 
-Challenge: Traditional evaluation methods of custom technology practices are not based on industry standards.
+**Challenge:** Traditional evaluation methods of custom technology practices are not based on industry standards.
+{:.guide-download}
 
-Waldo Jaquith, Randy Hart, Mark Hopson, Vicki McFadden, Kelsey Foley, Miatta Myers, and Stephanie Rivera
 
-### Executive Summary
+#### Executive Summary
 
 -   Review the strengths, weaknesses, and risks of contractors' proposals and then invite the most highly rated for a verbal interview.
 
-### Recommendation 
+#### Recommendation 
 
 Scenario: An agency has received contractors' proposals and their evaluation team is about to embark on the important mission of determining which contractor is best suited to meet the agency's needs. 
 
 This overview supports the evaluation team and helps them identify both indicators that show a strong proposal and red flags that indicate a weak proposal. This list is not exhaustive --- every procurement is different.
 
-#### Evaluation process
+##### Evaluation process
 
 At 18F, we typically conduct targeted market research to identify a strong candidate pool of companies. As a best practice, we use the procedures allowed under FAR Part [8.405-2(c)(3)(iii)(B)](https://www.acquisition.gov/content/part-8-required-sources-supplies-and-services#i1117591) to identify around ten potential companies interested in bidding before we issue any solicitation on [GSA Schedule 70](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/gsa-schedule-offerings/list-of-legacy-schedules/schedule-70); this ensures that we solicit qualified and interested bidders. This method balances good competition and a reasonable number of proposals for the evaluation panel to assess.
 
@@ -467,7 +465,7 @@ We ask that all named key personnel participate in these interviews. Each interv
 
 Contractors will not be allowed to make presentations, ask questions, or change their submission in any way.
 
-#### Determining the most highly rated proposals
+##### Determining the most highly rated proposals
 
 When contracting for Agile development services, we typically recommend that agencies use four evaluation factors: technical approach, staffing approach, similar experience, and price. 
 
@@ -475,7 +473,7 @@ The three technical evaluation factors, when combined, are significantly more im
 
 Below is what we suggest agencies consider when they're reviewing proposals using these evaluation criteria. 
 
-#### Technical Approach
+##### Technical Approach
 
 What to look for:
 
@@ -537,7 +535,7 @@ Red flags:
 
 -   They propose long-term staff augmentation.
 
-#### Staffing Approach
+##### Staffing Approach
 
 What to look for:
 
@@ -561,7 +559,7 @@ What to look for:
 
 -   Generally, the team is assigned to the project full-time and will not be splitting their time across other unrelated projects. There may be acceptable exceptions, such as for a scrum master or agile coach, but in general everyone should be fully staffed to the project. This is critical for developers, user researchers, designers, and all key personnel. 
 
-#### Red flags:
+##### Red flags:
 
 -   Overstaffing the bid. A team that consists of people with far more experience than necessary or more people than necessary means that the contractor either doesn't understand this way of working or is trying to over-staff the engagement.
 
@@ -623,11 +621,11 @@ What to look for:
 
 -   Key staff are not proposed to be 100% full time to the project, or the project is staffed with a number of partial FTE personnel. 
 
-#### Similar experience
+##### Similar experience
 
 18F often asks contractors to submit code repositories that demonstrate producing quality code that is in similar size, scope, and complexity to what the agency needs. If you do not have someone on your evaluation team that is familiar with code repositories, you should find one to serve as a technical advisor. 18F can support agencies with this need with a signed interagency agreement. 
 
-Technical evaluations should look for:
+###### Technical evaluations should look for:
 
 -   Proper use of Git, commit changes with personal accounts (not organizational), use of a branching / merging strategy, informative comments, evidence of code reviews, and use of a CI/CD pipeline.
 
@@ -643,7 +641,7 @@ Technical evaluations should look for:
 
 -   Consistent, enforced code style.
 
-Programmatic evaluations should look for:
+###### Programmatic evaluations should look for:
 
 -   Work that is conceptually similar to the agency's needs.
 
@@ -653,7 +651,7 @@ Programmatic evaluations should look for:
 
 -   Design artifacts that show continuous and ongoing usability testing that indicate a user-centered approach to iterative design and development.
 
-Red flags:
+###### Red flags:
 
 -   The cited projects bear little evidence that the contractor created them.
 
