@@ -4,6 +4,17 @@ title: Federal field guide
 permalink: /federal-field-guide/deciding-what-to-buy/
 sidenav: federal
 sticky_sidenav: true
+subnav:
+- text: Market research
+  href: '#conduct-modern-market-research'
+- text: Agile contract format
+  href: '#use-the-agile-contract-format-to-procure-agile-software-development-services'
+- text: Contract type
+  href: '#use-time-and-material-contract-types-for-custom-agile-software-development-services'
+- text: Evaluate proposals
+  href: '#evaluate-contractor-proposals-based-on-industry-best-practices'
+- text: Footnotes
+  href: '#footnotes'
 ---
 
 # Federal Field Guide
@@ -11,13 +22,17 @@ sticky_sidenav: true
 
 ## Deciding what to buy
 
+<div markdown="1" class="chapter__img-container">
+{% asset agile-best-practices.svg class="chapter__img" alt="" %}
+</div>
+
 The following sections identify challenges and strategies to mitigate risk during the research and solicitation phase of custom technology projects in government.
 
 ### Conduct Modern Market Research.
 By **Mark Hopson**
 
 **Challenge:** Agencies do not use industry best practices for market research. 
-{:.guide-higlight}
+{:.guide-highlight}
 
 #### Executive Summary
 
@@ -29,7 +44,7 @@ By **Mark Hopson**
 
 ##### What is market research?
 
-Market research is defined as "collecting and analyzing information about capabilities within the market to satisfy agency needs." FAR Part 10, the section of the FAR for conducting market research, is only two pages. It provides extraordinarily broad discretion for how agencies may conduct market research. Because of such discretion, many agencies rely on outdated ways to learn about companies, technologies, and broader trends that may influence a government technology program.
+Market research is defined as "collecting and analyzing information about capabilities within the market to satisfy agency needs." [^needs] FAR Part 10, the section of the FAR for conducting market research, is only two pages. It provides extraordinarily broad discretion for how agencies may conduct market research. Because of such discretion, many agencies rely on outdated ways to learn about companies, technologies, and broader trends that may influence a government technology program.
 
 Market research is a continuous, dynamic process of determining, collecting, and analyzing the availability of commercial goods and services. This ever-changing state requires keeping up-to-date with changes in the marketplace. 
 
@@ -261,7 +276,7 @@ Don't avoid these conversations. But instead go into them adequately prepared. B
 
 #### Why do any of this?
 
-Besides being a good idea to do extensive research before buying, the FAR legally requires agencies to undertake some form of market research. If agencies have done an adequate amount of market research well, then they will be able to:
+Besides being a good idea to do extensive research before buying, the FAR legally requires[^requires] agencies to undertake some form of market research. If agencies have done an adequate amount of market research well, then they will be able to:
 
 -   Clearly communicate their needs or requirements to potential contractors
 
@@ -291,11 +306,11 @@ Should agencies spend a few months learning about custom software development pr
 By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, and **Vicki McFadden**
 
 **Challenge:** Agencies are not structuring their contracts to support buying Agile software development services. 
-{:.guide-higlight}
+{:.guide-highlight}
 
 #### Executive Summary
 
--   Legacy contract formats that detail hundreds to thousands of software requirements up front are not suitable for Agile software development services.
+-   Legacy contract formats[^formats] that detail hundreds to thousands of software requirements up front are not suitable for Agile software development services.
 
 -   With the Agile contract template, available as a template, agencies should procure developers' time, as prioritized by the government product owner through an Agile cadence. Any contract must secure sufficient data rights for the agency in the work product or result of the development effort based on their mission needs.
 
@@ -315,7 +330,7 @@ Performance-based service contracting (PBSC) emphasizes that all aspects of an a
 
 -   payment is made only for services that meet these levels.
 
-This proven methodology has yet to be fully implemented governmentwide for a variety of reasons, including inexperience in writing performance-based solicitations, cultural inertia, and concerns about more open and interactive communication with industry throughout the acquisition process.
+This proven methodology has yet to be fully implemented governmentwide for a variety of reasons, including inexperience in writing performance-based solicitations, cultural inertia, and concerns about more open and interactive communication with industry throughout the acquisition process.[^process]
 
 The problems caused by not using performance-based methods is especially acute when it comes to the software development professional services. Government solicitations to procure non-performance based custom software are often long and complicated, include many pages of requirements, and can take months --- even years --- to write. 
 
@@ -325,7 +340,7 @@ A quicker, more outcome-oriented method, such as 18F's [Agile contract format](h
 
 The format is simple but contains a major shift in how agencies procure Agile software development services. In our experience, these elements are needed to align the solicitation with Agile software development best practices:
 
--   **Use a Statement of Objectives --- not a Statement of Work or Performance Work Statement** --- because, with Agile, an agency doesn't know exactly what needs to be done, and can't possibly define it up front. The product owner, working with the development team, will determine on a sprint-by-sprint basis what work needs to be done. Anything else wouldn't be Agile.
+-   **Use a Statement of Objectives --- not a Statement of Work or Performance Work Statement**[^statement] --- because, with Agile, an agency doesn't know exactly what needs to be done, and can't possibly define it up front. The product owner, working with the development team, will determine on a sprint-by-sprint basis what work needs to be done. Anything else wouldn't be Agile.
 
 -   **Contract for time and materials, not a firm-fixed-price.** In most cases when an agency is purchasing for a software project, they're not buying a defined product, but instead buying a software development teams' time. Agencies can use a time-and-materials contract, as the CO may prefer, or a labor hour contract. Historically, the default contract types for IT projects were firm-fixed-price, based on the assumption that this reduces risk and aligns with the way software licenses have historically been offered.
 
@@ -335,7 +350,7 @@ The format is simple but contains a major shift in how agencies procure Agile so
 
 -   **Maintain a nominal appendix of the backlog of user stories.** User stories allow contractors to understand the specifics of the work that they're being asked to do, beyond whatever brief summary exists in the introduction. An agency must make it clear that the backlog has been included to illustrate the work that is presently believed will need to be done, but that it is only an illustration, and not a list of tasks that must be completed. It's a mistake to inventory user stories up front, rather than as part of performance. There's no way to know up front what work will need to be done, as is inherent to Agile (design, build, test; inspect; repeat). The language provided in the Agile contract format allows for this flexibility, since the backlog accounts for evolving outcomes rather than a predefined list of needs.
 
--   **Write a Quality assurance and surveillance plan (QASP).** This is the cornerstone of performance-based service contracting. Rather than an exhaustive list, we focus on key, objective criteria that are able to determine and ensure quality. For example, in our model, we require that at the end of each sprint, all code be complete, tested, accessible, deployed, documented, and secure.
+-   **Write a Quality assurance and surveillance plan (QASP).** This is the cornerstone of performance-based service contracting. Rather than an exhaustive list, we focus on key, objective criteria that are able to determine and ensure quality.[^quality] For example, in our model, we require that at the end of each sprint, all code be complete, tested, accessible, deployed, documented, and secure.
 
     Historically, the process of preparing software for use by its intended audience was complex, time-consuming, and risky. Standard industry practices have been automated making it simple, fast, and routine. Contractors must adhere to this practice ensuring agencies can deploy software themselves, without requiring highly technical staff to perform this trivial task. Allowing deployment to become complicated makes the agency dependent on that contractor, and makes it risky to replace them with a new contractor in the future.
 
@@ -372,7 +387,7 @@ Don't use hand-me-down government solicitations to procure Agile software develo
 By **Mark Hopson**, **Vicki McFadden**, **Alan Atlas**, and **Waldo Jaquith**
 
 **Challenge:** Firm-fixed-price contracts are not appropriate for custom Agile development.
-{:.guide-higlight}
+{:.guide-highlight}
 
 #### Executive Summary
 
@@ -384,7 +399,7 @@ By **Mark Hopson**, **Vicki McFadden**, **Alan Atlas**, and **Waldo Jaquith**
 
 #### Recommendation
 
-We recommend a time and material (T&M) contract for Agile software development with a not-to-exceed ceiling. 
+We recommend a time and material (T&M) contract for Agile software development with a not-to-exceed ceiling.[^ceiling] 
 
 Flexibility is an absolute necessity for Agile software development. In an Agile project, there are no predetermined requirements listed as "shall" statements. 
 
@@ -392,7 +407,7 @@ Instead, there is a product backlog comprised of user stories, which the product
 
 In Agile software development, an agency does not buy a defined product. Instead, it buys development teams' (developers, designers, content strategists, etc.) time. Therefore, the most appropriate contract type is T&M. The government, through an engaged product owner, can constantly prioritize the work to be done and measure software quality. The product owner should know what the development team is working on every day. 
 
-The traditional government fear of T&M contracts is that costs spin out of control. The empowered product owner reduces this risk though daily communication, and frequent -- every sprint -- inspection of performance against a quality assurance surveillance plan (QASP). We also encourage using a not-to-exceed ceiling to put an additional cap on expenses to protect the government's interest.
+The traditional government fear of T&M contracts is that costs spin out of control. The empowered product owner[^owner] reduces this risk though daily communication, and frequent -- every sprint -- inspection of performance against a quality assurance surveillance plan (QASP). We also encourage using a not-to-exceed ceiling to put an additional cap on expenses to protect the government's interest.
 
 In addition to flexibility, another T&M benefit is that it allows for development team flexibility to scale up and down as needed. Stable teams are a core tenet of agile development. Agile frowns on changing team structures more often than needed, but T&M allows the product owner to do so if necessary.
 
@@ -436,7 +451,7 @@ The only repeatable, standard, objective, scalable, universal way to measure wor
 By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, **Vicki McFadden**, **Kelsey Foley**, **Miatta Myers**, and **Stephanie Rivera**
 
 **Challenge:** Traditional evaluation methods of custom technology practices are not based on industry standards.
-{:.guide-higlight}
+{:.guide-highlight}
 
 #### Executive Summary
 
@@ -462,7 +477,7 @@ Invite the companies with the most highly rated proposals for an interview. This
 
 We ask that all named key personnel participate in these interviews. Each interview includes a timed, unstructured question-and-answer session, where the contractors answer questions about their proposal's technical aspects. Although we tailor each interview to the proposal, we often draw from an interview question bank that helps us plan interviews. This process allows the agency to better understand each contractor's proposed technical approach and to observe key personnel's interactions and working style. 
 
-Contractors will not be allowed to make presentations, ask questions, or change their submission in any way.
+Contractors will not be allowed to make presentations, ask questions, or change their submission in any way.[^way]
 
 ##### Determining the most highly rated proposals
 
@@ -661,3 +676,14 @@ Red flags:
 -   The projects do not include good design artifacts and research plans.
 
 This list is not meant to be exhaustive, but it gives the evaluation team some tips to help empower them to decide which proposals to evaluate as most highly rated and to bring forward to an interview.
+
+### Footnotes
+[^needs]: FAR Part 2.101. The concept of an agency’s “needs” is used interchangeably by many agency personnel with the term “requirements.”
+[^requires]: See Aquisition.gov's <a href="https://www.acquisition.gov/content/part-10-market-research"> Market Research section</a> for specifics.
+[^formats]: COs awarding contracts under FAR Part 15 must prepare solicitations and resulting contracts using the uniform contract format.
+[^process]: See <a href="https://obamawhitehouse.archives.gov/omb/procurement_guide_pbsc/">Best Practices for Performance-Based Contracting</a> for more specifics.
+[^statement]: According to FAR Part 37.601 a performance based solicitation may either be a performance work statement or a statement of objectives. In our experience, it is far more difficult to meaningfully pivot from years of non-performance based contracts, anchored with a Statement of Work, than it is to start anew with a Statement of Objectives. Very frequently, agencies will end up simply rename their former Statement of Work into a “Performance Work Statement” without making the fundamental changes necessary to the actual substance of their operations, administration, and partnering methods.
+[^quality]: One of the most frequent misunderstandings is that the contractor should provide their own QASP. FAR 37.604 gives the government the discretion to do this if it so chooses, but it effectively means that the agency is ceding one of its most important ownership functions to ensure quality by allowing the party performing work to define their own measures of success. Think of it like a restaurant where they not only serve your food but also write your review of it to share with friends and family.
+[^ceiling]: FAR 16.601(d)(2) A time-and-materials contract or order may be used only if the contract or order includes a ceiling price that the contractor exceeds at its own risk.
+[^owner]: See 18F's <a href="https://18f.gsa.gov/2018/04/17/so-youre-a-product-owner/"> So, you’re a Product Owner...</a> for specifics.
+[^way]: If these were permitted, the interviews could constitute a “discussion” under the Federal Acquisition Regulation, which could trigger an entirely different approach to the procurement process. These prohibitions are important.
