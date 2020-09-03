@@ -45,7 +45,7 @@ By **Robin Carnahan**, **Randy Hart** and **Waldo Jaquith**<br>
 18F, Technology Transformation Service, General Services Administration
 {:.guide-authors}
 
-Download this guide as a [printable pdf](#)
+Download this guide as a [printable pdf]({{ site.url }}/State%20Field%20Guide%20-%20Agile%20Budgeting%20%26%20Oversight.pdf)
 {:.guide-highlight}
 
 ## Budgeting and overseeing tech projects
