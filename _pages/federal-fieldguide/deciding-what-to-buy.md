@@ -112,7 +112,7 @@ One big mistake people make when it comes to government acquisitions is thinking
 
 But this isn't really the case in practice. A good market researcher will conduct both market surveillance and market investigation as the mission needs dictate. Usually they occur in parallel, because one will inform the other and vice versa. To do that well, agencies need to think about how to generally gather reliable information regardless of the formal title for any given step.
 
-In the [Evaluate contractor proposals based on industry best practices](!!!!!!!) section of this handbook, we provide a list of what to look for in a quality vendor proposal. If you are conducting market research to acquire this kind of developer team from a company, then you can use those same questions during market research. These questions are useful in the context of evaluating a competitive bid, but they can *also be used* to help you do your agency's information gathering and market research.
+In the [Evaluate contractor proposals based on industry best practices](#evaluate-contractor-proposals-based-on-industry-best-practices) section of this handbook, we provide a list of what to look for in a quality vendor proposal. If you are conducting market research to acquire this kind of developer team from a company, then you can use those same questions during market research. These questions are useful in the context of evaluating a competitive bid, but they can *also be used* to help you do your agency's information gathering and market research.
 
 By the time an agency enters into a legally binding competitive bidding process, they'll be prepared and equipped with a much clearer understanding of what matters. 
 
@@ -374,7 +374,8 @@ In a truly Agile project, the project manager plays a very different role than i
 
 -   **Evaluation criteria should emphasize the contractor's proposed technical approach and their similar experience / past performance.** An agency should hire a team based on their experience and their general approach to the work at hand. There's little else to go on other than these two criteria. This focus also keeps the contractor's performance work statement brief and to the point.
 
--   **Contractors' key personnel must participate in a verbal interview process.** This provides an opportunity to hear directly from the people who will be doing the work, rather than contractors' capture managers, and usually proves a quick way of separating the wheat from the chaff. This is not the type of conversation that is defined in the FAR as "discussions," or "clarifications," and does not allow for any revisions to the already submitted, written proposal. Instead it's a critical quality control measure that confirms what was written down in the written proposal.\
+-   **Contractors' key personnel must participate in a verbal interview process.** This provides an opportunity to hear directly from the people who will be doing the work, rather than contractors' capture managers, and usually proves a quick way of separating the wheat from the chaff. This is not the type of conversation that is defined in the FAR as "discussions," or "clarifications," and does not allow for any revisions to the already submitted, written proposal. Instead it's a critical quality control measure that confirms what was written down in the written proposal.
+
 All of the above can be incorporated into a solicitation in a dozen or so pages, not including appendices like standard administrative clauses, a description of the technical environment that the contractor will be working within, the product backlog, etc.
 
 You can put a solicitation like this together in a few hours. In a standard, three-day 18F procurement workshop, we use only the latter half of the third day to lead our client through an exercise in which we put together such a solicitation. With the right coaching, it's not hard.
@@ -417,7 +418,7 @@ T&M allows agencies to save money, too. The contractor can only bill for time sp
 
 A final T&M benefit is that if the contractor is not producing quality software -- if their work is inadequate or their skills prove to not fit the work needed -- no more work needs be assigned to the contractor, which effectively terminates the contract. There is no work in the product backlog, and the contractor cannot bill their time to the government. There is no need to terminate for convenience or cause.
 
-To be clear, T&M does require more active management than the FFP "set it and forget it" contracts. The government must know what is going on, and review and approve invoices appropriately. Luckily, with Agile development, this should already be happening. Read more about this shift in our recommendation on [post-award management](https://docs.google.com/document/d/1h3UBJk2PhggKu4LgCZQXCNvtXnFY3q6hv34bs-nysvo/edit?ts=5ec5334a#bookmark=id.tq5682k5a4cp).
+To be clear, T&M does require more active management than the FFP "set it and forget it" contracts. The government must know what is going on, and review and approve invoices appropriately. Luckily, with Agile development, this should already be happening. Read more about this shift in our recommendation on [post-award management](/federal-field-guide/doing-the-work/#post-award-contract-administration-looks-different-in-agile).
 
 Find more information in our sample  [T&M determination and findings](https://18f.gsa.gov/assets/presentations/determinations-findings-for-a-time-and-materials-contract-type-sample.docx), which agencies can modify for their needs.
 
