@@ -151,10 +151,20 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 
 // Headings
 .usa-prose{
-  h1,h2,h3,h4,h5,h6 {
+  h1,h2,h3,h4 {
     @include u-text('primary-darker');
   }
+  h5 {
+    @include u-text ('primary');
+  }
+  h6 {
+    @include u-text ('primary');
+    @include u-text('normal');
+    text-transform: capitalize;
+    letter-spacing: normal;
+  }
 }
+
 
 // prose
 
@@ -298,6 +308,12 @@ p.tagline__caption {
   }
 }
 
+// Graphic list
+
+.usa-graphic-list__heading {
+  @include u-font('sans','lg')
+}
+
 //Workshop
 .workshop-section {
   background-color: color('blue-5');
@@ -390,7 +406,7 @@ p.tagline__caption {
 
 // State Guidelines
 
-.guide-download {
+.guide-highlight {
   background-color: color('blue-5');
   border-left: 4px solid color('secondary');
   padding: units(2);
@@ -404,10 +420,12 @@ p.tagline__caption {
 
 .usa-layout-docs__main .guide-checklist {
   background-color: color('primary');
+  @include u-font('sans','md')
 }
 
 .usa-layout-docs__main .key-questions {
   background-color: color('primary-darker');
+  @include u-font('sans','md')
 }
 
 .guide-checklist + ul, .key-questions + ul {

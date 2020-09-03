@@ -11,9 +11,11 @@ federal:
   - text: Planning
     href: /federal-field-guide/
   - text: Deciding what to buy
-    href: /federal-field-guide/deciding-what-to-buy
+    href: /federal-field-guide/deciding-what-to-buy/
   - text: Doing the work
-    href: /federal-field-guide/doing-the-work
+    href: /federal-field-guide/doing-the-work/
+  - text: Appendix
+    href: /federal-field-guide/appendix/
 
 getting-started:
   - text: Introduction
