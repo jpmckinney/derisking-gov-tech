@@ -29,7 +29,7 @@ By **Stephanie Rivera**, **Miatta Myers**, **Vicki McFadden**, and **Mark Hopson
 {:.guide-authors}
 
 **Challenge:** Traditional post-award kick-off meetings usually do not adequately engage or prepare the contractor to begin work.
-{:.guide-download}
+{:.guide-highlight}
 
 #### Executive Summary
 A thoughtful post-award kick-off meeting should introduce new team members, empower the government product owner, plan next steps, and get the team excited about the upcoming work.
@@ -89,7 +89,7 @@ Thinking through these goals and considerations should help make the kick-off pr
 By **Waldo Jaquith**, **Brandon Kirby**, **Vicki McFadden**, **Mark Hopson**, and **Alan Atlas**
 
 **Challenge:** Current oversight practices can discourage Agile development.
-{:.guide-download}
+{:.guide-highlight}
 
 #### Executive Summary
 
@@ -223,7 +223,7 @@ See [18F's Agile principles and practices](https://agile.18f.gov/) for more info
 By **Miatta Myers**, **Vicki McFadden**, and **Mark Hopson**
 
 **Challenge:** If you want to use Agile (and Agile contracts), you need to be ready for the additional time and effort that working this way requires. 
-{:.guide-download}
+{:.guide-highlight}
 
 #### Executive Summary
 
@@ -275,7 +275,7 @@ But there are many benefits: more flexibility, more control of the product, more
 By **Miatta Myers**, **Vicki McFadden**, **Waldo Jaquith**, and **Mark Hopson**
 
 **Challenge:** The quality assurance surveillance plan (QASP) is different --- and requires active oversight --- in Agile development.
-{:.guide-download}
+{:.guide-highlight}
 
 #### Executive Summary
 
