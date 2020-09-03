@@ -318,9 +318,9 @@ By **Waldo Jaquith**, **Randy Hart**, **Mark Hopson**, and **Vicki McFadden**
 
 For more than 20 years, using non-performance based formats, such as the Statement of Work, for professional services, [has been strongly discouraged](https://obamawhitehouse.archives.gov/omb/procurement_index_pbsa/), as enshrined in FAR Part 37 - Service Contracting: 
 
-(a) Performance-based acquisition (see [subpart 37.6](https://www.acquisition.gov/content/part-37-service-contracting#i1077388)) is the preferred method for acquiring services (Public Law 106-398, section 821). When acquiring services, including those acquired under supply contracts or orders, agencies must --
+> (a) Performance-based acquisition (see [subpart 37.6](https://www.acquisition.gov/content/part-37-service-contracting#i1077388)) is the preferred method for acquiring services (Public Law 106-398, section 821). When acquiring services, including those acquired under supply contracts or orders, agencies must --
 
-           (1) Use performance-based acquisition methods to the maximum extent practicable
+> > (1) Use performance-based acquisition methods to the maximum extent practicable
 
 Performance-based service contracting (PBSC) emphasizes that all aspects of an acquisition must be structured around the *purpose of the work* to be performed with an objective assessment of contractor performance, instead of prescribing the manner in which the work is to be performed. It ensures that:
 
