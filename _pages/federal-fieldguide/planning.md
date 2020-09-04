@@ -110,7 +110,7 @@ In these situations, the agency pays industry to develop custom software that th
 
 Over time, these systems become more difficult to maintain, as new features and customizations are added to the base COTS product, each of which bring it further away from actually being COTS. 18F technologists often refer to these products as "unrecognizably modified off-the-shelf" software, or "UMOTS."
 
-Modifying COTS software eliminates most of the benefits of using COTS. Customized COTS is often modified to the point where routine software updates can no longer be applied. At this point, the software requires expensive custom updates for the duration of the software's life. It also locks the agency into a long-term (and often sole-source) relationship with that contractor.
+Modifying COTS software[^software]: eliminates most of the benefits of using COTS. Customized COTS is often modified to the point where routine software updates can no longer be applied. At this point, the software requires expensive custom updates for the duration of the software's life. It also locks the agency into a long-term (and often sole-source) relationship with that contractor.
 
 Without a path to replace highly modified COTS software or to bring it back into compatibility with developer updates, these systems require substantial maintenance expenses over time. Though COTS itself is an appealing way to gain desired functionality rapidly, the hidden costs of modification and the timeline to implement these changes may eventually outweigh these benefits.
 
@@ -178,7 +178,7 @@ By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy-Sidibe**
 
 -   Publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
 
-18F asked a few of our partner agencies about how open source has worked for them and what the future looks like across the executive branch:
+18F asked a few of our partner agencies[^agencies]: about how open source has worked for them and what the future looks like across the executive branch:
 
 Department of the Interior's Office of Natural Resources Revenue:\
 "...the principles of transparency -- emblematic in both the open data and open code that power the site -- continue to inform our approach. We want the site to embody openness and transparency both in the content provided and in the way we build. For that reason, we use open source software to build the site, and we use GitHub to manage our code and workflow in the open."
@@ -189,7 +189,7 @@ Department of Justice's Office of Information Policy (OIP): "Working in the open
 
 The Department of Defense (DoD) addresses common security concerns with Open Source Software (OSS):
 
-"Hiding source code does inhibit the ability of third parties to respond to vulnerabilities (because changing software is more difficult without the source code), but this is obviously not a security advantage. In general, 'Security by Obscurity' is widely denigrated...Some OSS is very secure, while others are not; some proprietary software is very secure, while others are not. Each product must be examined on its own merits."
+"Hiding source code does inhibit the ability of third parties to respond to vulnerabilities (because changing software is more difficult without the source code), but this is obviously not a security advantage. In general, 'Security by Obscurity' is widely denigrated...Some OSS is very secure, while others are not; some proprietary software is very secure, while others are not. Each product must be examined on its own merits."[^merits]:
 
 Benefits
 
@@ -295,7 +295,7 @@ By **Mark Hopson**, **Vicki McFadden**
 
 When we ask why they're spending so much, we often hear that the project is important to the agency's mission, the project is a priority for agency leadership, or that their end users are really counting on them to deliver this functionality. 
 
-It's counterintuitive, but spending more money on a project increases the chances of failure. Of government software projects that cost more than $6 million, only 13% succeed. But of those that cost less than $1 million, 57% succeed. 
+It's counterintuitive, but spending more money on a project increases the chances of failure. Of government software projects that cost more than $6 million, only 13% succeed. But of those that cost less than $1 million, 57% succeed. [^succeed]:
 
 ##### Old trap: Fund and do all the things, right now
 
@@ -337,7 +337,7 @@ The ideal size of a scrum team is somewhere between four to nine people. Let's p
 
 Note: The below table represents an estimate using the industry average cost of purchasing services from a private company offering Agile software development. If an agency requires their development teams to be on-site or have top-secret security clearances, the pool of available companies to compete on this work will be drastically reduced, and the agency can expect the average hourly labor rates to be substantially higher (especially as the clearance process itself is an added cost). Also, these positions and their hourly rates vary greatly depending on location within the United States that the employee is located.
 
-| Position Title          | # of people | Average hourly labor rate | Cost       |
+| Position Title          | # of people | Average hourly labor rate[^rate]: | Cost       |
 |-------------------------|-------------|:-------------------------:|------------|
 | Software Developer Lead |           1 |                      $133 |   $250,040 |
 | Design Lead             |           1 |                      $123 |   $231,240 |
@@ -470,11 +470,11 @@ This idea of modularity can be found in the [Clinger-Cohen Act of 1996](https://
 
 The federal budgeting process is a sequential progression of estimates, documents, and revisions between the executive and legislative branches. The executive branch can only request  funds from the legislative branch to carry out an agency mission. 
 
-This request begins with the submission of an estimated budget to OMB as part of the preparation of the annual President's Budget. This process is extensively detailed by OMB's policy memorandum for the [Preparation, Submission, and Execution of the Budget](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf). 
+This request begins with the submission of an estimated budget to OMB as part of the preparation of the annual President's Budget. This process is extensively detailed by OMB's policy memorandum for the [Preparation, Submission, and Execution of the Budget](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf).[^budget]: 
 
-When the budget is submitted to the legislative branch, both chambers of Congress undertake an extensive review and approval process. Ultimately, this lengthy process results in the passage of a law whereby Congress grants appropriations to the executive agencies to carry out their respective missions. An appropriation is the authority to incur obligations and make payments out of the Treasury for specific purposes. This power to appropriate lies solely with the legislative branch, known as the "power of the purse," from Article I of the U.S. Constitution.
+When the budget is submitted to the legislative branch, both chambers of Congress undertake an extensive review and approval process. Ultimately, this lengthy process results in the passage of a law whereby Congress grants appropriations to the executive agencies to carry out their respective missions. An appropriation is the authority to incur obligations and make payments out of the Treasury for specific purposes. This power to appropriate lies solely with the legislative branch, known as the "power of the purse," from Article I of the U.S. Constitution.[^constitution]:
 
-Almost certainly, there is a many-month delay for government agencies receiving its new year funding, called a continuing resolution (CR). With a CR, agencies can spend only at the levels they were authorized in the previous year. New projects can't start. Many-month CRs stall contract awards and the agency's ability to start new modernization projects. 
+Almost certainly[^certainly]:, there is a many-month delay for government agencies receiving its new year funding, called a continuing resolution (CR). With a CR, agencies can spend only at the levels they were authorized in the previous year. New projects can't start. Many-month CRs stall contract awards and the agency's ability to start new modernization projects. 
 
 Receiving an appropriation enables an agency to incur an obligation, which is an action that creates a legal liability or a definite commitment on the part of the government for the payment of goods and services ordered or received. A purchasing contract, in other words. The biggest complication created from this process is that it begins about 18 months before receiving the appropriation.
 
@@ -496,7 +496,7 @@ O&M spending, sometimes called "steady state," refers to the expenses required t
 
 This is important because an agency generally cannot spend appropriated funds intended for one category on a different category. 
 
-While civilian agencies have to choose between one of two categories, DME or O&M, defense and intelligence agencies have the added frustration of another category, Research, Development, Testing, and Evaluation (RDTE).
+While civilian agencies have to choose between one of two categories, DME or O&M, defense and intelligence agencies have the added frustration of another category, Research, Development, Testing, and Evaluation (RDTE). [^RDTE]:
 
 To complicate things even more, many agencies already have software systems in place to satisfy information technology needs with corresponding budgets and contracts. 
 
@@ -512,18 +512,18 @@ A single agency system may combine annual software licenses, software-as-a-servi
 
 ##### Breaking the Legacy Cycle
 
-According to one GAO report on the current state of software budgeting in the federal government, "in several situations...agencies are not sure whether to report costs as O&M or DME" and so "agencies default to reporting as O&M."
+According to one GAO report on the current state of software budgeting in the federal government, "in several situations...agencies are not sure whether to report costs as O&M or DME" and so "agencies default to reporting as O&M."[^OM]:
 
-In fact, most agencies spend less than 20% of their annual budgets on DME, meaning they seem to be trapped in perpetual O&M spending. One major reason for this, as GAO and OMB cite, is that "agencies tend to categorize investments as O&M because they attract less oversight, require reduced documentation, and have a lower risk of losing funding." This last point is especially telling.
+In fact, most agencies spend less than 20% of their annual budgets on DME, meaning they seem to be trapped in perpetual O&M spending. One major reason for this, as GAO and OMB cite, is that "agencies tend to categorize investments as O&M because they attract less oversight, require reduced documentation, and have a lower risk of losing funding."[^funding]: This last point is especially telling.
 
 If an agency gets their submitted budget estimates wrong, they can request approval from OMB and then from Congress to transfer amounts among these different categories. However, this can be a very lengthy process and getting approval isn't guaranteed. If the funds have to be obligated in the same fiscal year they were appropriated, they may run out of time.
 
-This logistical issue has resulted in a steady increase in spending on O&M for legacy systems. In 2010, agencies' spending on O&M was 68% of the federal IT budget. By 2017, the amount of spending on O&M was at 77%.
+This logistical issue has resulted in a steady increase in spending on O&M for legacy systems. In 2010, agencies' spending on O&M was 68% of the federal IT budget. By 2017, the amount of spending on O&M was at 77%.[^percent]:
 
 An agency knows the least about what it will take to fully modernize a legacy system when they draft a budget for that work.
 
 #### Risk Mitigation Prototyping
-Consider a hypothetical production system, meaning actively in-use, for a critical agency mission need. This kind of system would very likely be classified as a "major IT investment" for budgeting purposes. It's not uncommon for these kinds of systems to cost upwards of $20 million a year in O&M cost, based on publicly available information searchable on ITDashboard.gov. 
+Consider a hypothetical production system, meaning actively in-use, for a critical agency mission need. This kind of system would very likely be classified as a "major IT investment" for budgeting purposes. It's not uncommon for these kinds of systems to cost upwards of $20 million a year in O&M cost, based on publicly available information searchable on ITDashboard.gov. [^itdashboard]
 
 The riskiest way that an agency could try to make this transition would be to take that same $20 million spent on O&M for the existing system and simply transfer it into a request for DME funds, coupled with a monolithic contract. 
 
@@ -543,7 +543,7 @@ To undertake this path, Congress and OSD must write new statutes and regulations
 
 There's a promising new development on this front to reduce the complexity and challenges created by multiple types of appropriations for software. This proposal in the DoD would create a [single type of appropriation](https://media.defense.gov/2019/Mar/14/2002101480/-1/-1/0/DIB-SWAP_STUDY_REPORT[DRAFT],_LAST%20MODIFIED_13MAR2019.PDF) to use for software needs, regardless of whether it captures what has historically been bucketed under RDTE, DME, or O&M. This single type of appropriation would resolve a host of issues caused by the appropriation categories and definitions. It would likely be welcomed by many operational components trying to deal with the complexity of modern software in government.
 
-In the meantime, when budgeting for what a future state may look like, the best bet for agencies to make is to start small. Through a mechanism like risk mitigation prototyping, agencies can effectively create a form of risk mitigation budgeting that is evidence-based and incremental. It is in the original spirit of modularity conceived of in the mid-1990s, when the Clinger-Cohen Act was passed to help control "system development risks, better manage technology spending, and succeed in achieving real, measurable improvements in agency performance." 
+In the meantime, when budgeting for what a future state may look like, the best bet for agencies to make is to start small. Through a mechanism like risk mitigation prototyping, agencies can effectively create a form of risk mitigation budgeting that is evidence-based and incremental. It is in the original spirit of modularity conceived of in the mid-1990s, when the Clinger-Cohen Act was passed to help control "system development risks, better manage technology spending, and succeed in achieving real, measurable improvements in agency performance." [^performance]
 
 The first meaningful step to provide the federal government with the same world-class technology available commercially is to address these risks as early as possible in the process to reduce the likelihood of failure.
 
