@@ -121,13 +121,12 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-redirect-from
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
