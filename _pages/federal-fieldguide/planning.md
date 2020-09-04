@@ -25,6 +25,8 @@ subnav:
   href: '#give-teams-access-to-the-remote-collaboration-tools-that-they-need-to-be-successful'
 - text: Technology budgeting
   href: '#invest-in-technology-incrementally-and-budget-for-risk-mitigation-prototyping'
+- text: Footnotes
+  href: '#footnotes'
 ---
 
 # Federal Field Guide
@@ -544,3 +546,19 @@ There's a promising new development on this front to reduce the complexity and c
 In the meantime, when budgeting for what a future state may look like, the best bet for agencies to make is to start small. Through a mechanism like risk mitigation prototyping, agencies can effectively create a form of risk mitigation budgeting that is evidence-based and incremental. It is in the original spirit of modularity conceived of in the mid-1990s, when the Clinger-Cohen Act was passed to help control "system development risks, better manage technology spending, and succeed in achieving real, measurable improvements in agency performance." 
 
 The first meaningful step to provide the federal government with the same world-class technology available commercially is to address these risks as early as possible in the process to reduce the likelihood of failure.
+
+### Footnotes
+[^software]: When modifying COTS, keep in mind the existing warranty and any impacts that it may have through such an activity.
+[^agencies]: https://18f.gsa.gov/2018/05/24/what-agencies-have-to-say-about-working-in-the-open/
+[^merits]: https://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management
+[^succeed]: Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. "Haze Report,” The Standish Group, 2015.
+[^rate]:  The [CALC tool](https://calc.gsa.gov/) provides a range of Multiple Award Schedules (MAS) ceiling prices for a given labor category. Decisions on reasonable comparison pricing for labor is the judgment call of the contracting officer. The average hourly labor rate will fluctuate over time based on contract awards.
+[^budget]: The A-11 memo section related to Information Technology can be found [here](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/fy19_it_budget_guidance.pdf).
+[^constitution]:  As a way to enforce its power of the purse on the executive, there is a significant body of law, called fiscal law, that controls how agencies may obligate Congressional appropriations. Examples include: the Purpose statute (31 U.S.C. § 1301(a)), Antideficiency Act (31 U.S.C. § 1341), Adequacy of Appropriations Act (41 USC 11), Miscellaneous Receipts Act (31 U.S.C. § 3302(b)), Bona Fide Needs (whose statutory basis is found at 31 U.S.C. § 1502, but is defined and interpreted through numerous GAO opinions), and Account Closing (31 U.S.C. § 1555). While readers should consult with their General Counsel on specific application or interpretation of laws, these topics are worth highlighting potential issues they present for modern software acquisitions in agencies.
+[^certainly]:Since 1977, the first year under the current system, Congress has passed appropriation bills on-time 4 times: 1977, 1989, 1995, 1997
+[^RDTE]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/fy19_it_budget_guidance.pdf
+[^OM]: https://www.gao.gov/assets/680/677574.pdf at 18
+[^funding]: https://www.gao.gov/assets/680/677574.pdf at 18
+[^percent]: https://www.gao.gov/assets/680/677574.pdf at 13
+[^itdashboard]: ITdashboard.gov provides federal agencies and the public with the ability to view details of federal information technology (IT) investments online and to track their progress over time. The IT Dashboard displays data received from agency IT Portfolio and Business Case reports, including general information on over 7,000 Federal IT investments and detailed data for over 700 of those investments that agencies classify as "major." According to data collected for the current 2020 fiscal year, there are 514 investments being tracked on the dashboard. Of those, 277, equaling 53.9% are at medium risk, and 32, equaling 6.2% are at high risk
+[^performance]:https://www.gao.gov/products/GAO-11-634 at 1.
