@@ -453,6 +453,14 @@ p.tagline__caption {
   }
 }
 
+// Code
+
+.highlight {
+  background-color: color('base-lightest');
+  padding: units(1);
+  line-height: 1.3;
+}
+
 //QASP table
 .qasp-table {
   width: units('tablet');

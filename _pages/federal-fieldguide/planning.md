@@ -4,6 +4,27 @@ title: Federal field guide
 permalink: /federal-field-guide/
 sidenav: federal
 sticky_sidenav: true
+subnav:
+- text: Empower product owner 
+  href: '#assign-dedicated-and-empowered-product-owners-to-lead-development-efforts'
+- text: Seek constant user feedback
+  href: '#involve-end-users-early-and-often-in-software-development-efforts'
+- text: Build-or-buy decision
+  href: '#consider-tradeoffs-in-build-or-buy-decisions-taking-all-factors-into-consideration'
+- text: Default to open
+  href: '#default-to-open'
+- text: Infrastructure-as-code
+  href: '#require-infrastructure-as-code-single-command-deployment-and-per-sprint-government-verification-of-functionality'
+- text: Leadership’s role
+  href: '#leadership-should-set-direction-and-empower-teams'
+- text: Scope efforts
+  href: '#software-development-efforts-should-be-tightly-scoped-to-reduce-risk-and-avoid-overspending'
+- text: Path to production
+  href: '#validate-and-clear-the-path-to-production-before-awarding-a-contract-to-make-sure-that-when-the-contractor-starts-working-they-can-actually-start-working'
+- text: Remote collaboration tools
+  href: '#give-teams-access-to-the-remote-collaboration-tools-that-they-need-to-be-successful'
+- text: Technology budgeting
+  href: '#invest-in-technology-incrementally-and-budget-for-risk-mitigation-prototyping'
 ---
 
 # Federal Field Guide
@@ -203,8 +224,7 @@ An important part of this automation process is defining infrastructure as code.
 
 For example, here are instructions, written in Terraform (a programming language) that will create a web server:
 
-|
-
+```
 provider "aws" {
 
     region = "us-east-1"
@@ -217,8 +237,8 @@ resource "aws_instance" "web_server" {
 
     instance_type = "t3a.medium"
 
-}\
- |
+}
+```
 
 These instructions specify the creation of a server in Amazon Web Services' Northern Virginia hosting facility, running Amazon's version of Linux, with 2 CPUs and 4 GB of RAM (what AWS calls a "t3a.medium"). A new stanza is written for each additional server that is required. This file is part of the source code developed by the vendor and delivered at the end of each sprint. Doing this ensures that the technical infrastructure matches the needs of the software, and that government can manage its own infrastructure without giving the vendor access to the government's hosting environment.
 
@@ -315,117 +335,14 @@ The ideal size of a scrum team is somewhere between four to nine people. Let's p
 
 Note: The below table represents an estimate using the industry average cost of purchasing services from a private company offering Agile software development. If an agency requires their development teams to be on-site or have top-secret security clearances, the pool of available companies to compete on this work will be drastically reduced, and the agency can expect the average hourly labor rates to be substantially higher (especially as the clearance process itself is an added cost). Also, these positions and their hourly rates vary greatly depending on location within the United States that the employee is located.
 
-|
-
-Position Title
-
- |
-
-# of people
-
- |
-
-Average hourly labor rate
-
- |
-
-Cost
-
- |
-|
-
-Software Developer Lead
-
- |
-
-1
-
- |
-
-$133
-
- |
-
-$250,040
-
- |
-|
-
-Design Lead
-
- |
-
-1
-
- |
-
-$123
-
- |
-
-$231,240
-
- |
-|
-
-Software Developer
-
- |
-
-3
-
- |
-
-$113
-
- |
-
-$637,320
-
- |
-|
-
-Designer
-
- |
-
-3
-
- |
-
-$102
-
- |
-
-$575,280
-
- |
-|
-
-Content strategist
-
- |
-
-1
-
- |
-
-$144
-
- |
-
-$270,720
-
- |
-|
-
-Total
-
- |
-
-$1,964,600
-
- |
+| Position Title          | # of people | Average hourly labor rate | Cost       |
+|-------------------------|-------------|:-------------------------:|------------|
+| Software Developer Lead |           1 |                      $133 |   $250,040 |
+| Design Lead             |           1 |                      $123 |   $231,240 |
+| Software Developer      |           3 |                      $113 |   $637,320 |
+| Designer                |           3 |                      $102 |   $575,280 |
+| Content strategist      |           1 |                      $144 |   $270,720 |
+|                         |             |                     **Total** | **$1,964,600** |
 
 Generally, we advise keeping contracts under $10 million for the entire period of performance, which we usually set at three years (one base and two one-year option periods). An Agile software development team will produce a great deal of user value during that time. If the work is scoped appropriately, the team should be able to deliver all the major features that users need.
 
