@@ -21,6 +21,11 @@ subnav:
 {:.usa-sr-only}
 
 ## Doing the work
+
+<div markdown="1" class="chapter__img-container">
+{% asset agile-best-practices.svg class="chapter__img" alt="" %}
+</div>
+
 The following sections identify challenges and strategies to reduce risk during the post-award phase of custom technology projects in government.
 
 ### Host an effective post-award kick-off meeting to energize folks for the work to come.
