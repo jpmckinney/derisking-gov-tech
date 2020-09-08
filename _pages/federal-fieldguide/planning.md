@@ -314,7 +314,7 @@ A few rules:
 
 1.  **No big up-front design:** Under waterfall development, agencies spend months or years getting infrastructure procured and deployed so software development can happen. But this becomes trivial with cloud hosting --- instead of spending a lot of time figuring out infrastructure, database, business logic, user interface, etc., those can be created by the scrum team as they work on user stories as "slices" that cut across these layers. 
 
-![](https://lh3.googleusercontent.com/kDh7GIZfhppR9OOM0iWyWGuvkDlG5AMfMqJunee8HLaomZhsP77ONUonpqyaZkImHZNJjbfn_NpwMDSCQZezi-I0Tv3OqKG09aETKLSqwY4eHYEu2U-epfGRvtcag7Q7wgKrxJWv)
+{% asset story-slices.svg alt="User stories include all of layers" %}
 
 1.  **No big-bang launch:** Many times, agencies say they intend to swap out a legacy system for a new system all at once, usually described as happening in a single day or over a weekend. This is rarely needed. Most often, we suggest they use a "strangler" (also known as "[encasement](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/)") strategy to modernize legacy systems.
 
