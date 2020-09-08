@@ -23,7 +23,7 @@ subnav:
 ## Deciding what to buy
 
 <div markdown="1" class="chapter__img-container">
-{% asset agile-best-practices.svg class="chapter__img" alt="" %}
+{% asset fed3-choosing.svg class="chapter__img" alt="" %}
 </div>
 
 The following sections identify challenges and strategies to mitigate risk during the research and solicitation phase of custom technology projects in government.
