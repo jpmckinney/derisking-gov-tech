@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The De-risking Government Technology Project provides expert, actionable guidance to the public sector
   for delivering federally-funded, custom technology projects successfully.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://derisking-guide.18f.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.
 twitter: 18F
