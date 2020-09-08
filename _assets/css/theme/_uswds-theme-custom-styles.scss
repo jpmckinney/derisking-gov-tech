@@ -32,6 +32,7 @@ $img-max-width-2xs:   30%;
 $img-max-width-3xs:   20%;
 
 $section-img-size: 200px;
+$guide-donwnload-size: 28px;
 
 $bullet-spacing: 1.25rem; // matches defualt in MD
 
@@ -416,7 +417,7 @@ p.tagline__caption {
 }
 
 .guide__download__img {
-  max-width: 28px;
+  max-width: $guide-donwnload-size;
   vertical-align: middle;
   margin-right: units(1);
 }

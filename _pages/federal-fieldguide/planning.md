@@ -31,6 +31,9 @@ subnav:
 
 # Federal Field Guide
 
+{%asset book-open-3.svg class="guide__download__img"%}Download this guide as a [printable pdf](#)
+{:.guide__download__bg}
+
 ## Planning
 
 <div markdown="1" class="chapter__img-container">
