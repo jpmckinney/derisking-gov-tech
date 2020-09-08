@@ -215,7 +215,7 @@ By **Waldo Jaquith**
 
 #### Executive Summary
 
--   A great deal happens between a developer writing code and then running the code where people can use it. It is important that the government controls the entire process to avoid vendor lock-in.
+A great deal happens between a developer writing code and then running the code where people can use it. It is important that the government controls the entire process to avoid vendor lock-in.
 
 #### Recommendation
 
@@ -263,7 +263,7 @@ By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **M
 
 #### Executive Summary
 
--   Leadership's role in Agile development is to empower teams, align organizational governance and oversight practices to Agile development, and remove blockers. 
+Leadership's role in Agile development is to empower teams, align organizational governance and oversight practices to Agile development, and remove blockers. 
 
 #### Recommendation
 
@@ -378,7 +378,7 @@ By **Heather Battaglia**, **T Carter Baxter**, **Kelsey Foley**, **Mark Hopson**
 
 #### Executive Summary
 
--   It is demoralizing and expensive if a contractor is brought on to develop software and they can't access the hosting or deployment environments for months. Make sure the path to production is clear from bureaucratic obstacles and well-documented before awarding a contract for Agile software development services.
+It is demoralizing and expensive if a contractor is brought on to develop software and they can't access the hosting or deployment environments for months. Make sure the path to production is clear from bureaucratic obstacles and well-documented before awarding a contract for Agile software development services.
 
 #### Recommendation
 
