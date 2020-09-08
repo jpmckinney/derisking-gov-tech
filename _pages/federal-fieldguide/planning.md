@@ -330,7 +330,7 @@ At this point, agencies often face two challenges: 
 
 1.  **Move to Agile by team.** Moving to Agile tends to bring out organizational antibodies that stifles and discourages innovation. To combat this, we start small. Allow one or two brave teams to test out Agile, learn, and recommend for what procedures, practices, and tools must be tweaked to enable Agile for the entire organization.
 
-If several teams are told to adopt Agile at the same time, that does not allow for this important learning to occur and scale naturally. A large-scale, simultaneous Agile transition requires every team to undergo the same painful and frustrating learning process. These teams will probably develop their own solutions that will be based on the path of least resistance, rather than what is right for the enterprise. 
+    If several teams are told to adopt Agile at the same time, that does not allow for this important learning to occur and scale naturally. A large-scale, simultaneous Agile transition requires every team to undergo the same painful and frustrating learning process. These teams will probably develop their own solutions that will be based on the path of least resistance, rather than what is right for the enterprise. 
 
 1.  **Don't consolidate contracts.** There is no "economy of scale" when buying professional services. There is no reason to combine several product teams' needs into a single contract award. It does not reduce complexity --- rather, it hides the complexity inherent in any development effort. Consolidating contracts increases risk by creating a single point of failure. And it does not allow the agency to buy specialized skills that it might need for just one team.
 
@@ -339,6 +339,7 @@ If several teams are told to adopt Agile at the same time, that does not allow f
 The ideal size of a scrum team is somewhere between four to nine people. Let's pick the high end, nine people, and put together a reasonable mix of talent for the team. Using [GSA's Contract-Awarded Labor Category](https://calc.gsa.gov/) tool, it's simple to estimate the labor cost per hour and multiply that by a reasonable number of hours that a person would be expected to work in a given year: 1,880 (accounting for holidays and leave). Our independent government cost estimate (IGCE) in this scenario, for one year of performance, is $1.9 million.
 
 _Note: The below table represents an estimate using the industry average cost of purchasing services from a private company offering Agile software development. If an agency requires their development teams to be on-site or have top-secret security clearances, the pool of available companies to compete on this work will be drastically reduced, and the agency can expect the average hourly labor rates to be substantially higher (especially as the clearance process itself is an added cost). Also, these positions and their hourly rates vary greatly depending on location within the United States that the employee is located._
+{:.guide-note}
 
 | Position Title          | # of people | Average hourly labor rate[^rate] | Cost       |
 |-------------------------|-------------|:-------------------------:|------------|

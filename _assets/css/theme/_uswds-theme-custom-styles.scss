@@ -479,12 +479,12 @@ p.tagline__caption {
   margin-left: units(8);
 }
 
-blockquote p {
+blockquote p, .guide-note {
   @include u-font ('body', 'sm');
   color: color($theme-color-base);
 }
 
-
+// bullet lists and nested bullet lists
 .usa-prose li p {
   margin: units(2) 0 units(1);
 }
