@@ -42,7 +42,7 @@ subnav:
 
 The following sections identify challenges and strategies to mitigate risk while planning custom technology projects in government.
 
-### Assign dedicated and empowered product owners to lead development efforts. 
+### Assign dedicated and empowered product owners to lead development efforts 
 
 By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
 
@@ -71,7 +71,7 @@ Product owners come from all walks of life. To serve in this role, they don't ne
 
 They also need a willingness to learn and have the time and space to experiment, make mistakes, and grow. They should also receive training -- there are many excellent scrum product owner offerings available -- and would benefit from working with an experienced scrum master and/or Agile coach as they begin to master this new skill. 
 
-### Involve end users early and often in software development efforts.
+### Involve end users early and often in software development efforts
 By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
 
 **Challenge**: Product development efforts lack sufficient end user input.
@@ -91,7 +91,7 @@ Without regular and ongoing feedback from actual end users, an agency can't be A
 
 Every effort should start with end user research. Every user story in the product backlog should be based on current end user needs. End users should be continuously asked for feedback on product direction to shape the product to their needs. Development teams should be empowered to make changes in direction based on the feedback of end users. In many cases, end users should be included in every sprint review, so they can see the product mature iteratively, and provide feedback on direction.
 
-### Consider tradeoffs in build-or-buy decisions, taking all factors into consideration. 
+### Consider tradeoffs in build-or-buy decisions, taking all factors into consideration 
 By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
 
 **Challenge**: Customizing commercial off-the-shelf (COTS) can have adverse outcomes.
@@ -161,7 +161,7 @@ This includes anything commercially available that is modified either in a way t
 
 > "...not customarily available in the commercial marketplace made to meet Federal Government requirements. Minor modifications means modifications that do not significantly alter the nongovernmental function or essential physical characteristics of an item or component, or change the purpose of a process. Factors to be considered in determining whether a modification is minor include the value and size of the modification and the comparative value and size of the final product. Dollar values and percentages may be used as guideposts, but are not conclusive evidence that a modification is minor..."
 
-### Default to open.
+### Default to open
 By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy-Sidibe**
 
 **Challenge**: Agencies are not taking advantage of the benefits of open source.
@@ -204,7 +204,7 @@ Building with open source technologies, and building in an open code repository,
 
 Open source software also shows a developer's skills. Skilled developers want to work on open source projects to demonstrate their skills to colleagues, their current employer, and future employers. When their code is available for anyone to check, their personal standards go up and other developers can contribute to the project to improve outcomes.
 
-### Require infrastructure-as-code, single-command deployment, and per-sprint government verification of functionality.
+### Require infrastructure-as-code, single-command deployment, and per-sprint government verification of functionality
 
 By **Waldo Jaquith**
 
@@ -253,7 +253,7 @@ The government can review these proposed instructions as a pull request before t
 
 By having contractors use DevOps and define infrastructure as code, agencies can monitor and control technical work, and retain ownership over their technical infrastructure.
 
-### Leadership should set direction and empower teams.
+### Leadership should set direction and empower teams
 By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **Mark Hopson**, **Waldo Jaquith**
 
 **Challenge:** Leadership's role differs in an Agile project.
@@ -279,7 +279,7 @@ Other constructive involvement of leadership and key stakeholders in Agile devel
 
 The level of leadership and stakeholder involvement needed is personality- and team-dependent, so there likely isn't a one-size-fits-all approach that will work with all teams.
 
-### Software development efforts should be tightly scoped to reduce risk and avoid overspending.
+### Software development efforts should be tightly scoped to reduce risk and avoid overspending
 
 By **Mark Hopson**, **Vicki McFadden**
 
@@ -367,7 +367,7 @@ With Agile development, an agency can give a reasonable estimate for cost and sc
 
 Product owners should develop a product roadmap and share it with stakeholders. Agencies should not use product roadmaps to forecast  what will be delivered when, but use them to help communicate the priority order in which work is anticipated to be done. They are designed to help deliver the highest value to users within a given budget or time constraint. 
 
-### Validate and clear the 'path to production' before awarding a contract to make sure that when the contractor starts working, they can actually start working.
+### Validate and clear the 'path to production' before awarding a contract to make sure that when the contractor starts working, they can actually start working
 By **Heather Battaglia**, **T Carter Baxter**, **Kelsey Foley**, **Mark Hopson**, **Waldo Jaquith**, **Vicki McFadden**, **Steven Reilly**, **Greg Walker**
 
 **Challenge:** Not having a clear path to production derails development efforts.
@@ -421,7 +421,7 @@ These are the general criteria to ensure an agency is ready for an Agile softwar
 
 If these success criteria are known, a team can feel confident that they can award an Agile software development contract and that the contractor onboarding process should be relatively smooth. 
 
-### Give teams access to the remote collaboration tools that they need to be successful. 
+### Give teams access to the remote collaboration tools that they need to be successful 
 By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vicki McFadden**, **Miatta Myers**
 
 **Challenge:** Distributed teamwork is impeded by restricted access to collaboration tools.
@@ -453,7 +453,7 @@ In the past, our teams have used the following tools to support remote work. See
 
 Agencies should determine which collaboration tools their teams need and make those available. As an interim step, agencies may want to develop a provisional Authorization to Operate (ATO) process for piloting tools that are relatively low risk before figuring out which tools should go through the ATO process to be rolled out more broadly. 
 
-### Invest in technology incrementally and budget for risk mitigation prototyping. 
+### Invest in technology incrementally and budget for risk mitigation prototyping 
 
 **Mark Hopson** with special thanks to **Charles Tetreault** and other contributors.
 
