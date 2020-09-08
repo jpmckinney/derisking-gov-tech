@@ -246,29 +246,30 @@ Considerations for any direct conversations with contractors:
 
 Sample approaches to use:
 
--   Start every conversation with some variation on the following phrases:
+**Start every conversation** with some variation on the following phrases:
 
--   "Nothing discussed in this meeting authorizes you to work, start work, or otherwise obligates the government and is only for market research purposes. Any assumption on your part or on the part of your company is a mistake and has no effect on the government."
+>   "Nothing discussed in this meeting authorizes you to work, start work, or otherwise obligates the government and is only for market research purposes. Any assumption on your part or on the part of your company is a mistake and has no effect on the government."
 
--   "We are talking as part of ongoing market research / for market research purposes only. This conversation in no way obligates the government, or should make you believe that we have entered into a contract of any kind."
+>   "We are talking as part of ongoing market research / for market research purposes only. This conversation in no way obligates the government, or should make you believe that we have entered into a contract of any kind."
 
--   Fairness: Treat all potential bidders, vendors, manufacturers, and everyone else fairly and impartially. 
+**Fairness**: Treat all potential bidders, vendors, manufacturers, and everyone else fairly and impartially. 
 
--   Sunshine test: Imagine that everything done has a public audience. Consider whether an disinterested, casual observer would believe the government employee acted responsibly and reasonably.
+**Sunshine test**: Imagine that everything done has a public audience. Consider whether an disinterested, casual observer would believe the government employee acted responsibly and reasonably.
 
--   Institutional knowledge: Reach out to and rely on colleagues and other experienced procurement professionals to learn best practices for conducting interactions, documenting any exchanges, and developing requirements for competitive solicitations.
+**Institutional knowledge**: Reach out to and rely on colleagues and other experienced procurement professionals to learn best practices for conducting interactions, documenting any exchanges, and developing requirements for competitive solicitations.
 
+&nbsp;  
 Government employees must ensure that they keep all transactions with sales people professional, transparent, and courteous. But they also have the same responsibility.
 
 Here are some common sales tactics agencies face:
 
--   **Cold contact:** Where someone you probably have never met calls or emails you about their company or offerings and how it will help you.
+**Cold contact**: Where someone you probably have never met calls or emails you about their company or offerings and how it will help you.
 
--   **Name-dropping:** Mentioning someone in a higher position or a supervisor, or referencing a conversation that may never have happened to try and gain influence with you or sway you in the direction they want.
+**Name-dropping**: Mentioning someone in a higher position or a supervisor, or referencing a conversation that may never have happened to try and gain influence with you or sway you in the direction they want.
 
--   **Networked intro:** Best way is to develop a good reputation with one customer and then make that customer work for you by introducing or referring them to other potential customers within an organization.
+**Networked intro**: Best way is to develop a good reputation with one customer and then make that customer work for you by introducing or referring them to other potential customers within an organization.
 
--   **Big pitch:** Much broader or organized effort to provide a well-thought-out presentation to get a bigger group of customers excited or interested in buying a solution.
+**Big pitch**: Much broader or organized effort to provide a well-thought-out presentation to get a bigger group of customers excited or interested in buying a solution.
 
 Talking to potential competitors can be extremely valuable, as the Office of Management and Budget's memo, [Myth-Busting: Addressing Misconceptions to Improve Communication with Industry during the Acquisition Process](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/Myth-Busting.pdf), points out. 
 
@@ -320,8 +321,10 @@ For more than 20 years, using non-performance based formats, such as the Stateme
 
 > (a) Performance-based acquisition (see [subpart 37.6](https://www.acquisition.gov/content/part-37-service-contracting#i1077388)) is the preferred method for acquiring services (Public Law 106-398, section 821). When acquiring services, including those acquired under supply contracts or orders, agencies must --
 
-(1) Use performance-based acquisition methods to the maximum extent practicable
+> (1) Use performance-based acquisition methods to the maximum extent practicable
 {:.guide-indent}
+
+
 
 Performance-based service contracting (PBSC) emphasizes that all aspects of an acquisition must be structured around the *purpose of the work* to be performed with an objective assessment of contractor performance, instead of prescribing the manner in which the work is to be performed. It ensures that:
 
@@ -341,42 +344,43 @@ A quicker, more outcome-oriented method, such as 18F's [Agile contract format](h
 
 The format is simple but contains a major shift in how agencies procure Agile software development services. In our experience, these elements are needed to align the solicitation with Agile software development best practices:
 
--   **Use a Statement of Objectives --- not a Statement of Work or Performance Work Statement**[^statement] --- because, with Agile, an agency doesn't know exactly what needs to be done, and can't possibly define it up front. The product owner, working with the development team, will determine on a sprint-by-sprint basis what work needs to be done. Anything else wouldn't be Agile.
+**Use a Statement of Objectives --- not a Statement of Work or Performance Work Statement**[^statement] --- because, with Agile, an agency doesn't know exactly what needs to be done, and can't possibly define it up front. The product owner, working with the development team, will determine on a sprint-by-sprint basis what work needs to be done. Anything else wouldn't be Agile.
 
--   **Contract for time and materials, not a firm-fixed-price.** In most cases when an agency is purchasing for a software project, they're not buying a defined product, but instead buying a software development teams' time. Agencies can use a time-and-materials contract, as the CO may prefer, or a labor hour contract. Historically, the default contract types for IT projects were firm-fixed-price, based on the assumption that this reduces risk and aligns with the way software licenses have historically been offered.
+ **Contract for time and materials, not a firm-fixed-price.** In most cases when an agency is purchasing for a software project, they're not buying a defined product, but instead buying a software development teams' time. Agencies can use a time-and-materials contract, as the CO may prefer, or a labor hour contract. Historically, the default contract types for IT projects were firm-fixed-price, based on the assumption that this reduces risk and aligns with the way software licenses have historically been offered.
 
-    However, if an agency is in a position to constantly measure ("inspect and accept" in Agile) software quality, a time and materials contract --- with a ceiling on total spending (or not-to-exceed ceiling) --- allows for more flexibility for the software development team. A time and materials contract also allows for much easier escape clauses if the direction of the work changes or the contractor team does not produce quality software. If their work is inadequate, or their skills prove inappropriate, then no further work needs to be assigned to that contractor (effectively terminating the contract), and the contractor can be replaced. See our sample[ Determinations & Findings](https://18f.gsa.gov/assets/presentations/determinations-findings-for-a-time-and-materials-contract-type-sample.docx) for more information on time and material contracts.
+However, if an agency is in a position to constantly measure ("inspect and accept" in Agile) software quality, a time and materials contract --- with a ceiling on total spending (or not-to-exceed ceiling) --- allows for more flexibility for the software development team. A time and materials contract also allows for much easier escape clauses if the direction of the work changes or the contractor team does not produce quality software. If their work is inadequate, or their skills prove inappropriate, then no further work needs to be assigned to that contractor (effectively terminating the contract), and the contractor can be replaced. See our sample[ Determinations & Findings](https://18f.gsa.gov/assets/presentations/determinations-findings-for-a-time-and-materials-contract-type-sample.docx) for more information on time and material contracts.
 
--   **Have a short base period of performance, usually between 6--12 months.** A couple of options to extend are fine, but keep them short, and never exceed a total contract length of three years. The agency is hiring a team to achieve a defined set of objectives and then leave. The government product owner should be heavily engaged throughout the project so contractor transitions should be relatively easy.
+**Have a short base period of performance, usually between 6--12 months.** A couple of options to extend are fine, but keep them short, and never exceed a total contract length of three years. The agency is hiring a team to achieve a defined set of objectives and then leave. The government product owner should be heavily engaged throughout the project so contractor transitions should be relatively easy.
 
--   **Maintain a nominal appendix of the backlog of user stories.** User stories allow contractors to understand the specifics of the work that they're being asked to do, beyond whatever brief summary exists in the introduction. An agency must make it clear that the backlog has been included to illustrate the work that is presently believed will need to be done, but that it is only an illustration, and not a list of tasks that must be completed. It's a mistake to inventory user stories up front, rather than as part of performance. There's no way to know up front what work will need to be done, as is inherent to Agile (design, build, test; inspect; repeat). The language provided in the Agile contract format allows for this flexibility, since the backlog accounts for evolving outcomes rather than a predefined list of needs.
+**Maintain a nominal appendix of the backlog of user stories.** User stories allow contractors to understand the specifics of the work that they're being asked to do, beyond whatever brief summary exists in the introduction. An agency must make it clear that the backlog has been included to illustrate the work that is presently believed will need to be done, but that it is only an illustration, and not a list of tasks that must be completed. It's a mistake to inventory user stories up front, rather than as part of performance. There's no way to know up front what work will need to be done, as is inherent to Agile (design, build, test; inspect; repeat). The language provided in the Agile contract format allows for this flexibility, since the backlog accounts for evolving outcomes rather than a predefined list of needs.
 
--   **Write a Quality assurance and surveillance plan (QASP).** This is the cornerstone of performance-based service contracting. Rather than an exhaustive list, we focus on key, objective criteria that are able to determine and ensure quality.[^quality] For example, in our model, we require that at the end of each sprint, all code be complete, tested, accessible, deployed, documented, and secure.
+**Write a Quality assurance and surveillance plan (QASP).** This is the cornerstone of performance-based service contracting. Rather than an exhaustive list, we focus on key, objective criteria that are able to determine and ensure quality.[^quality] For example, in our model, we require that at the end of each sprint, all code be complete, tested, accessible, deployed, documented, and secure.
 
-    Historically, the process of preparing software for use by its intended audience was complex, time-consuming, and risky. Standard industry practices have been automated making it simple, fast, and routine. Contractors must adhere to this practice ensuring agencies can deploy software themselves, without requiring highly technical staff to perform this trivial task. Allowing deployment to become complicated makes the agency dependent on that contractor, and makes it risky to replace them with a new contractor in the future.
+Historically, the process of preparing software for use by its intended audience was complex, time-consuming, and risky. Standard industry practices have been automated making it simple, fast, and routine. Contractors must adhere to this practice ensuring agencies can deploy software themselves, without requiring highly technical staff to perform this trivial task. Allowing deployment to become complicated makes the agency dependent on that contractor, and makes it risky to replace them with a new contractor in the future.
 
-    We publish [a sample QASP](https://github.com/18F/technology-budgeting/blob/master/handbook.md#appendix-b-sample-quality-assessment-surveillance-plan-qasp) that can be incorporated as-is. We will continue to update this QASP as we discover additional, meaningful, and objective quality metrics.
+We publish [a sample QASP](https://github.com/18F/technology-budgeting/blob/master/handbook.md#appendix-b-sample-quality-assessment-surveillance-plan-qasp) that can be incorporated as-is. We will continue to update this QASP as we discover additional, meaningful, and objective quality metrics.
 
--   **Key personnel should include, at a minimum, the lead developer, and quite possibly the project manager.** The agency is buying people's time, and wants to make sure that it's getting the people who were advertised. Be wary of specifying too many key personnel, though --- this requires that the contractors put those people on the project if they get the contract, which can mean that they're functionally benched until the contract is awarded. 
+**Key personnel should include, at a minimum, the lead developer, and quite possibly the project manager.** The agency is buying people's time, and wants to make sure that it's getting the people who were advertised. Be wary of specifying too many key personnel, though --- this requires that the contractors put those people on the project if they get the contract, which can mean that they're functionally benched until the contract is awarded. 
 
 In a truly Agile project, the project manager plays a very different role than in a waterfall project. Agile teams are self-organizing, which eliminates a major role traditionally played by a project manager. Instead, the project manager should serve as the contractor's interface to the client, be responsible for unblocking tasks and overseeing --- but not controlling --- the work performed by the vendor team. In many agencies, the project manager's role is usually required to prove that the agency is not engaged in personal services.
 
--   **Allow for a distributed team**, whenever possible. We advocate for remote development, rather than requiring the contractor team to be onsite at the agency's location. The best development resources are not in your city --- they're spread out across your state and even the country. (There's a [150% difference in the salary of software developers](https://www.bls.gov/oes/current/oes151132.htm#IDX701) between the most-expensive and least-expensive states in the United States.)
+**Allow for a distributed team**, whenever possible. We advocate for remote development, rather than requiring the contractor team to be onsite at the agency's location. The best development resources are not in your city --- they're spread out across your state and even the country. (There's a [150% difference in the salary of software developers](https://www.bls.gov/oes/current/oes151132.htm#IDX701) between the most-expensive and least-expensive states in the United States.)
 
-    Using a modern technology suite, collaboration is easy. The product owner should always know what the team is working on, and the team should be readily available to answer questions or huddle on any issue that arises. They can do this with video calling for face-to-face collaboration (e.g. Google Meet, Zoom, etc.); instant messaging (e.g. Slack, Google Chat, etc.); task management (e.g. GitHub, Trello, etc.); and collaborative document editing (e.g. Google Docs, Office 365, etc.).
+Using a modern technology suite, collaboration is easy. The product owner should always know what the team is working on, and the team should be readily available to answer questions or huddle on any issue that arises. They can do this with video calling for face-to-face collaboration (e.g. Google Meet, Zoom, etc.); instant messaging (e.g. Slack, Google Chat, etc.); task management (e.g. GitHub, Trello, etc.); and collaborative document editing (e.g. Google Docs, Office 365, etc.).
 
--   **All work products must be published under an open source license** --- or, if using traditional proprietary code, the contract must secure sufficient data rights for the government in the work product to allow for use as intended and future development.
+**All work products must be published under an open source license** --- or, if using traditional proprietary code, the contract must secure sufficient data rights for the government in the work product to allow for use as intended and future development.
 
--   **All work will be committed to a public code repository** at least daily.
+**All work will be committed to a public code repository** at least daily.
 
--   **Keep technical proposals within page limitations**, to minimize both contractor work and the time required for evaluation. Requests for more space may indicate that the contractor isn't taking an Agile approach, or that they don't adequately understand what they're proposing. In 18F acquisitions, we typically ask for responses to be 2-3 pages.
+**Keep technical proposals within page limitations**, to minimize both contractor work and the time required for evaluation. Requests for more space may indicate that the contractor isn't taking an Agile approach, or that they don't adequately understand what they're proposing. In 18F acquisitions, we typically ask for responses to be 2-3 pages.
 
--   **The contractor must submit links to 2-3 source code repositories** where their illustrative past work can be seen. Allow this to include work done by key personnel (e.g., the technical lead) outside of their employment with the contractor, since many contractors will not have any public repositories to point to for lack of clients willing to work in the open. This is a far better indicator for how they are likely to perform under real-world conditions rather than the attempted simulation of coding challenges or hackathons.
+**The contractor must submit links to 2-3 source code repositories** where their illustrative past work can be seen. Allow this to include work done by key personnel (e.g., the technical lead) outside of their employment with the contractor, since many contractors will not have any public repositories to point to for lack of clients willing to work in the open. This is a far better indicator for how they are likely to perform under real-world conditions rather than the attempted simulation of coding challenges or hackathons.
 
--   **Evaluation criteria should emphasize the contractor's proposed technical approach and their similar experience / past performance.** An agency should hire a team based on their experience and their general approach to the work at hand. There's little else to go on other than these two criteria. This focus also keeps the contractor's performance work statement brief and to the point.
+**Evaluation criteria should emphasize the contractor's proposed technical approach and their similar experience / past performance.** An agency should hire a team based on their experience and their general approach to the work at hand. There's little else to go on other than these two criteria. This focus also keeps the contractor's performance work statement brief and to the point.
 
--   **Contractors' key personnel must participate in a verbal interview process.** This provides an opportunity to hear directly from the people who will be doing the work, rather than contractors' capture managers, and usually proves a quick way of separating the wheat from the chaff. This is not the type of conversation that is defined in the FAR as "discussions," or "clarifications," and does not allow for any revisions to the already submitted, written proposal. Instead it's a critical quality control measure that confirms what was written down in the written proposal.
+**Contractors' key personnel must participate in a verbal interview process.** This provides an opportunity to hear directly from the people who will be doing the work, rather than contractors' capture managers, and usually proves a quick way of separating the wheat from the chaff. This is not the type of conversation that is defined in the FAR as "discussions," or "clarifications," and does not allow for any revisions to the already submitted, written proposal. Instead it's a critical quality control measure that confirms what was written down in the written proposal.
 
+&nbsp;  
 All of the above can be incorporated into a solicitation in a dozen or so pages, not including appendices like standard administrative clauses, a description of the technical environment that the contractor will be working within, the product backlog, etc.
 
 You can put a solicitation like this together in a few hours. In a standard, three-day 18F procurement workshop, we use only the latter half of the third day to lead our client through an exercise in which we put together such a solicitation. With the right coaching, it's not hard.
@@ -597,37 +601,37 @@ Red flags:
 
 -   Key skills don't appear in any qualifications, such as:
 
--   Platform migration 
+    -  Platform migration 
 
--   Agile development practices
+    -  Agile development practices
 
--   Automated (unit/integration/end-to-end) testing
+    -  Automated (unit/integration/end-to-end) testing
 
--   Continuous Integration and Continuous Deployment
+    -  Continuous Integration and Continuous Deployment
 
--   DevOps
+    -  DevOps
 
--   Refactoring to minimize technical debt
+    -  Refactoring to minimize technical debt
 
--   Application Protocol Interface (API) development and documentation
+    -  Application Protocol Interface (API) development and documentation
 
--   Open-source software development
+    -  Open-source software development
 
--   Cloud deployment
+    -  Cloud deployment
 
--   Product management and strategy
+    -  Product management and strategy
 
--   Usability research, such as (but not limited to) contextual inquiry, stakeholder interviews, and usability testing
+    -  Usability research, such as (but not limited to) contextual inquiry, stakeholder interviews, and usability testing
 
--   User experience design
+    -  User experience design
 
--   Sketching, wireframing, and/or prototyping, and user-task flow development
+    -  Sketching, wireframing, and/or prototyping, and user-task flow development
 
--   Visual design
+    -  Visual design
 
--   Content design and copywriting
+    -  Content design and copywriting
 
--   Building and testing public-facing sites and tools
+    -  Building and testing public-facing sites and tools
 
 -   No actual technical staff, but "access to a database of resumes."
 
