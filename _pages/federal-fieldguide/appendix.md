@@ -13,6 +13,9 @@ subnav:
 {:.usa-sr-only}
 
 ## Appendix
+<div markdown="1" class="chapter__img-container">
+{% asset fed5-appendix.svg class="chapter__img" alt="" %}
+</div>
 
 ### Verbal Interview Question Bank
 

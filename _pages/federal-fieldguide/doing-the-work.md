@@ -23,7 +23,7 @@ subnav:
 ## Doing the work
 
 <div markdown="1" class="chapter__img-container">
-{% asset agile-best-practices.svg class="chapter__img" alt="" %}
+{% asset fed4-work.svg class="chapter__img" alt="" %}
 </div>
 
 The following sections identify challenges and strategies to reduce risk during the post-award phase of custom technology projects in government.
