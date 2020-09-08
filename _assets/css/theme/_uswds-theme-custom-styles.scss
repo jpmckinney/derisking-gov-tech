@@ -406,10 +406,19 @@ p.tagline__caption {
 
 // State Guidelines
 
-.guide-highlight {
+.guide-highlight, .guide__download__bg {
   background-color: color('blue-5');
-  border-left: 4px solid color('secondary');
   padding: units(2);
+}
+
+.guide-highlight {
+  border-left: 4px solid color('secondary');
+}
+
+.guide__download__img {
+  max-width: 28px;
+  vertical-align: middle;
+  margin-right: units(1);
 }
 
 .usa-layout-docs__main .guide-checklist,
