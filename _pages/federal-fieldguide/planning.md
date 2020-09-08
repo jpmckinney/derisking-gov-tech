@@ -82,7 +82,7 @@ By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, *
 
 #### Recommendation
 
-A wide variety of users are likely to interact with government software. For government programs, an end user of a given product could differ -- it could be the public, a warfighter, a field employee, or one of dozens of other groups. Today, end users are not sufficiently involved in government Agile projects. Projects that get funded are not always driven by end user needs. It's common to find "Agile" projects that lack sufficient -- sometimes any -- end user feedback.
+A wide variety of users are likely to interact with government software. For government programs, an end user of a given product could differ -- it could be the public, a warfighter, a field employee, or one of dozens of other groups. Today, end users are not sufficiently involved in government Agile projects. Projects that get funded are not always driven by end user needs. It's common to find "Agile" projects that lack sufficient — sometimes _any_ — end user feedback.
 
 Without regular and ongoing feedback from actual end users, an agency can't be Agile. No level of stakeholder priority-setting or requirements review board processes can substitute for active and continuous end user feedback loops. Someone who had the job of an end user 10--20 years ago cannot serve as a proxy. Surveys do not bring sufficient user feedback into the development efforts. By not communicating with end users, teams could be solving the wrong problems. Under that approach, there is no feedback loop to validate whether the end user is satisfied, which is the primary definition of success in an Agile project. This is an extremely risky way of developing software.
 
@@ -100,7 +100,7 @@ By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, *
 
 -   Agencies should be wary of customizing COTS solutions to meet their needs -- this software is difficult to maintain and may leave the agency locked into a long-term, sole-source relationship with the contractor. 
 
--   Most government purchases are commercial, not non-commercial, and should leverage simplified acquisition procedures.
+-   Most government purchases are _commercial_, not _non-commercial_, and should leverage simplified acquisition procedures.
 
 #### Recommendation
 
@@ -110,7 +110,7 @@ In these situations, the agency pays industry to develop custom software that th
 
 Over time, these systems become more difficult to maintain, as new features and customizations are added to the base COTS product, each of which bring it further away from actually being COTS. 18F technologists often refer to these products as "unrecognizably modified off-the-shelf" software, or "UMOTS."
 
-Modifying COTS software[^software]: eliminates most of the benefits of using COTS. Customized COTS is often modified to the point where routine software updates can no longer be applied. At this point, the software requires expensive custom updates for the duration of the software's life. It also locks the agency into a long-term (and often sole-source) relationship with that contractor.
+Modifying COTS software[^software] eliminates most of the benefits of using COTS. Customized COTS is often modified to the point where routine software updates can no longer be applied. At this point, the software requires expensive custom updates for the duration of the software's life. It also locks the agency into a long-term (and often sole-source) relationship with that contractor.
 
 Without a path to replace highly modified COTS software or to bring it back into compatibility with developer updates, these systems require substantial maintenance expenses over time. Though COTS itself is an appealing way to gain desired functionality rapidly, the hidden costs of modification and the timeline to implement these changes may eventually outweigh these benefits.
 
@@ -142,21 +142,21 @@ A team may want to go with custom software development when:
 
 -   No other organization has successfully implemented the COTS solution in a situation that is similar to the one the team is facing.
 
-Commercial designations and the FAR
+##### Commercial designations and the FAR
 
-Agencies also mistakenly designate their development effort as non-commercial. This requires them to use restrictive and time-consuming parts of the Federal Acquisition Regulation (FAR), such as [FAR Part 15](https://www.acquisition.gov/content/part-15-contracting-negotiation). Most government purchases are commercial, whether they are custom software development or COTS purchases. Agencies should leverage simplified acquisition procedures whenever possible. 
+Agencies also mistakenly designate their development effort as _non-commercial_. This requires them to use restrictive and time-consuming parts of the Federal Acquisition Regulation (FAR), such as [FAR Part 15](https://www.acquisition.gov/content/part-15-contracting-negotiation). Most government purchases are commercial, whether they are custom software development or COTS purchases. Agencies should leverage simplified acquisition procedures whenever possible. 
 
 FAR Part 2 defines "commercial" as:
 
-[anything] customarily used by the general public or by non-governmental entities for purposes other than governmental purposes, and-
+> [anything] customarily used by the general public or by non-governmental entities for purposes other than governmental purposes, and-
 
-(i) Has been sold, leased, or licensed to the general public;
+> (i) Has been sold, leased, or licensed to the general public;
 
-or (ii) Has been offered for sale, lease, or license to the general public;
+> or (ii) Has been offered for sale, lease, or license to the general public;
 
 This includes anything commercially available that is modified either in a way that is "customarily available" in the commercial marketplace or in a way that is:
 
-"...not customarily available in the commercial marketplace made to meet Federal Government requirements. Minor modifications means modifications that do not significantly alter the nongovernmental function or essential physical characteristics of an item or component, or change the purpose of a process. Factors to be considered in determining whether a modification is minor include the value and size of the modification and the comparative value and size of the final product. Dollar values and percentages may be used as guideposts, but are not conclusive evidence that a modification is minor..."
+> "...not customarily available in the commercial marketplace made to meet Federal Government requirements. Minor modifications means modifications that do not significantly alter the nongovernmental function or essential physical characteristics of an item or component, or change the purpose of a process. Factors to be considered in determining whether a modification is minor include the value and size of the modification and the comparative value and size of the final product. Dollar values and percentages may be used as guideposts, but are not conclusive evidence that a modification is minor..."
 
 ### Default to open.
 By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy-Sidibe**
@@ -178,20 +178,20 @@ By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy-Sidibe**
 
 -   Publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
 
-18F asked a few of our partner agencies[^agencies]: about how open source has worked for them and what the future looks like across the executive branch:
+18F asked a few of our partner agencies[^agencies] about how open source has worked for them and what the future looks like across the executive branch:
 
-Department of the Interior's Office of Natural Resources Revenue:\
+**Department of the Interior's Office of Natural Resources Revenue:**\
 "...the principles of transparency -- emblematic in both the open data and open code that power the site -- continue to inform our approach. We want the site to embody openness and transparency both in the content provided and in the way we build. For that reason, we use open source software to build the site, and we use GitHub to manage our code and workflow in the open."
 
-Department of Justice's Office of Information Policy (OIP): "Working in the open to get active and frequent feedback from public and government stakeholders was the perfect match for the [National FOIA Portal project](https://github.com/usdoj/foia.gov). Given the core purpose of the FOIA, to shed light on government activities, it was very important to us to develop the first government-wide [National FOIA Portal](https://www.foia.gov/) in the most transparent and open way. Working collaboratively in the open with our diverse stakeholders, we were able to create a dynamic website that meets actual user needs."
+**Department of Justice's Office of Information Policy (OIP):** "Working in the open to get active and frequent feedback from public and government stakeholders was the perfect match for the [National FOIA Portal project](https://github.com/usdoj/foia.gov). Given the core purpose of the FOIA, to shed light on government activities, it was very important to us to develop the first government-wide [National FOIA Portal](https://www.foia.gov/) in the most transparent and open way. Working collaboratively in the open with our diverse stakeholders, we were able to create a dynamic website that meets actual user needs."
 
 "OIP found that by working in the open, we were not only able to get immediate and active feedback from our stakeholders, but also it allowed other technologists to contribute to the overall success of the project. We would also encourage those who are unfamiliar with the open source process to approach it with an open mind."
 
-The Department of Defense (DoD) addresses common security concerns with Open Source Software (OSS):
+**The Department of Defense (DoD)** addresses common security concerns with Open Source Software (OSS):
 
-"Hiding source code does inhibit the ability of third parties to respond to vulnerabilities (because changing software is more difficult without the source code), but this is obviously not a security advantage. In general, 'Security by Obscurity' is widely denigrated...Some OSS is very secure, while others are not; some proprietary software is very secure, while others are not. Each product must be examined on its own merits."[^merits]:
+"Hiding source code does inhibit the ability of third parties to respond to vulnerabilities (because changing software is more difficult without the source code), but this is obviously not a security advantage. In general, 'Security by Obscurity' is widely denigrated...Some OSS is very secure, while others are not; some proprietary software is very secure, while others are not. Each product must be examined on its own merits."[^merits]
 
-Benefits
+##### Benefits
 
 The public funds government projects, and the government should allow the public to use what it has paid for. The public -- and other agencies -- should be able to leverage these investments for their own purposes. Re-use reduces redundancies across the public sector for similar investments and facilitates innovation in the private sector.
 
@@ -295,13 +295,13 @@ By **Mark Hopson**, **Vicki McFadden**
 
 When we ask why they're spending so much, we often hear that the project is important to the agency's mission, the project is a priority for agency leadership, or that their end users are really counting on them to deliver this functionality. 
 
-It's counterintuitive, but spending more money on a project increases the chances of failure. Of government software projects that cost more than $6 million, only 13% succeed. But of those that cost less than $1 million, 57% succeed. [^succeed]:
+It's counterintuitive, but _spending more money on a project increases the chances of failure._ Of government software projects that cost more than $6 million, only 13% succeed. But of those that cost less than $1 million, 57% succeed. [^succeed]
 
 ##### Old trap: Fund and do all the things, right now
 
 Here's a common government IT project story. 
 
-A program is identified as a priority. It is given too much money. The agency spends months or years gathering requirements from every stakeholder imaginable. The scope becomes untenable. The contract is awarded, with the perception that the risk has been outsourced to the contractor. Leadership celebrates. Government gets red/yellow/green "traffic light charts" monthly that show that the project is on track. The agency cycles through several project managers, each playing "hot potato" with this pending disaster. Several years go by. The traffic light charts finally shift to yellow or red on cost, schedule, performance, or all three. Little to no new functionality has been delivered to end users. Finger-pointing begins.
+> A program is identified as a priority. It is given too much money. The agency spends months or years gathering requirements from every stakeholder imaginable. The scope becomes untenable. The contract is awarded, with the perception that the risk has been outsourced to the contractor. Leadership celebrates. Government gets red/yellow/green "traffic light charts" monthly that show that the project is on track. The agency cycles through several project managers, each playing "hot potato" with this pending disaster. Several years go by. The traffic light charts finally shift to yellow or red on cost, schedule, performance, or all three. Little to no new functionality has been delivered to end users. Finger-pointing begins.
 
 ##### New approach: Pick a place and start delivering value
 
@@ -309,13 +309,13 @@ Instead of this tried-and-true approach that nearly guarantees failure, we advoc
 
 A few rules:
 
-1.  No big up-front design: Under waterfall development, agencies spend months or years getting infrastructure procured and deployed so software development can happen. But this becomes trivial with cloud hosting --- instead of spending a lot of time figuring out infrastructure, database, business logic, user interface, etc., those can be created by the scrum team as they work on user stories as "slices" that cut across these layers. 
+1.  **No big up-front design:** Under waterfall development, agencies spend months or years getting infrastructure procured and deployed so software development can happen. But this becomes trivial with cloud hosting --- instead of spending a lot of time figuring out infrastructure, database, business logic, user interface, etc., those can be created by the scrum team as they work on user stories as "slices" that cut across these layers. 
 
 ![](https://lh3.googleusercontent.com/kDh7GIZfhppR9OOM0iWyWGuvkDlG5AMfMqJunee8HLaomZhsP77ONUonpqyaZkImHZNJjbfn_NpwMDSCQZezi-I0Tv3OqKG09aETKLSqwY4eHYEu2U-epfGRvtcag7Q7wgKrxJWv)
 
-1.  No big-bang launch: Many times, agencies say they intend to swap out a legacy system for a new system all at once, usually described as happening in a single day or over a weekend. This is rarely needed. Most often, we suggest they use a "strangler" (also known as "[encasement](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/)") strategy to modernize legacy systems.
+1.  **No big-bang launch:** Many times, agencies say they intend to swap out a legacy system for a new system all at once, usually described as happening in a single day or over a weekend. This is rarely needed. Most often, we suggest they use a "strangler" (also known as "[encasement](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/)") strategy to modernize legacy systems.
 
-2.  Build an ecosystem: Don't replace the hated old monolith with a hated new monolith. Instead, build a little ecosystem of services, each coupled to the others via open application programming interfaces (APIs). This architecture is the premise of Service Oriented Architecture (SOA). It allows projects to be broken into modules that require minimal-to-no coordination between the teams working on each module.
+1.  **Build an ecosystem:** Don't replace the hated old monolith with a hated new monolith. Instead, build a little ecosystem of services, each coupled to the others via open application programming interfaces (APIs). This architecture is the premise of Service Oriented Architecture (SOA). It allows projects to be broken into modules that require minimal-to-no coordination between the teams working on each module.
 
 Once agencies understand that the new system does not need to be entirely designed or defined up-front, we can move directly to how to start work and start to deliver value to users. Usually we help agencies by charting their desired functionality on a 2×2 chart, with user value on one axis and technical complexity on the other. 
 
@@ -325,19 +325,19 @@ This "chunk" of the overall system should be assigned a product owner and allowe
 
 At this point, agencies often face two challenges: 
 
-1.  Move to Agile by team. Moving to Agile tends to bring out organizational antibodies that stifles and discourages innovation. To combat this, we start small. Allow one or two brave teams to test out Agile, learn, and recommend for what procedures, practices, and tools must be tweaked to enable Agile for the entire organization.
+1.  **Move to Agile by team.** Moving to Agile tends to bring out organizational antibodies that stifles and discourages innovation. To combat this, we start small. Allow one or two brave teams to test out Agile, learn, and recommend for what procedures, practices, and tools must be tweaked to enable Agile for the entire organization.
 
 If several teams are told to adopt Agile at the same time, that does not allow for this important learning to occur and scale naturally. A large-scale, simultaneous Agile transition requires every team to undergo the same painful and frustrating learning process. These teams will probably develop their own solutions that will be based on the path of least resistance, rather than what is right for the enterprise. 
 
-1.  Don't consolidate contracts. There is no "economy of scale" when buying professional services. There is no reason to combine several product teams' needs into a single contract award. It does not reduce complexity --- rather, it hides the complexity inherent in any development effort. Consolidating contracts increases risk by creating a single point of failure. And it does not allow the agency to buy specialized skills that it might need for just one team.
+1.  **Don't consolidate contracts.** There is no "economy of scale" when buying professional services. There is no reason to combine several product teams' needs into a single contract award. It does not reduce complexity --- rather, it hides the complexity inherent in any development effort. Consolidating contracts increases risk by creating a single point of failure. And it does not allow the agency to buy specialized skills that it might need for just one team.
 
 ##### Pricing the cost of an Agile software development team
 
 The ideal size of a scrum team is somewhere between four to nine people. Let's pick the high end, nine people, and put together a reasonable mix of talent for the team. Using [GSA's Contract-Awarded Labor Category](https://calc.gsa.gov/) tool, it's simple to estimate the labor cost per hour and multiply that by a reasonable number of hours that a person would be expected to work in a given year: 1,880 (accounting for holidays and leave). Our independent government cost estimate (IGCE) in this scenario, for one year of performance, is $1.9 million.
 
-Note: The below table represents an estimate using the industry average cost of purchasing services from a private company offering Agile software development. If an agency requires their development teams to be on-site or have top-secret security clearances, the pool of available companies to compete on this work will be drastically reduced, and the agency can expect the average hourly labor rates to be substantially higher (especially as the clearance process itself is an added cost). Also, these positions and their hourly rates vary greatly depending on location within the United States that the employee is located.
+_Note: The below table represents an estimate using the industry average cost of purchasing services from a private company offering Agile software development. If an agency requires their development teams to be on-site or have top-secret security clearances, the pool of available companies to compete on this work will be drastically reduced, and the agency can expect the average hourly labor rates to be substantially higher (especially as the clearance process itself is an added cost). Also, these positions and their hourly rates vary greatly depending on location within the United States that the employee is located._
 
-| Position Title          | # of people | Average hourly labor rate[^rate]: | Cost       |
+| Position Title          | # of people | Average hourly labor rate[^rate] | Cost       |
 |-------------------------|-------------|:-------------------------:|------------|
 | Software Developer Lead |           1 |                      $133 |   $250,040 |
 | Design Lead             |           1 |                      $123 |   $231,240 |
@@ -356,11 +356,11 @@ In the bad old days of software development, an agency painfully detailed out al
 
 With Agile development, an agency can give a reasonable estimate for cost and schedule, but the performance is what will change over time based on user research and iterative development. 
 
--   Cost is calculated by using the labor rates proposed by the winning vendor.
+-   **Cost** is calculated by using the labor rates proposed by the winning vendor.
 
--   Schedule is the entire period of performance or some subset of that. For example, some agencies want to deliver a minimally viable product (MVP) in the first 9 months of a software development effort. That's great: it gives the Agile software development team a timeboxed window to complete a useful but limited set of functionality for users. But the agency should know that the product will not be done at this time, and will continue to get refined and have new features added post-MVP.
+-   **Schedule** is the entire period of performance or some subset of that. For example, some agencies want to deliver a minimally viable product (MVP) in the first 9 months of a software development effort. That's great: it gives the Agile software development team a timeboxed window to complete a useful but limited set of functionality for users. But the agency should know that the product will not be done at this time, and will continue to get refined and have new features added post-MVP.
 
--   Performance is unknown at the start of the project. The agency will have a product vision and a sense of the outcomes they're trying to create for end users, but specific functionality --- and the order in which that functionality will be delivered --- is unknown and unknowable. Over time, however, an Agile software team should be able to provide some estimates about when certain functionality should be delivered.
+-   **Performance** is unknown at the start of the project. The agency will have a product vision and a sense of the outcomes they're trying to create for end users, but specific functionality --- and the order in which that functionality will be delivered --- is unknown and unknowable. Over time, however, an Agile software team should be able to provide some estimates about when certain functionality should be delivered.
 
 Product owners should develop a product roadmap and share it with stakeholders. Agencies should not use product roadmaps to forecast  what will be delivered when, but use them to help communicate the priority order in which work is anticipated to be done. They are designed to help deliver the highest value to users within a given budget or time constraint. 
 
@@ -404,7 +404,7 @@ Pull together a meeting with the relevant individuals at the partner agency --- 
 
 -   Are there existing technology stacks, solutions, or components that are approved for use, or recommended? Are there any strong preferences among those options?
 
-Having adequate answers to these questions is the minimum that an agency should have going into a build. If they don't know the answer to these questions, or the answers are murky, more investigation is needed prior to publishing an RFP.
+Having adequate answers to these questions is the _minimum_ that an agency should have going into a build. If they don't know the answer to these questions, or the answers are murky, more investigation is needed prior to publishing an RFP.
 
 ##### Success criteria
 
@@ -430,11 +430,11 @@ By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vick
 
 #### Recommendation
 
-Distributed teams are normal at agencies, as are distributed teams of contractors performing software development work. Allowing employees to work remotely is a great recruitment tool and attracts the best and brightest. It's also more cost effective, increases diversity, increases resilience (for continuity of operations planning), and improves work/life balance for teams. Allowing contractors to be located in a different location than your headquarters increases competition, unlocks the best development resources, and saves money. There's a  [150% difference in the salary of software developers](https://www.bls.gov/oes/current/oes151132.htm#IDX701)  between the most-expensive and least-expensive states in the United States. There's even a similar salary range within some states, such as between Seattle and Spokane, Austin and Abilene, Los Angeles and Eureka.
+Distributed teams are normal at agencies, as are distributed teams of contractors performing software development work. Allowing employees to work remotely is a great recruitment tool and attracts the best and brightest. It's also more cost effective, increases diversity, increases resilience (for continuity of operations planning), and improves work/life balance for teams. Allowing contractors to be located in a different location than your headquarters increases competition, unlocks the best development resources, and saves money. There's a  [150% difference in the salary of software developers](https://www.bls.gov/oes/current/oes151132.htm#IDX701)  between the most-expensive and least-expensive states in the United States. There's even a similar salary range _within_ some states, such as between Seattle and Spokane, Austin and Abilene, Los Angeles and Eureka.
 
 However, remote collaboration can be difficult for agencies. Agency network restrictions and software approval policies make collaboration with remote team members difficult. Many commonly used tools for video-conferencing are blocked in government buildings. Federal employees often resort to workarounds, like using their personal mobile phones, to get access to the services they need. 
 
-Without a set of commonly available collaboration tools, especially for video-conferencing, it is much more difficult for agency teams and contractors to practice Agile development, where frequent communication and feedback are needed to facilitate quick decision-making and prioritization of tasks. The product owner should always know what the team is working on, and the team should be readily available to answer questions or huddle to problem-solve issues as they arise. Every sprint, there should be a demonstration of functioning software. Working like this via phone calls, emails, and PowerPoint presentations is incredibly -- and needlessly -- limiting for a distributed Agile team.
+Without a set of commonly available collaboration tools, especially for video-conferencing, it is much more difficult for agency teams and contractors to practice Agile development, where frequent communication and feedback are needed to facilitate quick decision-making and prioritization of tasks. The product owner should always know what the team is working on, and the team should be readily available to answer questions or huddle to problem-solve issues as they arise. Every sprint, there should be a demonstration of functioning software. Working like this via phone calls, emails, and PowerPoint presentations is _incredibly — and needlessly — limiting_ for a distributed Agile team.
 
 In the past, our teams have used the following tools to support remote work. See this [article](https://digital.gov/2017/10/03/3-ways-manage-research-projects-remotely/) to learn more about managing teams remotely. Some of the tools 18F uses:
 
@@ -468,15 +468,15 @@ Instead of making large, risky investments in major software programs years in a
 
 This idea of modularity can be found in the [Clinger-Cohen Act of 1996](https://www.govinfo.gov/content/pkg/PLAW-104publ106/pdf/PLAW-104publ106.pdf) as enshrined in FAR Part 39 - Acquisition of Information Technology (which introduced modular contracting). Taking a modular approach compartmentalizes failures, reduces the risk of failure, and brings the size of projects below the threshold for greater agency oversight.
 
-The federal budgeting process is a sequential progression of estimates, documents, and revisions between the executive and legislative branches. The executive branch can only request  funds from the legislative branch to carry out an agency mission. 
+The federal budgeting process is a sequential progression of estimates, documents, and revisions between the executive and legislative branches. The executive branch can only request funds from the legislative branch to carry out an agency mission. 
 
-This request begins with the submission of an estimated budget to OMB as part of the preparation of the annual President's Budget. This process is extensively detailed by OMB's policy memorandum for the [Preparation, Submission, and Execution of the Budget](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf).[^budget]: 
+This request begins with the submission of an estimated budget to OMB as part of the preparation of the annual President's Budget. This process is extensively detailed by OMB's policy memorandum for the [Preparation, Submission, and Execution of the Budget](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf).[^budget] 
 
-When the budget is submitted to the legislative branch, both chambers of Congress undertake an extensive review and approval process. Ultimately, this lengthy process results in the passage of a law whereby Congress grants appropriations to the executive agencies to carry out their respective missions. An appropriation is the authority to incur obligations and make payments out of the Treasury for specific purposes. This power to appropriate lies solely with the legislative branch, known as the "power of the purse," from Article I of the U.S. Constitution.[^constitution]:
+When the budget is submitted to the legislative branch, both chambers of Congress undertake an extensive review and approval process. Ultimately, this lengthy process results in the passage of a law whereby Congress grants appropriations to the executive agencies to carry out their respective missions. An appropriation is the authority to incur obligations and make payments out of the Treasury for specific purposes. This power to appropriate lies solely with the legislative branch, known as the "power of the purse," from Article I of the U.S. Constitution.[^constitution]
 
-Almost certainly[^certainly]:, there is a many-month delay for government agencies receiving its new year funding, called a continuing resolution (CR). With a CR, agencies can spend only at the levels they were authorized in the previous year. New projects can't start. Many-month CRs stall contract awards and the agency's ability to start new modernization projects. 
+Almost certainly[^certainly], there is a many-month delay for government agencies receiving its new year funding, called a continuing resolution (CR). With a CR, agencies can spend only at the levels they were authorized in the previous year. New projects can't start. Many-month CRs stall contract awards and the agency's ability to start new modernization projects. 
 
-Receiving an appropriation enables an agency to incur an obligation, which is an action that creates a legal liability or a definite commitment on the part of the government for the payment of goods and services ordered or received. A purchasing contract, in other words. The biggest complication created from this process is that it begins about 18 months before receiving the appropriation.
+Receiving an appropriation enables an agency to incur an obligation, which is an action that creates a legal liability or a definite commitment on the part of the government for the payment of goods and services ordered or received. A purchasing contract, in other words. The biggest complication created from this process is that it begins about **18 months** before receiving the appropriation.
 
 This kind of planning is counter to the adaptive, Agile development, which boasts a vastly greater success rate for building high quality, user-centered digital products and services. 
 
@@ -496,7 +496,7 @@ O&M spending, sometimes called "steady state," refers to the expenses required t
 
 This is important because an agency generally cannot spend appropriated funds intended for one category on a different category. 
 
-While civilian agencies have to choose between one of two categories, DME or O&M, defense and intelligence agencies have the added frustration of another category, Research, Development, Testing, and Evaluation (RDTE). [^RDTE]:
+While civilian agencies have to choose between one of two categories, DME or O&M, defense and intelligence agencies have the added frustration of another category, Research, Development, Testing, and Evaluation (RDTE). [^RDTE]
 
 To complicate things even more, many agencies already have software systems in place to satisfy information technology needs with corresponding budgets and contracts. 
 
@@ -512,13 +512,13 @@ A single agency system may combine annual software licenses, software-as-a-servi
 
 ##### Breaking the Legacy Cycle
 
-According to one GAO report on the current state of software budgeting in the federal government, "in several situations...agencies are not sure whether to report costs as O&M or DME" and so "agencies default to reporting as O&M."[^OM]:
+According to one GAO report on the current state of software budgeting in the federal government, "in several situations...agencies are not sure whether to report costs as O&M or DME" and so "agencies default to reporting as O&M."[^OM]
 
-In fact, most agencies spend less than 20% of their annual budgets on DME, meaning they seem to be trapped in perpetual O&M spending. One major reason for this, as GAO and OMB cite, is that "agencies tend to categorize investments as O&M because they attract less oversight, require reduced documentation, and have a lower risk of losing funding."[^funding]: This last point is especially telling.
+In fact, most agencies spend less than 20% of their annual budgets on DME, meaning they seem to be trapped in perpetual O&M spending. One major reason for this, as GAO and OMB cite, is that "agencies tend to categorize investments as O&M because they attract less oversight, require reduced documentation, and have a lower risk of losing funding."[^funding] This last point is especially telling.
 
 If an agency gets their submitted budget estimates wrong, they can request approval from OMB and then from Congress to transfer amounts among these different categories. However, this can be a very lengthy process and getting approval isn't guaranteed. If the funds have to be obligated in the same fiscal year they were appropriated, they may run out of time.
 
-This logistical issue has resulted in a steady increase in spending on O&M for legacy systems. In 2010, agencies' spending on O&M was 68% of the federal IT budget. By 2017, the amount of spending on O&M was at 77%.[^percent]:
+This logistical issue has resulted in a steady increase in spending on O&M for legacy systems. In 2010, agencies' spending on O&M was 68% of the federal IT budget. By 2017, the amount of spending on O&M was at 77%.[^percent]
 
 An agency knows the least about what it will take to fully modernize a legacy system when they draft a budget for that work.
 
@@ -539,7 +539,7 @@ If agencies are unable to get budget requests for prototyping effort, there's an
 
 The Defense Innovation Board's (DIB) report [Software is Never Done: Refactoring the Acquisition Code for Competitive Advantage](https://media.defense.gov/2019/Mar/14/2002101480/-1/-1/0/DIB-SWAP_STUDY_REPORT[DRAFT],_LAST%20MODIFIED_13MAR2019.PDF)  made a number of recommendations to try and improve the success rate for defense agency software projects. In that report, the DIB makes the case that:
 
-To undertake this path, Congress and OSD must write new statutes and regulations for software, providing increased (and automation-enabled) insight to reduce the risk of slow, costly, and overgrown programs and enabling rapid deployment and continuous improvement of software to the field. Laws will have to be changed, and management and oversight will have to be reinvented, focusing on different measures and a quicker cadence.
+> To undertake this path, Congress and OSD must write new statutes and regulations for software, providing increased (and automation-enabled) insight to reduce the risk of slow, costly, and overgrown programs and enabling rapid deployment and continuous improvement of software to the field. Laws will have to be changed, and management and oversight will have to be reinvented, focusing on different measures and a quicker cadence.
 
 There's a promising new development on this front to reduce the complexity and challenges created by multiple types of appropriations for software. This proposal in the DoD would create a [single type of appropriation](https://media.defense.gov/2019/Mar/14/2002101480/-1/-1/0/DIB-SWAP_STUDY_REPORT[DRAFT],_LAST%20MODIFIED_13MAR2019.PDF) to use for software needs, regardless of whether it captures what has historically been bucketed under RDTE, DME, or O&M. This single type of appropriation would resolve a host of issues caused by the appropriation categories and definitions. It would likely be welcomed by many operational components trying to deal with the complexity of modern software in government.
 
