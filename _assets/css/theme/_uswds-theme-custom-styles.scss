@@ -463,6 +463,13 @@ blockquote p {
 }
 
 
+.usa-prose li p {
+  margin: units(2) 0 units(1);
+}
+.usa-prose li ul li p {
+  margin: 0 0 units(1);
+}
+
 //QASP table
 .qasp-table {
   width: units('tablet');
