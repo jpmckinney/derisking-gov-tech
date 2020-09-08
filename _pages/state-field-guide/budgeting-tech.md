@@ -45,8 +45,8 @@ By **Robin Carnahan**, **Randy Hart** and **Waldo Jaquith**<br>
 18F, Technology Transformation Service, General Services Administration
 {:.guide-authors}
 
-Download this guide as a [printable pdf]({% asset state-field-guide.pdf @path%})
-{:.guide-highlight}
+{%asset book-open-3.svg class="guide__download__img"%}Download this guide as a [printable pdf]({% asset state-field-guide.pdf @path%})
+{:.guide__download__bg}
 
 ## Budgeting and overseeing tech projects
 

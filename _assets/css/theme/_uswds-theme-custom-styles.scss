@@ -32,6 +32,7 @@ $img-max-width-2xs:   30%;
 $img-max-width-3xs:   20%;
 
 $section-img-size: 200px;
+$guide-donwnload-size: 28px;
 
 $bullet-spacing: 1.25rem; // matches defualt in MD
 
@@ -406,10 +407,19 @@ p.tagline__caption {
 
 // State Guidelines
 
-.guide-highlight {
+.guide-highlight, .guide__download__bg {
   background-color: color('blue-5');
-  border-left: 4px solid color('secondary');
   padding: units(2);
+}
+
+.guide-highlight {
+  border-left: 4px solid color('secondary');
+}
+
+.guide__download__img {
+  max-width: $guide-donwnload-size;
+  vertical-align: middle;
+  margin-right: units(1);
 }
 
 .usa-layout-docs__main .guide-checklist,
