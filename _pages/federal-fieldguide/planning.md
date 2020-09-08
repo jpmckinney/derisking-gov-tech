@@ -360,11 +360,11 @@ In the bad old days of software development, an agency painfully detailed out al
 
 With Agile development, an agency can give a reasonable estimate for cost and schedule, but the performance is what will change over time based on user research and iterative development. 
 
--   **Cost** is calculated by using the labor rates proposed by the winning vendor.
+**Cost** is calculated by using the labor rates proposed by the winning vendor.
 
--   **Schedule** is the entire period of performance or some subset of that. For example, some agencies want to deliver a minimally viable product (MVP) in the first 9 months of a software development effort. That's great: it gives the Agile software development team a timeboxed window to complete a useful but limited set of functionality for users. But the agency should know that the product will not be done at this time, and will continue to get refined and have new features added post-MVP.
+**Schedule** is the entire period of performance or some subset of that. For example, some agencies want to deliver a minimally viable product (MVP) in the first 9 months of a software development effort. That's great: it gives the Agile software development team a timeboxed window to complete a useful but limited set of functionality for users. But the agency should know that the product will not be done at this time, and will continue to get refined and have new features added post-MVP.
 
--   **Performance** is unknown at the start of the project. The agency will have a product vision and a sense of the outcomes they're trying to create for end users, but specific functionality --- and the order in which that functionality will be delivered --- is unknown and unknowable. Over time, however, an Agile software team should be able to provide some estimates about when certain functionality should be delivered.
+**Performance** is unknown at the start of the project. The agency will have a product vision and a sense of the outcomes they're trying to create for end users, but specific functionality --- and the order in which that functionality will be delivered --- is unknown and unknowable. Over time, however, an Agile software team should be able to provide some estimates about when certain functionality should be delivered.
 
 Product owners should develop a product roadmap and share it with stakeholders. Agencies should not use product roadmaps to forecast  what will be delivered when, but use them to help communicate the priority order in which work is anticipated to be done. They are designed to help deliver the highest value to users within a given budget or time constraint. 
 
