@@ -184,16 +184,17 @@ By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy**
 
 18F asked a few of our partner agencies[^agencies] about how open source has worked for them and what the future looks like across the executive branch:
 
-**Department of the Interior's Office of Natural Resources Revenue:**\
-"...the principles of transparency -- emblematic in both the open data and open code that power the site -- continue to inform our approach. We want the site to embody openness and transparency both in the content provided and in the way we build. For that reason, we use open source software to build the site, and we use GitHub to manage our code and workflow in the open."
+**Department of the Interior's Office of Natural Resources Revenue:**
+>"...the principles of transparency -- emblematic in both the open data and open code that power the site -- continue to inform our approach. We want the site to embody openness and transparency both in the content provided and in the way we build. For that reason, we use open source software to build the site, and we use GitHub to manage our code and workflow in the open."
 
-**Department of Justice's Office of Information Policy (OIP):** "Working in the open to get active and frequent feedback from public and government stakeholders was the perfect match for the [National FOIA Portal project](https://github.com/usdoj/foia.gov). Given the core purpose of the FOIA, to shed light on government activities, it was very important to us to develop the first government-wide [National FOIA Portal](https://www.foia.gov/) in the most transparent and open way. Working collaboratively in the open with our diverse stakeholders, we were able to create a dynamic website that meets actual user needs."
+**Department of Justice's Office of Information Policy (OIP):**
+>"Working in the open to get active and frequent >feedback from public and government stakeholders was the perfect match for the [National FOIA Portal project](https://github.com/usdoj/foia.gov). Given the core purpose of the FOIA, to shed light on government activities, it was very important to us to develop the first government-wide [National FOIA Portal](https://www.foia.gov/) in the most transparent and open way. Working collaboratively in the open with our diverse stakeholders, we were able to create a dynamic website that meets actual user needs."
 
-"OIP found that by working in the open, we were not only able to get immediate and active feedback from our stakeholders, but also it allowed other technologists to contribute to the overall success of the project. We would also encourage those who are unfamiliar with the open source process to approach it with an open mind."
+>"OIP found that by working in the open, we were not only able to get immediate and active feedback from our stakeholders, but also it allowed other technologists to contribute to the overall success of the project. We would also encourage those who are unfamiliar with the open source process to approach it with an open mind."
 
 **The Department of Defense (DoD)** addresses common security concerns with Open Source Software (OSS):
 
-"Hiding source code does inhibit the ability of third parties to respond to vulnerabilities (because changing software is more difficult without the source code), but this is obviously not a security advantage. In general, 'Security by Obscurity' is widely denigrated...Some OSS is very secure, while others are not; some proprietary software is very secure, while others are not. Each product must be examined on its own merits."[^merits]
+>"Hiding source code does inhibit the ability of third parties to respond to vulnerabilities (because changing software is more difficult without the source code), but this is obviously not a security advantage. In general, 'Security by Obscurity' is widely denigrated...Some OSS is very secure, while others are not; some proprietary software is very secure, while others are not. Each product must be examined on its own merits."[^merits]
 
 ##### Benefits
 
