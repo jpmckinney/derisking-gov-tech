@@ -344,7 +344,7 @@ _Note: The below table represents an estimate using the industry average cost of
 {:.guide-note}
 
 | Position Title          | # of people | Average hourly labor rate[^rate] | Cost       |
-|-------------------------|-------------|:-------------------------:|------------|
+|-------------------------|------------:|--------------------------:|-----------:|
 | Software Developer Lead |           1 |                      $133 |   $250,040 |
 | Design Lead             |           1 |                      $123 |   $231,240 |
 | Software Developer      |           3 |                      $113 |   $637,320 |
