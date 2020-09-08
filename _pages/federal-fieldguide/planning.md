@@ -368,7 +368,7 @@ With Agile development, an agency can give a reasonable estimate for cost and sc
 
 Product owners should develop a product roadmap and share it with stakeholders. Agencies should not use product roadmaps to forecast  what will be delivered when, but use them to help communicate the priority order in which work is anticipated to be done. They are designed to help deliver the highest value to users within a given budget or time constraint. 
 
-### Validate and clear the 'path to production' before awarding a contract to make sure that when the contractor starts working, they can actually start working
+### Clear ‘path to production’ before awarding a contact
 By **Heather Battaglia**, **T Carter Baxter**, **Kelsey Foley**, **Mark Hopson**, **Waldo Jaquith**, **Vicki McFadden**, **Steven Reilly**, **Greg Walker**
 
 **Challenge:** Not having a clear path to production derails development efforts.
@@ -430,7 +430,7 @@ By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vick
 
 #### Executive Summary
 
--   Remote collaboration is incredibly difficult for teams if they are not given access to the necessary collaboration tools they need. Unfortunately, this is commonplace in government. 
+Remote collaboration is incredibly difficult for teams if they are not given access to the necessary collaboration tools they need. Unfortunately, this is commonplace in government. 
 
 #### Recommendation
 
