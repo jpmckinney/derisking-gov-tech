@@ -436,6 +436,11 @@ p.tagline__caption {
   padding-bottom: units(1);
 }
 
+.guide-checklist + ul li, .key-questions + ul li {
+  margin-bottom: units(1);
+}
+
+
 .guide-checklist + ul {
   list-style: none;
   margin-left: 0;
@@ -445,7 +450,6 @@ p.tagline__caption {
 .guide-checklist + ul li {
   padding-left: $bullet-spacing;
   text-indent: (-1 * $bullet-spacing);
-  margin-bottom: units(1);
 
   &:before {
     content: '\25A1';
