@@ -320,8 +320,10 @@ For more than 20 years, using non-performance based formats, such as the Stateme
 
 > (a) Performance-based acquisition (see [subpart 37.6](https://www.acquisition.gov/content/part-37-service-contracting#i1077388)) is the preferred method for acquiring services (Public Law 106-398, section 821). When acquiring services, including those acquired under supply contracts or orders, agencies must --
 
-(1) Use performance-based acquisition methods to the maximum extent practicable
+> (1) Use performance-based acquisition methods to the maximum extent practicable
 {:.guide-indent}
+
+
 
 Performance-based service contracting (PBSC) emphasizes that all aspects of an acquisition must be structured around the *purpose of the work* to be performed with an objective assessment of contractor performance, instead of prescribing the manner in which the work is to be performed. It ensures that:
 
