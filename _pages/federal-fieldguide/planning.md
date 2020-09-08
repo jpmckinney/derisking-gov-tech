@@ -45,7 +45,7 @@ The following sections identify challenges and strategies to mitigate risk while
 
 ### Assign dedicated and empowered product owners to lead development efforts 
 
-By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
+By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark&nbsp;Hopson**
 
 **Challenge**: Agencies are not empowering product owners to be successful.
 {:.guide-highlight}
@@ -73,7 +73,7 @@ Product owners come from all walks of life. To serve in this role, they don't ne
 They also need a willingness to learn and have the time and space to experiment, make mistakes, and grow. They should also receive training -- there are many excellent scrum product owner offerings available -- and would benefit from working with an experienced scrum master and/or Agile coach as they begin to master this new skill. 
 
 ### Involve end users early and often in software development efforts
-By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
+By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark&nbsp;Hopson**
 
 **Challenge**: Product development efforts lack sufficient end user input.
 {:.guide-highlight}
@@ -93,7 +93,7 @@ Without regular and ongoing feedback from actual end users, an agency can't be A
 Every effort should start with end user research. Every user story in the product backlog should be based on current end user needs. End users should be continuously asked for feedback on product direction to shape the product to their needs. Development teams should be empowered to make changes in direction based on the feedback of end users. In many cases, end users should be included in every sprint review, so they can see the product mature iteratively, and provide feedback on direction.
 
 ### Consider tradeoffs in build-or-buy decisions, taking all factors into consideration 
-By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
+By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark&nbsp;Hopson**
 
 **Challenge**: Customizing commercial off-the-shelf (COTS) can have adverse outcomes.
 {:.guide-highlight}
@@ -255,7 +255,7 @@ The government can review these proposed instructions as a pull request before t
 By having contractors use DevOps and define infrastructure as code, agencies can monitor and control technical work, and retain ownership over their technical infrastructure.
 
 ### Leadership should set direction and empower teams
-By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **Mark Hopson**, **Waldo Jaquith**
+By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **Mark&nbsp;Hopson**, **Waldo Jaquith**
 
 **Challenge:** Leadership's role differs in an Agile project.
 {:.guide-highlight}
@@ -424,7 +424,7 @@ These are the general criteria to ensure an agency is ready for an Agile softwar
 If these success criteria are known, a team can feel confident that they can award an Agile software development contract and that the contractor onboarding process should be relatively smooth. 
 
 ### Give teams access to the remote collaboration tools that they need to be successful 
-By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vicki McFadden**, **Miatta Myers**
+By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vicki&nbsp;McFadden**, **Miatta Myers**
 
 **Challenge:** Distributed teamwork is impeded by restricted access to collaboration tools.
 {:.guide-highlight}
