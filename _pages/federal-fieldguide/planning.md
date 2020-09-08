@@ -206,7 +206,7 @@ Building with open source technologies, and building in an open code repository,
 
 Open source software also shows a developer's skills. Skilled developers want to work on open source projects to demonstrate their skills to colleagues, their current employer, and future employers. When their code is available for anyone to check, their personal standards go up and other developers can contribute to the project to improve outcomes.
 
-### Require infrastructure-as-code, single-command deployment, and per-sprint government verification of functionality
+### Require infrastructure-as-code, single-command deployment, and <br/> per-sprint government verification of&nbsp;functionality
 
 By **Waldo Jaquith**
 
