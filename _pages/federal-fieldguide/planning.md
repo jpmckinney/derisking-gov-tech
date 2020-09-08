@@ -162,7 +162,7 @@ This includes anything commercially available that is modified either in a way t
 > "...not customarily available in the commercial marketplace made to meet Federal Government requirements. Minor modifications means modifications that do not significantly alter the nongovernmental function or essential physical characteristics of an item or component, or change the purpose of a process. Factors to be considered in determining whether a modification is minor include the value and size of the modification and the comparative value and size of the final product. Dollar values and percentages may be used as guideposts, but are not conclusive evidence that a modification is minor..."
 
 ### Default to open
-By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy-Sidibe**
+By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy**
 
 **Challenge**: Agencies are not taking advantage of the benefits of open source.
 {:.guide-highlight}
