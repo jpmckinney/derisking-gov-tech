@@ -457,6 +457,12 @@ p.tagline__caption {
   margin-left: units(8);
 }
 
+blockquote p {
+  @include u-font ('body', 'sm');
+  color: color($theme-color-base);
+}
+
+
 //QASP table
 .qasp-table {
   width: units('tablet');
