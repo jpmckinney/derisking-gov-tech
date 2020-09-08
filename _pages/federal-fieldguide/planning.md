@@ -37,7 +37,7 @@ subnav:
 ## Planning
 
 <div markdown="1" class="chapter__img-container">
-{% asset agile-best-practices.svg class="chapter__img" alt="" %}
+{% asset fed2-planning.svg class="chapter__img" alt="" %}
 </div>
 
 The following sections identify challenges and strategies to mitigate risk while planning custom technology projects in government.
