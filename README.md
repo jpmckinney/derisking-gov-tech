@@ -13,11 +13,11 @@ Building on several years of research and learning from procurement and technolo
 ## Field Guides 
 TTS published a set of field guides - designed to provide state and federal decision-makers with actionable strategies to yield more successful custom technology projects. Dozens of best practices are documented, including budgeting for software as an operational expense, limiting contract size, measuring success iteratively, and hiring in-house tech talent. Additionally, the field guides can help leaders identify better outcomes, empowering them with basic knowledge of software design principles.
  
-### [Field Guide for State governments](https://github.com/18F/derisking-gov-tech/blob/master/State%20Field%20Guide%20-%20Agile%20Budgeting%20%26%20Oversight.pdf)
+### [Field Guide for State governments](https://derisking-guide.18f.gov/state-field-guide/)
 40-page guide for executives, budget specialists, legislators, and other decision makers who fund or oversee state government technology projects.
 <em>Published August 2019</em>
  
-### Field Guide for Federal Agencies 
+### [Field Guide for Federal Agencies](https://derisking-guide.18f.gov/federal-field-guide/)
 Field guide for federal executives, product owners, budget specialists and agency staff who fund or oversee state government technology projects.
 <em>Coming soon: July 2020</em>
 

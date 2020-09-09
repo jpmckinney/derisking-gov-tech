@@ -30,21 +30,22 @@ subnav:
 ---
 
 # Federal Field Guide
+Edited by: **Mark Hopson**, **Victoria McFadden**, **Rebecca Refoy** and **Alicia Rouault**
 
-{%asset book-open-3.svg class="guide__download__img"%}Download this guide as a [printable pdf](#)
+{%asset book-open-3.svg class="guide__download__img" alt=""%}Download this guide as a [printable pdf]({% asset federal-field-guide.pdf @path%})
 {:.guide__download__bg}
 
 ## Planning
 
 <div markdown="1" class="chapter__img-container">
-{% asset agile-best-practices.svg class="chapter__img" alt="" %}
+{% asset fed2-planning.svg class="chapter__img" alt="" %}
 </div>
 
 The following sections identify challenges and strategies to mitigate risk while planning custom technology projects in government.
 
-### Assign dedicated and empowered product owners to lead development efforts. 
+### Assign dedicated and empowered product owners to lead development efforts 
 
-By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
+By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark&nbsp;Hopson**
 
 **Challenge**: Agencies are not empowering product owners to be successful.
 {:.guide-highlight}
@@ -71,8 +72,8 @@ Product owners come from all walks of life. To serve in this role, they don't ne
 
 They also need a willingness to learn and have the time and space to experiment, make mistakes, and grow. They should also receive training -- there are many excellent scrum product owner offerings available -- and would benefit from working with an experienced scrum master and/or Agile coach as they begin to master this new skill. 
 
-### Involve end users early and often in software development efforts.
-By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
+### Involve end users early and often in software development efforts
+By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark&nbsp;Hopson**
 
 **Challenge**: Product development efforts lack sufficient end user input.
 {:.guide-highlight}
@@ -91,8 +92,8 @@ Without regular and ongoing feedback from actual end users, an agency can't be A
 
 Every effort should start with end user research. Every user story in the product backlog should be based on current end user needs. End users should be continuously asked for feedback on product direction to shape the product to their needs. Development teams should be empowered to make changes in direction based on the feedback of end users. In many cases, end users should be included in every sprint review, so they can see the product mature iteratively, and provide feedback on direction.
 
-### Consider tradeoffs in build-or-buy decisions, taking all factors into consideration. 
-By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark Hopson**
+### Consider tradeoffs in build-or-buy decisions, taking all factors into consideration 
+By **Waldo Jaquith**, **Peter Rowland**, **Miatta Myers**, **Vicki McFadden**, **Mark&nbsp;Hopson**
 
 **Challenge**: Customizing commercial off-the-shelf (COTS) can have adverse outcomes.
 {:.guide-highlight}
@@ -161,8 +162,8 @@ This includes anything commercially available that is modified either in a way t
 
 > "...not customarily available in the commercial marketplace made to meet Federal Government requirements. Minor modifications means modifications that do not significantly alter the nongovernmental function or essential physical characteristics of an item or component, or change the purpose of a process. Factors to be considered in determining whether a modification is minor include the value and size of the modification and the comparative value and size of the final product. Dollar values and percentages may be used as guideposts, but are not conclusive evidence that a modification is minor..."
 
-### Default to open.
-By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy-Sidibe**
+### Default to open
+By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy**
 
 **Challenge**: Agencies are not taking advantage of the benefits of open source.
 {:.guide-highlight}
@@ -183,16 +184,17 @@ By **Ian Lee**, **Ryan Johnson**, **Rebecca Refoy-Sidibe**
 
 18F asked a few of our partner agencies[^agencies] about how open source has worked for them and what the future looks like across the executive branch:
 
-**Department of the Interior's Office of Natural Resources Revenue:**\
-"...the principles of transparency -- emblematic in both the open data and open code that power the site -- continue to inform our approach. We want the site to embody openness and transparency both in the content provided and in the way we build. For that reason, we use open source software to build the site, and we use GitHub to manage our code and workflow in the open."
+**Department of the Interior's Office of Natural Resources Revenue:**
+>"...the principles of transparency -- emblematic in both the open data and open code that power the site -- continue to inform our approach. We want the site to embody openness and transparency both in the content provided and in the way we build. For that reason, we use open source software to build the site, and we use GitHub to manage our code and workflow in the open."
 
-**Department of Justice's Office of Information Policy (OIP):** "Working in the open to get active and frequent feedback from public and government stakeholders was the perfect match for the [National FOIA Portal project](https://github.com/usdoj/foia.gov). Given the core purpose of the FOIA, to shed light on government activities, it was very important to us to develop the first government-wide [National FOIA Portal](https://www.foia.gov/) in the most transparent and open way. Working collaboratively in the open with our diverse stakeholders, we were able to create a dynamic website that meets actual user needs."
+**Department of Justice's Office of Information Policy (OIP):**
+>"Working in the open to get active and frequent >feedback from public and government stakeholders was the perfect match for the [National FOIA Portal project](https://github.com/usdoj/foia.gov). Given the core purpose of the FOIA, to shed light on government activities, it was very important to us to develop the first government-wide [National FOIA Portal](https://www.foia.gov/) in the most transparent and open way. Working collaboratively in the open with our diverse stakeholders, we were able to create a dynamic website that meets actual user needs."
 
-"OIP found that by working in the open, we were not only able to get immediate and active feedback from our stakeholders, but also it allowed other technologists to contribute to the overall success of the project. We would also encourage those who are unfamiliar with the open source process to approach it with an open mind."
+>"OIP found that by working in the open, we were not only able to get immediate and active feedback from our stakeholders, but also it allowed other technologists to contribute to the overall success of the project. We would also encourage those who are unfamiliar with the open source process to approach it with an open mind."
 
 **The Department of Defense (DoD)** addresses common security concerns with Open Source Software (OSS):
 
-"Hiding source code does inhibit the ability of third parties to respond to vulnerabilities (because changing software is more difficult without the source code), but this is obviously not a security advantage. In general, 'Security by Obscurity' is widely denigrated...Some OSS is very secure, while others are not; some proprietary software is very secure, while others are not. Each product must be examined on its own merits."[^merits]
+>"Hiding source code does inhibit the ability of third parties to respond to vulnerabilities (because changing software is more difficult without the source code), but this is obviously not a security advantage. In general, 'Security by Obscurity' is widely denigrated...Some OSS is very secure, while others are not; some proprietary software is very secure, while others are not. Each product must be examined on its own merits."[^merits]
 
 ##### Benefits
 
@@ -204,7 +206,7 @@ Building with open source technologies, and building in an open code repository,
 
 Open source software also shows a developer's skills. Skilled developers want to work on open source projects to demonstrate their skills to colleagues, their current employer, and future employers. When their code is available for anyone to check, their personal standards go up and other developers can contribute to the project to improve outcomes.
 
-### Require infrastructure-as-code, single-command deployment, and per-sprint government verification of functionality.
+### Require infrastructure-as-code, single-command deployment, and <br/> per-sprint government verification of&nbsp;functionality
 
 By **Waldo Jaquith**
 
@@ -213,7 +215,7 @@ By **Waldo Jaquith**
 
 #### Executive Summary
 
--   A great deal happens between a developer writing code and then running the code where people can use it. It is important that the government controls the entire process to avoid vendor lock-in.
+A great deal happens between a developer writing code and then running the code where people can use it. It is important that the government controls the entire process to avoid vendor lock-in.
 
 #### Recommendation
 
@@ -253,15 +255,15 @@ The government can review these proposed instructions as a pull request before t
 
 By having contractors use DevOps and define infrastructure as code, agencies can monitor and control technical work, and retain ownership over their technical infrastructure.
 
-### Leadership should set direction and empower teams.
-By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **Mark Hopson**, **Waldo Jaquith**
+### Leadership should set direction and empower teams
+By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **Mark&nbsp;Hopson**, **Waldo Jaquith**
 
 **Challenge:** Leadership's role differs in an Agile project.
 {:.guide-highlight}
 
 #### Executive Summary
 
--   Leadership's role in Agile development is to empower teams, align organizational governance and oversight practices to Agile development, and remove blockers. 
+Leadership's role in Agile development is to empower teams, align organizational governance and oversight practices to Agile development, and remove blockers. 
 
 #### Recommendation
 
@@ -279,7 +281,7 @@ Other constructive involvement of leadership and key stakeholders in Agile devel
 
 The level of leadership and stakeholder involvement needed is personality- and team-dependent, so there likely isn't a one-size-fits-all approach that will work with all teams.
 
-### Software development efforts should be tightly scoped to reduce risk and avoid overspending.
+### Software development efforts should be tightly scoped to reduce risk and avoid overspending
 
 By **Mark Hopson**, **Vicki McFadden**
 
@@ -314,7 +316,7 @@ A few rules:
 
 1.  **No big up-front design:** Under waterfall development, agencies spend months or years getting infrastructure procured and deployed so software development can happen. But this becomes trivial with cloud hosting --- instead of spending a lot of time figuring out infrastructure, database, business logic, user interface, etc., those can be created by the scrum team as they work on user stories as "slices" that cut across these layers. 
 
-![](https://lh3.googleusercontent.com/kDh7GIZfhppR9OOM0iWyWGuvkDlG5AMfMqJunee8HLaomZhsP77ONUonpqyaZkImHZNJjbfn_NpwMDSCQZezi-I0Tv3OqKG09aETKLSqwY4eHYEu2U-epfGRvtcag7Q7wgKrxJWv)
+{% asset story-slices.svg alt="User stories include all of layers" %}
 
 1.  **No big-bang launch:** Many times, agencies say they intend to swap out a legacy system for a new system all at once, usually described as happening in a single day or over a weekend. This is rarely needed. Most often, we suggest they use a "strangler" (also known as "[encasement](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/)") strategy to modernize legacy systems.
 
@@ -330,7 +332,7 @@ At this point, agencies often face two challenges: 
 
 1.  **Move to Agile by team.** Moving to Agile tends to bring out organizational antibodies that stifles and discourages innovation. To combat this, we start small. Allow one or two brave teams to test out Agile, learn, and recommend for what procedures, practices, and tools must be tweaked to enable Agile for the entire organization.
 
-If several teams are told to adopt Agile at the same time, that does not allow for this important learning to occur and scale naturally. A large-scale, simultaneous Agile transition requires every team to undergo the same painful and frustrating learning process. These teams will probably develop their own solutions that will be based on the path of least resistance, rather than what is right for the enterprise. 
+    If several teams are told to adopt Agile at the same time, that does not allow for this important learning to occur and scale naturally. A large-scale, simultaneous Agile transition requires every team to undergo the same painful and frustrating learning process. These teams will probably develop their own solutions that will be based on the path of least resistance, rather than what is right for the enterprise. 
 
 1.  **Don't consolidate contracts.** There is no "economy of scale" when buying professional services. There is no reason to combine several product teams' needs into a single contract award. It does not reduce complexity --- rather, it hides the complexity inherent in any development effort. Consolidating contracts increases risk by creating a single point of failure. And it does not allow the agency to buy specialized skills that it might need for just one team.
 
@@ -339,9 +341,10 @@ If several teams are told to adopt Agile at the same time, that does not allow f
 The ideal size of a scrum team is somewhere between four to nine people. Let's pick the high end, nine people, and put together a reasonable mix of talent for the team. Using [GSA's Contract-Awarded Labor Category](https://calc.gsa.gov/) tool, it's simple to estimate the labor cost per hour and multiply that by a reasonable number of hours that a person would be expected to work in a given year: 1,880 (accounting for holidays and leave). Our independent government cost estimate (IGCE) in this scenario, for one year of performance, is $1.9 million.
 
 _Note: The below table represents an estimate using the industry average cost of purchasing services from a private company offering Agile software development. If an agency requires their development teams to be on-site or have top-secret security clearances, the pool of available companies to compete on this work will be drastically reduced, and the agency can expect the average hourly labor rates to be substantially higher (especially as the clearance process itself is an added cost). Also, these positions and their hourly rates vary greatly depending on location within the United States that the employee is located._
+{:.guide-note}
 
 | Position Title          | # of people | Average hourly labor rate[^rate] | Cost       |
-|-------------------------|-------------|:-------------------------:|------------|
+|-------------------------|------------:|--------------------------:|-----------:|
 | Software Developer Lead |           1 |                      $133 |   $250,040 |
 | Design Lead             |           1 |                      $123 |   $231,240 |
 | Software Developer      |           3 |                      $113 |   $637,320 |
@@ -359,15 +362,15 @@ In the bad old days of software development, an agency painfully detailed out al
 
 With Agile development, an agency can give a reasonable estimate for cost and schedule, but the performance is what will change over time based on user research and iterative development. 
 
--   **Cost** is calculated by using the labor rates proposed by the winning vendor.
+**Cost** is calculated by using the labor rates proposed by the winning vendor.
 
--   **Schedule** is the entire period of performance or some subset of that. For example, some agencies want to deliver a minimally viable product (MVP) in the first 9 months of a software development effort. That's great: it gives the Agile software development team a timeboxed window to complete a useful but limited set of functionality for users. But the agency should know that the product will not be done at this time, and will continue to get refined and have new features added post-MVP.
+**Schedule** is the entire period of performance or some subset of that. For example, some agencies want to deliver a minimally viable product (MVP) in the first 9 months of a software development effort. That's great: it gives the Agile software development team a timeboxed window to complete a useful but limited set of functionality for users. But the agency should know that the product will not be done at this time, and will continue to get refined and have new features added post-MVP.
 
--   **Performance** is unknown at the start of the project. The agency will have a product vision and a sense of the outcomes they're trying to create for end users, but specific functionality --- and the order in which that functionality will be delivered --- is unknown and unknowable. Over time, however, an Agile software team should be able to provide some estimates about when certain functionality should be delivered.
+**Performance** is unknown at the start of the project. The agency will have a product vision and a sense of the outcomes they're trying to create for end users, but specific functionality --- and the order in which that functionality will be delivered --- is unknown and unknowable. Over time, however, an Agile software team should be able to provide some estimates about when certain functionality should be delivered.
 
 Product owners should develop a product roadmap and share it with stakeholders. Agencies should not use product roadmaps to forecast  what will be delivered when, but use them to help communicate the priority order in which work is anticipated to be done. They are designed to help deliver the highest value to users within a given budget or time constraint. 
 
-### Validate and clear the 'path to production' before awarding a contract to make sure that when the contractor starts working, they can actually start working.
+### Clear ‘path to production’ before awarding a contact
 By **Heather Battaglia**, **T Carter Baxter**, **Kelsey Foley**, **Mark Hopson**, **Waldo Jaquith**, **Vicki McFadden**, **Steven Reilly**, **Greg Walker**
 
 **Challenge:** Not having a clear path to production derails development efforts.
@@ -375,7 +378,7 @@ By **Heather Battaglia**, **T Carter Baxter**, **Kelsey Foley**, **Mark Hopson**
 
 #### Executive Summary
 
--   It is demoralizing and expensive if a contractor is brought on to develop software and they can't access the hosting or deployment environments for months. Make sure the path to production is clear from bureaucratic obstacles and well-documented before awarding a contract for Agile software development services.
+It is demoralizing and expensive if a contractor is brought on to develop software and they can't access the hosting or deployment environments for months. Make sure the path to production is clear from bureaucratic obstacles and well-documented before awarding a contract for Agile software development services.
 
 #### Recommendation
 
@@ -421,15 +424,15 @@ These are the general criteria to ensure an agency is ready for an Agile softwar
 
 If these success criteria are known, a team can feel confident that they can award an Agile software development contract and that the contractor onboarding process should be relatively smooth. 
 
-### Give teams access to the remote collaboration tools that they need to be successful. 
-By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vicki McFadden**, **Miatta Myers**
+### Give teams access to the remote collaboration tools that they need to be successful 
+By **Peter Rowland**, **Randy Hart**, **Mark Hopson**, **Waldo Jaquith**, **Vicki&nbsp;McFadden**, **Miatta Myers**
 
 **Challenge:** Distributed teamwork is impeded by restricted access to collaboration tools.
 {:.guide-highlight}
 
 #### Executive Summary
 
--   Remote collaboration is incredibly difficult for teams if they are not given access to the necessary collaboration tools they need. Unfortunately, this is commonplace in government. 
+Remote collaboration is incredibly difficult for teams if they are not given access to the necessary collaboration tools they need. Unfortunately, this is commonplace in government. 
 
 #### Recommendation
 
@@ -453,7 +456,7 @@ In the past, our teams have used the following tools to support remote work. See
 
 Agencies should determine which collaboration tools their teams need and make those available. As an interim step, agencies may want to develop a provisional Authorization to Operate (ATO) process for piloting tools that are relatively low risk before figuring out which tools should go through the ATO process to be rolled out more broadly. 
 
-### Invest in technology incrementally and budget for risk mitigation prototyping. 
+### Invest in technology incrementally and budget for risk mitigation prototyping 
 
 **Mark Hopson** with special thanks to **Charles Tetreault** and other contributors.
 
@@ -553,16 +556,16 @@ The first meaningful step to provide the federal government with the same world-
 
 ### Footnotes
 [^software]: When modifying COTS, keep in mind the existing warranty and any impacts that it may have through such an activity.
-[^agencies]: [https://18f.gsa.gov/2018/05/24/what-agencies-have-to-say-about-working-in-the-open/](https://18f.gsa.gov/2018/05/24/what-agencies-have-to-say-about-working-in-the-open/)
-[^merits]: [https://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management](https://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management)
+[^agencies]: See 18F's [What agencies have to say about working in the open](https://18f.gsa.gov/2018/05/24/what-agencies-have-to-say-about-working-in-the-open/) for specifics.
+[^merits]: See the U.S. Department of Defense's [DoD Open Source Software (OSS) FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/#OSS_and_Security.2FSoftware_Assurance.2FSystem_Assurance.2FSupply_Chain_Risk_Management) for specifics.
 [^succeed]: Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. "Haze Report,” The Standish Group, 2015.
 [^rate]:  The [CALC tool](https://calc.gsa.gov/) provides a range of Multiple Award Schedules (MAS) ceiling prices for a given labor category. Decisions on reasonable comparison pricing for labor is the judgment call of the contracting officer. The average hourly labor rate will fluctuate over time based on contract awards.
 [^budget]: The A-11 memo section related to Information Technology can be found [here](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/fy19_it_budget_guidance.pdf).
 [^constitution]:  As a way to enforce its power of the purse on the executive, there is a significant body of law, called fiscal law, that controls how agencies may obligate Congressional appropriations. Examples include: the Purpose statute (31 U.S.C. § 1301(a)), Antideficiency Act (31 U.S.C. § 1341), Adequacy of Appropriations Act (41 USC 11), Miscellaneous Receipts Act (31 U.S.C. § 3302(b)), Bona Fide Needs (whose statutory basis is found at 31 U.S.C. § 1502, but is defined and interpreted through numerous GAO opinions), and Account Closing (31 U.S.C. § 1555). While readers should consult with their General Counsel on specific application or interpretation of laws, these topics are worth highlighting potential issues they present for modern software acquisitions in agencies.
 [^certainly]:Since 1977, the first year under the current system, Congress has passed appropriation bills on-time 4 times: 1977, 1989, 1995, 1997
-[^RDTE]: [https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/fy19_it_budget_guidance.pdf](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/fy19_it_budget_guidance.pdf)
-[^OM]: [https://www.gao.gov/assets/680/677574.pdf](https://www.gao.gov/assets/680/677574.pdf) at 18
-[^funding]: [https://www.gao.gov/assets/680/677574.pdf](https://www.gao.gov/assets/680/677574.pdf) at 18
-[^percent]: [https://www.gao.gov/assets/680/677574.pdf](https://www.gao.gov/assets/680/677574.pdf) at 13
+[^RDTE]: See [FY 2019 IT Budget – Capital Planning Guidance](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/fy19_it_budget_guidance.pdf) for specifics.
+[^OM]: See the U.S. Government Accountability Office's report [Federal Agencies Need to Address Aging Legacy Systems](https://www.gao.gov/assets/680/677574.pdf) at 18 for specifics.
+[^funding]: See the U.S. Government Accountability Office's report [Federal Agencies Need to Address Aging Legacy Systems](https://www.gao.gov/assets/680/677574.pdf) at 18 for specifics.
+[^percent]: See the U.S. Government Accountability Office's report [Federal Agencies Need to Address Aging Legacy Systems](https://www.gao.gov/assets/680/677574.pdf) at 13 for specifics.
 [^itdashboard]: ITdashboard.gov provides federal agencies and the public with the ability to view details of federal information technology (IT) investments online and to track their progress over time. The IT Dashboard displays data received from agency IT Portfolio and Business Case reports, including general information on over 7,000 Federal IT investments and detailed data for over 700 of those investments that agencies classify as "major." According to data collected for the current 2020 fiscal year, there are 514 investments being tracked on the dashboard. Of those, 277, equaling 53.9% are at medium risk, and 32, equaling 6.2% are at high risk
-[^performance]: [https://www.gao.gov/products/GAO-11-634](https://www.gao.gov/products/GAO-11-634) at 1.
+[^performance]: See the U.S. Government Accountability Office's report [Opportunities Exist to Improve Role in Information Technology Management](https://www.gao.gov/products/GAO-11-634) at 1 for specifics.
