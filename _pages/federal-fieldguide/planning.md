@@ -14,13 +14,13 @@ subnav:
 - text: Default to open
   href: '#default-to-open'
 - text: Infrastructure-as-code
-  href: '#require-infrastructure-as-code-single-command-deployment-and-per-sprint-government-verification-of-functionality'
+  href: '#require-infrastructure-as-code-single-command-deployment-and--per-sprint-government-verification-offunctionality'
 - text: Leadership’s role
   href: '#leadership-should-set-direction-and-empower-teams'
 - text: Scope efforts
   href: '#software-development-efforts-should-be-tightly-scoped-to-reduce-risk-and-avoid-overspending'
 - text: Path to production
-  href: '#validate-and-clear-the-path-to-production-before-awarding-a-contract-to-make-sure-that-when-the-contractor-starts-working-they-can-actually-start-working'
+  href: '#clear-path-to-production-before-awarding-a-contact'
 - text: Remote collaboration tools
   href: '#give-teams-access-to-the-remote-collaboration-tools-that-they-need-to-be-successful'
 - text: Technology budgeting
