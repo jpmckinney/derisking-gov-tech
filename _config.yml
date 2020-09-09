@@ -100,7 +100,7 @@ primary_navigation:
 # 3. Add your site/affiliate name here.
 searchgov:
   endpoint: https://search.usa.gov # You should not change this.
-  affiliate: derisking-guide # search.gov handle
+  affiliate: derisking # search.gov handle
   access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko= # Not private.
   inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
 
