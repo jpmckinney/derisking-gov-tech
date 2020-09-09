@@ -32,7 +32,7 @@ subnav:
 # Federal Field Guide
 Edited by: **Mark Hopson**, **Victoria McFadden**, **Rebecca Refoy** and **Alicia Rouault**
 
-{%asset book-open-3.svg class="guide__download__img"%}Download this guide as a [printable pdf](#)
+{%asset book-open-3.svg class="guide__download__img" alt=""%}Download this guide as a [printable pdf](#)
 {:.guide__download__bg}
 
 ## Planning
