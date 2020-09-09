@@ -210,7 +210,7 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   @include u-bg('secondary-light');
 }
 
-.usa-section--dark .usa-button.usa-button--secondary:hover, .usa-prose a.usa-button--secondary:visited {
+.usa-section--dark .usa-button.usa-button--secondary:hover, .usa-prose .usa-button--secondary:visited {
   color: color('primary-darker');
 }
 
@@ -318,6 +318,24 @@ p.tagline__caption {
 .usa-graphic-list__heading {
   @include u-font('sans','lg')
 }
+
+.guide-thumbs a, a:visited  {
+  color: inherit;
+  text-decoration: none;
+}
+
+.guide-thumbs h3{
+  color: color('primary');
+  &:hover {
+    color: color('primary-darker');
+  }
+}
+
+.guide-thumbs p {
+  color: color('primary-darker');
+}
+
+
 
 //Workshop
 .workshop-section {
