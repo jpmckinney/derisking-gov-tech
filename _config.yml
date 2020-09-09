@@ -101,7 +101,7 @@ primary_navigation:
 searchgov:
   endpoint: https://search.usa.gov # You should not change this.
   affiliate: derisking-guide # search.gov handle
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko= # Not private.
+  access_key: ekEVX8iEZj6CL7G0e2BQ5UvwJBn-GC2KASEj98R45WE= # Not private.
   inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
 
 ##########################################################################################
