@@ -210,6 +210,10 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   @include u-bg('secondary-light');
 }
 
+.usa-section--dark a.usa-button.usa-button--secondary:hover, .usa-prose a.usa-button--secondary:visited {
+  color: color('primary-darker');
+}
+
 // Hero
  .usa-section--dark .usa-hero__heading {
   // color: color('primary-darker');
@@ -231,7 +235,7 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
   color: color('primary-darker');
 }
 
-.usa-button:visited, .usa-prose a:visited  {
+.usa-button:visited {
   color: color('primary-darker');
 }
 
