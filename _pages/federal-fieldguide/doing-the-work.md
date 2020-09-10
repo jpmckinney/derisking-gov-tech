@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doing the work | De-risking government technology: Federal field guide | 18F
+title: "Doing the work | De-risking government technology: Federal field guide | 18F"
 permalink: /federal-field-guide/doing-the-work/
 sidenav: federal
 sticky_sidenav: true

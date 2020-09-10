@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Appendix | De-risking government technology: State field guide | 18F
+title: "Appendix | De-risking government technology: State field guide | 18F"
 permalink: /state-field-guide/qasp/
 sidenav: state
 sticky_sidenav: true

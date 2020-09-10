@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deciding what to buy | De-risking government technology: Federal field guide | 18F
+title: "Deciding what to buy | De-risking government technology: Federal field guide | 18F"
 permalink: /federal-field-guide/deciding-what-to-buy/
 sidenav: federal
 sticky_sidenav: true

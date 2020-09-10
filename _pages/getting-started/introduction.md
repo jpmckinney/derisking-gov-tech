@@ -1,5 +1,5 @@
 ---
-title: Introduction | De-risking government technology | 18F
+title: "Introduction | De-risking government technology | 18F"
 permalink: /getting-started/
 layout: page
 sidenav: getting-started
