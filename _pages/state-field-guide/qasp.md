@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Appendix\:QASP
+title: Appendix | De-risking government technology: State field guide | 18F
 permalink: /state-field-guide/qasp/
 sidenav: state
 sticky_sidenav: true
@@ -8,7 +8,7 @@ sticky_sidenav: true
 # State Field Guide
 {:.usa-sr-only}
 
-## Appendix B: Sample Quality Assessment Surveillance Plan (QASP)
+## Appendix: Sample Quality Assessment Surveillance Plan (QASP)
 <div markdown="1" class="chapter__img-container">
 {% asset qasp-checks.svg class="chapter__img" alt="" %}
 </div>

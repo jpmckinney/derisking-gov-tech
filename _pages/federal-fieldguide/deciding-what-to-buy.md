@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Federal field guide
+title: Deciding what to buy | De-risking government technology: Federal field guide | 18F
 permalink: /federal-field-guide/deciding-what-to-buy/
 sidenav: federal
 sticky_sidenav: true
@@ -28,7 +28,7 @@ subnav:
 
 The following sections identify challenges and strategies to mitigate risk during the research and solicitation phase of custom technology projects in government.
 
-### Conduct Modern Market Research.
+### Conduct Modern Market Research
 By **Mark Hopson**
 
 **Challenge:** Agencies do not use industry best practices for market research. 
