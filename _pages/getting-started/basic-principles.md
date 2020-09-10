@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Basic principles of modern software design
+title: "Basic principles of modern software design | De-risking government technology | 18F"
 permalink: /getting-started/basic-principles/
 sidenav: getting-started
 sticky_sidenav: true
