@@ -48,4 +48,8 @@ site, this is the place to do it.
   <!-- CSS
     ================================================== -->
   {% asset index.scss %}
+
+  {% if site.google_analytics_ua or site.dap_agency %}
+      {% include analytics.html %}
+    {% endif %}
 </head>
