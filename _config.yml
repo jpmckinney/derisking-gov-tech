@@ -30,7 +30,7 @@ url: "https://derisking-guide.18f.gov" # the base hostname & protocol for your s
 twitter: 18F
 
 # Configuration for Google Analytics, add your UA code here:
-google_analytics_ua: UA-48605964-1
+google_analytics_ua: UA-48605964-19
 
 
 dap_agency: GSA
@@ -61,7 +61,7 @@ dap_agency: GSA
 # USPS    - Postal Service
 # SBA     - Small Business Administration
 # SSA     - Social Security Administration
-
+dap_subagency: 18F,TTS
 
 
 # Site Navigation
