@@ -256,7 +256,7 @@ The government can review these proposed instructions as a pull request before t
 By having contractors use DevOps and define infrastructure as code, agencies can monitor and control technical work, and retain ownership over their technical infrastructure.
 
 ### Leadership should set direction and empower teams
-By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **Mark&nbsp;Hopson**, **Waldo Jaquith**
+By **Peter Rowland**, **Mark Hopson**, **Vicki McFadden**, **Miatta Myers**, **Waldo Jaquith**
 
 **Challenge:** Leadership's role differs in an Agile project.
 {:.guide-highlight}
