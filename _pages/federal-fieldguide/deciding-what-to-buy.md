@@ -1,25 +1,3 @@
----
-layout: page
-title: "Deciding what to buy | De-risking government technology: Federal field guide | 18F"
-permalink: /federal-field-guide/deciding-what-to-buy/
-sidenav: federal
-sticky_sidenav: true
-subnav:
-- text: Market research
-  href: '#conduct-modern-market-research'
-- text: Agile contract format
-  href: '#use-the-agile-contract-format-to-procure-agile-software-development-services'
-- text: Contract type
-  href: '#use-time-and-material-contract-types-for-custom-agile-software-development-services'
-- text: Evaluate proposals
-  href: '#evaluate-contractor-proposals-based-on-industry-best-practices'
-- text: Footnotes
-  href: '#footnotes'
----
-
-# Federal Field Guide
-{:.usa-sr-only}
-
 ## Deciding what to buy
 
 <div markdown="1" class="chapter__img-container">

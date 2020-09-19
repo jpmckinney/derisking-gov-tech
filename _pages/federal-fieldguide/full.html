@@ -1,0 +1,12 @@
+---
+layout: reader
+permalink: /federal-field-guide/full/
+chapters:
+  - planning.md
+  - deciding-what-to-buy.md
+---
+
+{% for chapter in page.chapters %}
+  {% capture my_include %}{% include_relative {{chapter}} %}{% endcapture %} {{
+my_include | markdownify }}
+{% endfor %}

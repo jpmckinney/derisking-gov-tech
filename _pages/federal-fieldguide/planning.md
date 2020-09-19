@@ -1,35 +1,3 @@
----
-layout: page
-title: "Planning | De-risking government technology: Federal field guide | 18F"
-permalink: /federal-field-guide/
-sidenav: federal
-sticky_sidenav: true
-subnav:
-- text: Empower product owner 
-  href: '#assign-dedicated-and-empowered-product-owners-to-lead-development-efforts'
-- text: Seek constant user feedback
-  href: '#involve-end-users-early-and-often-in-software-development-efforts'
-- text: Build-or-buy decision
-  href: '#consider-tradeoffs-in-build-or-buy-decisions-taking-all-factors-into-consideration'
-- text: Default to open
-  href: '#default-to-open'
-- text: Infrastructure-as-code
-  href: '#require-infrastructure-as-code-single-command-deployment-and--per-sprint-government-verification-offunctionality'
-- text: Leadership’s role
-  href: '#leadership-should-set-direction-and-empower-teams'
-- text: Scope efforts
-  href: '#software-development-efforts-should-be-tightly-scoped-to-reduce-risk-and-avoid-overspending'
-- text: Path to production
-  href: '#clear-path-to-production-before-awarding-a-contact'
-- text: Remote collaboration tools
-  href: '#give-teams-access-to-the-remote-collaboration-tools-that-they-need-to-be-successful'
-- text: Technology budgeting
-  href: '#invest-in-technology-incrementally-and-budget-for-risk-mitigation-prototyping'
-- text: Footnotes
-  href: '#footnotes'
----
-
-# Federal Field Guide
 Edited by: **Mark Hopson**, **Victoria McFadden**, **Rebecca Refoy** and **Alicia Rouault**
 
 {%asset book-open-3.svg class="guide__download__img" alt=""%}Download this guide as a [printable pdf]({% asset federal-field-guide.pdf @path%})
