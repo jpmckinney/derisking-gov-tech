@@ -307,7 +307,7 @@ The government should write the QASP and include it when it issues the solicitat
 
 Teams should monitor the QASP at the end of every sprint, and that the contractor be held to a high performance standard and quality level. 
 
-Specifically, we expect the code and documentation to be tested, properly styled, secure, documented, deployed, and based on user research. Teams can use [the QASP that 18F uses on Agile development contracts](https://github.com/18F/technology-budgeting/blob/master/handbook.md#appendix-b-sample-quality-assessment-surveillance-plan-qasp) and incorporate it as-is.
+Specifically, we expect the code and documentation to be tested, properly styled, secure, documented, deployed, and based on user research. Teams can use [the QASP that 18F uses on Agile development contracts]({{site.baseurl}}/qasp/) and incorporate it as-is.
 
 An Agile project's only meaningful measure of success is delivering value to end users through working software. Unfortunately, there is no quantitative way to monitor value to end-users each sprint. 18F's QASP is our best attempt to measure metrics that will impact the product outcomes. 
 

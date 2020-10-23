@@ -74,6 +74,8 @@ primary_navigation:
     url: /state-field-guide/
   - name: Federal Field Guide
     url: /federal-field-guide/
+  - name: QASP
+    url: /qasp/
   # - name: Document submenu
   #   children:
   #     - name: Navigation link
