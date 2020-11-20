@@ -29,7 +29,7 @@ subnav:
 {% asset agile-basics.svg class="chapter__img" alt="" %}
 </div>
 
-A technology project's odds of success improve when the "non-technical" government leaders who fund and oversee it understand six basics concepts of modern software development: user-centered design, agile software development, product ownership, DevOps, building with loosely coupled parts, and modular contracting. You don't have to be a technologist to understand these general concepts. Once you grasp them, it'll feel like you've gained a new super power, allowing you to cut through the jargon and technical detail, and stay focused on the basics of successfully guiding any software project.
+A technology project's odds of success improve when the "non-technical" government leaders who fund and oversee it understand six basics concepts of modern software development: **user-centered design**, **agile software development**, **product ownership**, **DevOps**, **building with loosely coupled parts**, and **modular contracting**. You don't have to be a technologist to understand these general concepts. Once you grasp them, it'll feel like you've gained a new super power, allowing you to cut through the jargon and technical detail, and stay focused on the basics of successfully guiding any software project.
 
 ### User-centered design
 
@@ -47,13 +47,13 @@ Planning an entire project upfront is known as "waterfall" development. Imagine 
 
 "[Agile software development](https://agile.18f.gov/)" refers to using this trip-planning methodology for building and modernizing software systems. Instead of relying on years of costly planning and "requirements gathering" before beginning to write actual software, agile development projects are planned only in broad strokes, with a well defined description of the overall project goal and a strong preference for just getting started. A small, empowered, self-motivated team (usually 5-9 people, including developers, product managers, user researchers, writers, and/or security experts) is dedicated to accomplishing that goal, using user-centered design, working in two-week cycles to deliver some actual working software.
 
-On day one, the team plans only what they'll do for the next two weeks. (The length of a project's cycles can be as brief as one week or as long as four weeks --- two weeks is the most common.) Each task they'll work on is in the form of a "user story" --- a specific user need revealed by user research. The entire collection of user stories to be worked on is called the "backlog."
+On day one, the team plans only what they'll do for the next two weeks. (The length of a project's cycles can be as brief as one week or as long as four weeks --- two weeks is the most common.) Each task they'll work on is in the form of a "user story" --- a specific user need revealed by user research.[^research] The entire collection of user stories to be worked on is called the "backlog."
 
 The team works on a selected group of user stories for two weeks and, at the end, the team reviews the work that they did, tests it with end users, and then plans the next two weeks by pulling more user stories from the backlog. Repeat. Each of these two-week cycles is referred to as a "sprint."
 
 In the beginning, the software they produce may not seem like much (and may even be replaced by something else later), but it will gradually and systematically inform the project's technical approach and help the team sensibly integrate the project into an agency's existing legacy system.
 
-Functioning software is delivered at the end of each sprint, without exception --- fully-tested, fully-documented, ready to be used. In this way, value is delivered constantly, until the software is good enough to be rolled out for broad use. The team continues to work until they accomplish all of the goals or they run out of money, whichever happens first.
+Functioning software is delivered at the end of each sprint, without exception --- fully-tested, fully-documented, ready to be used. In this way, value is delivered constantly, until the software is good enough to be rolled out for broad use. The team continues to work until they accomplish all of the goals or they run out of money, whichever happens first [^first].
 
 The vendor is paid for their employees' time, not for a software system. Everything created by the vendor --- software, documentation, research, designs, everything --- is owned by government, delivered to government at the end of each sprint. Technology changes, government policies change, regulations change, laws change, and leadership's priorities change --- any project that is planned in great detail up front will be unable to adapt to those changes, and will be at significant risk of failure, significant cost and deadline overruns, or costly "change orders."
 
@@ -81,7 +81,7 @@ It's possible for a first-time product owner to learn as they go, but it's bette
 
 Historically, the teams building software have been separate from the IT teams that are responsible for operating the software once it's ready for use. A vendor might spend years building new software, and then a government IT team (or a vendor filling that role) might then require many months of work to get that software to function correctly on their servers. This is usually accompanied by frustration and finger-pointing, and can lead to project failures. To address this, government agencies often insist that the vendor building the software also host it indefinitely on the vendor's infrastructure, which has the effect of ruling out most software vendors (who are not in the hosting business), and creating vendor lock-in with its associated high prices. Relying on these old approaches will get you less and cost more than adopting the modern software tools that are standard in the private sector.
 
-The way to address this is with DevOps. This is the practice of coordinating the work of these two groups to automate the work that goes into testing software and moving it to a live server where people can use it --- merging software development and system operations. The developers write a series of automated processes for ensuring that the software will function properly in production, over the course of writing the software itself. Developers cannot merely hand their completed work to the system operations team and declare "hey, it works for us" --- they are responsible, both practically and contractually, for their code working properly.
+The way to address this is with DevOps. This is the practice of coordinating the work of these two groups to automate the work that goes into testing software and moving it to a live server where people can use it --- merging software **dev**elopment and system **op**erations. The developers write a series of automated processes for ensuring that the software will function properly in production, over the course of writing the software itself. Developers cannot merely hand their completed work to the system operations team and declare "hey, it works for us" --- they are responsible, both practically and contractually, for their code working properly.[^properly]
 
 Odds are good that most of the software you use every day, whether on your phone or your computer, was written just like this. Under DevOps, testing software quality is automatic, testing software security is automatic, merging multiple developers' work is automatic, and moving completed software to servers is automatic. (The incorporation of security testing in DevOps is sometimes labeled as "DevSecOps.")
 
@@ -106,3 +106,11 @@ This approach will require coordination and buy-in from your procurement teams. 
 <p align="center">* * \*</p>
 
 Modern software development processes are founded on user-centered design, agile software development, product ownership, DevOps, building with loosely coupled parts, and modular contracting. By understanding those core concepts, you’re in a great position to understand how to **budget for**, **plan**, **and execute** software programs more effectively, and to understand the rest of these **field guides**.
+
+
+### Footnotes
+[^research]: A user story reads in form of “as a [role], I need [this thing], so I can [accomplish this].” For example, “as a social worker, I need case notes to be cached on my phone, so that I can access case notes in areas without mobile phone service.” All technical work is done in the service of addressing a user story.
+
+[^first]: Stack Overflow’s 2018 survey of 57,075 developers found that 85% of professional software developers use agile. And a 2015 study by Hewlett Packard found that “the vast majority of organizations [they] surveyed reported that today they primarily use Agile methods.” The process described here is not extraordinary in any way.
+
+[^properly]:  For more on DevOps, see the Defense Innovation Board’s “Is Your Development Environment Holding You Back? A DIB Guide for the Acquisition Community.”
