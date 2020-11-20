@@ -6,8 +6,12 @@ state:
     href: /state-field-guide/questions-to-ask/
 
 federal:
-  - text: Planning
+  - text: Introduction
     href: /federal-field-guide/
+  - text: Basic principles
+    href: /federal-field-guide/basic-principles/
+  - text: Planning
+    href: /federal-field-guide/Planning
   - text: Deciding what to buy
     href: /federal-field-guide/deciding-what-to-buy/
   - text: Doing the work

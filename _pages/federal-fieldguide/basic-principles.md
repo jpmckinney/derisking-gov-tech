@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Basic principles of modern software design | De-risking government technology | 18F"
-permalink: /getting-started/basic-principles/
-sidenav: getting-started
+permalink: /federal-field-guide/basic-principles/
+sidenav: federal
 sticky_sidenav: true
 subnav:
 - text: User-centered design

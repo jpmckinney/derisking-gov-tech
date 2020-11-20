@@ -1,12 +1,16 @@
 ---
 layout: page
 title: "Introduction | De-risking government technology: Federal field guide | 18F"
-permalink: /federal-field-guide/introduction/
+permalink: /federal-field-guide/
 sidenav: federal
 sticky_sidenav: true
 subnav:
-- text: Verbal Interview Question Bank
-  href: '#verbal-interview-question-bank'
+- text: About the editors
+  href: '#about-the-editors'
+- text: Structure of this handbook
+  href: '#structure-of-this-handbook'
+- text: Footnotes
+  href: '#footnotes'
 ---
 # Federal Field Guide
 Edited by: **Mark Hopson**, **Victoria McFadden**, **Rebecca Refoy** and **Alicia&nbsp;Rouault**
