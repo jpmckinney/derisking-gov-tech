@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Budgeting and overseeing tech projects | De-risking government technology: State field guide | 18F"
-permalink: /state-field-guide/
+permalink: /state-field-guide/budgeting-tech/
 sidenav: state
 sticky_sidenav: true
 subnav:

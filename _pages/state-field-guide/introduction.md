@@ -1,8 +1,8 @@
 ---
 title: "Introduction | De-risking government technology | 18F"
-permalink: /getting-started/
+permalink: /state-field-guide/
 layout: page
-sidenav: getting-started
+sidenav: state
 sticky_sidenav: true
 ---
 
