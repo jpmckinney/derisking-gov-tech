@@ -107,6 +107,7 @@ This approach will require coordination and buy-in from your procurement teams. 
 
 Modern software development processes are founded on user-centered design, agile software development, product ownership, DevOps, building with loosely coupled parts, and modular contracting. By understanding those core concepts, you’re in a great position to understand how to **budget for**, **plan**, **and execute** software programs more effectively, and to understand the rest of these **field guides**.
 
+**Next**: [Planning]({{site.baseurl}}/federal-field-guide/planning/)
 
 ### Footnotes
 [^research]: A user story reads in form of “as a [role], I need [this thing], so I can [accomplish this].” For example, “as a social worker, I need case notes to be cached on my phone, so that I can access case notes in areas without mobile phone service.” All technical work is done in the service of addressing a user story.

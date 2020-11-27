@@ -683,6 +683,8 @@ Red flags:
 
 This list is not meant to be exhaustive, but it gives the evaluation team some tips to help empower them to decide which proposals to evaluate as most highly rated and to bring forward to an interview.
 
+**Next**: [Doing the work]({{site.baseurl}}/federal-field-guide/doing-the-work/)
+
 ### Footnotes
 [^needs]: FAR Part 2.101. The concept of an agency’s “needs” is used interchangeably by many agency personnel with the term “requirements.”
 [^requires]: See Aquisition.gov's <a href="https://www.acquisition.gov/content/part-10-market-research"> Market Research section</a> for specifics.
