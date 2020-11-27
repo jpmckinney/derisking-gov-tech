@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "QASP | De-risking government technology: State field guide | 18F"
+title: "QASP | De-risking government technology | 18F"
 permalink: /qasp/
 redirect_from:
   - /state-field-guide/qasp/

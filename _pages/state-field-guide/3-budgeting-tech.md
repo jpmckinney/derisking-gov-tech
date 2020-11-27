@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Budgeting and overseeing tech projects | De-risking government technology | 18F"
+title: "Budgeting and overseeing tech projects | De-risking government technology:State Software Budgeting Handbook | 18F"
 permalink: /state-field-guide/budgeting-tech/
 sidenav: state
 sticky_sidenav: true
