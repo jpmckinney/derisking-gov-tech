@@ -42,6 +42,8 @@ This is written specifically for procurement of custom software, but it’s impo
 
 As government leaders, we must be good stewards of public money by demanding easy-to-use, cost-effective, sustainable digital tools for use by the public and civil servants. This handbook will help you do just that.
 
+**Next**: [Basic principles of modern software design]({{site.baseurl}}/state-field-guide/basic-principles/)
+
 ### Footnotes
 [^13pct]: Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. From The Standish Group’s "<a href="https://www.standishgroup.com/sample_research_files/Haze4.pdf">Haze</a>," based on their CHAOS database.
 

@@ -401,6 +401,7 @@ It is no kindness to fund a project that is going to fail. If the agency doesnâ€
 - How much will it cost to move to a new system?
 - What are you doing to avoid paying expensive change fees in the future?
 
+**Next**: [Questions to ask]({{site.baseurl}}/state-field-guide/questions-to-ask/)
 
 ### Footnotes
 [^failure]: For details, see the U.S. Department of Health &amp; Human Servicesâ€™ Office of the Inspector General report about the Healthcare.gov failure, "<a href="https://oig.hhs.gov/oei/reports/oei-06-14-00350.asp">Case Study of CMS Management of the Federal Marketplace</a>" and Harvard Business School case study, "<a href="https://hbswk.hbs.edu/item/the-spectacular-fall-and-fix-of-healthcare-gov">The Spectacular Fall and Fix of HealthCare.gov</a>."
