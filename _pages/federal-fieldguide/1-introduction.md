@@ -41,6 +41,5 @@ This handbook is primarily focused on, and would benefit, any mission that requi
 
 Some portions of this handbook were written specifically as part of this broader compendium, but the vast majority of it is collected writings, produced during years of research and practice, tested by experience from dozens of people and authors. It has been compiled and edited to be practical and immediately usable by anyone who has questions on these topics, providing sufficient detail to successfully execute the principles, methods, and lessons learned from people with direct, immediate experience with them. It will be updated continuously as we advance our knowledge of budgeting to procure modern, digital services for public good.
 
-
 ### Footnotes
 [^successful]: Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. From The Standish Group’s "<a href="https://www.standishgroup.com/sample_research_files/Haze4.pdf">Haze</a>," based on their CHAOS database.
