@@ -30,10 +30,7 @@ subnav:
 ---
 
 # Federal Field Guide
-Edited by: **Mark Hopson**, **Victoria McFadden**, **Rebecca Refoy** and **Alicia Rouault**
-
-{%asset book-open-3.svg class="guide__download__img" alt=""%}Download this guide as a [printable pdf]({% asset federal-field-guide.pdf @path%})
-{:.guide__download__bg}
+{:.usa-sr-only}
 
 ## Planning
 
@@ -553,6 +550,8 @@ There's a promising new development on this front to reduce the complexity and c
 In the meantime, when budgeting for what a future state may look like, the best bet for agencies to make is to start small. Through a mechanism like risk mitigation prototyping, agencies can effectively create a form of risk mitigation budgeting that is evidence-based and incremental. It is in the original spirit of modularity conceived of in the mid-1990s, when the Clinger-Cohen Act was passed to help control "system development risks, better manage technology spending, and succeed in achieving real, measurable improvements in agency performance." [^performance]
 
 The first meaningful step to provide the federal government with the same world-class technology available commercially is to address these risks as early as possible in the process to reduce the likelihood of failure.
+
+**Next**: [Deciding what to buy]({{site.baseurl}}/federal-field-guide/deciding-what-to-buy/)
 
 ### Footnotes
 [^software]: When modifying COTS, keep in mind the existing warranty and any impacts that it may have through such an activity.
