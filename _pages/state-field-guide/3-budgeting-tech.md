@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Budgeting and overseeing tech projects | De-risking government technology: State field guide | 18F"
+title: "Budgeting and overseeing tech projects | De-risking government technology | 18F"
 permalink: /state-field-guide/budgeting-tech/
 sidenav: state
 sticky_sidenav: true
@@ -38,15 +38,8 @@ subnav:
 ---
 
 
-# State Field Guide
-{:.no_toc}
-
-By **Robin Carnahan**, **Randy Hart** and **Waldo Jaquith**<br>
-18F, Technology Transformation Service, General Services Administration
-{:.guide-authors}
-
-{%asset book-open-3.svg class="guide__download__img" alt=""%}Download this guide as a [printable pdf]({% asset state-field-guide.pdf @path%})
-{:.guide__download__bg}
+# State Software Budgeting Handbook
+{:.usa-sr-only}
 
 ## Budgeting and overseeing tech projects
 
