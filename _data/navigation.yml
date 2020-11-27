@@ -1,7 +1,11 @@
 # _data/navigation.yml
 state:
-  - text: Budgeting and overseeing tech projects
+  - text: Introduction
     href: /state-field-guide/
+  - text: Basic principles of modern software design
+    href: /state-field-guide/basic-principles/
+  - text: Budgeting and overseeing tech projects
+    href: /state-field-guide/budgeting-tech/
   - text: Questions to ask
     href: /state-field-guide/questions-to-ask/
 
