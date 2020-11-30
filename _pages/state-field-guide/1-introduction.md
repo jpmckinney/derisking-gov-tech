@@ -1,12 +1,19 @@
 ---
-title: "Introduction | De-risking government technology | 18F"
-permalink: /getting-started/
+title: "Introduction | De-risking government technology: State Software Budgeting Handbook | 18F"
+permalink: /state-field-guide/
 layout: page
-sidenav: getting-started
+sidenav: state
 sticky_sidenav: true
 ---
 
-# Getting Started
+# State Software Budgeting Handbook
+
+By **Robin Carnahan**, **Randy Hart** and **Waldo Jaquith**<br>
+18F, Technology Transformation Service, General Services Administration
+{:.guide-authors}
+
+{%asset book-open-3.svg class="guide__download__img" alt=""%}Download this guide as a [printable pdf]({% asset state-software-budgeting-handbook.pdf @path%})
+{:.guide__download__bg}
 
 ## Introduction
 
@@ -34,6 +41,8 @@ This handbook also gives you the tools you need to start tackling related proble
 This is written specifically for procurement of custom software, but it’s important to recognize that commercial off-the-shelf software (COTS) is often custom and Software as a Service (SaaS) often requires custom code. Once any customization is made, the bulk of this advice in this handbook applies to these commercial offerings. (See "[Beware the customized commercial software trap]({{site.baseurl}}/state-field-guide/#beware-the-customized-commercial-software-trap)" for details.)
 
 As government leaders, we must be good stewards of public money by demanding easy-to-use, cost-effective, sustainable digital tools for use by the public and civil servants. This handbook will help you do just that.
+
+**Next**: [Basic principles of modern software design]({{site.baseurl}}/state-field-guide/basic-principles/)
 
 ### Footnotes
 [^13pct]: Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. From The Standish Group’s "<a href="https://www.standishgroup.com/sample_research_files/Haze4.pdf">Haze</a>," based on their CHAOS database.

@@ -1,22 +1,24 @@
 # _data/navigation.yml
 state:
-  - text: Budgeting and overseeing tech projects
+  - text: Introduction
     href: /state-field-guide/
+  - text: Basic principles of modern software design
+    href: /state-field-guide/basic-principles/
+  - text: Budgeting and overseeing tech projects
+    href: /state-field-guide/budgeting-tech/
   - text: Questions to ask
     href: /state-field-guide/questions-to-ask/
 
 federal:
-  - text: Planning
+  - text: Introduction
     href: /federal-field-guide/
+  - text: Basic principles
+    href: /federal-field-guide/basic-principles/
+  - text: Planning
+    href: /federal-field-guide/planning/
   - text: Deciding what to buy
     href: /federal-field-guide/deciding-what-to-buy/
   - text: Doing the work
     href: /federal-field-guide/doing-the-work/
   - text: Appendix
     href: /federal-field-guide/appendix/
-
-getting-started:
-  - text: Introduction
-    href: /getting-started/
-  - text: Basic principles of modern software design
-    href: /getting-started/basic-principles/

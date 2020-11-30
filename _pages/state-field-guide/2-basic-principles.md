@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Basic principles of modern software design | De-risking government technology | 18F"
-permalink: /getting-started/basic-principles/
-sidenav: getting-started
+title: "Basic principles of modern software design | De-risking government technology:State Software Budgeting Handbook | 18F"
+permalink: /state-field-guide/basic-principles/
+sidenav: state
 sticky_sidenav: true
 subnav:
 - text: User-centered design
@@ -20,7 +20,7 @@ subnav:
 - text: Footnotes
   href: '#footnotes'
 ---
-#Getting Started
+# State Software Budgeting Handbook
 {:.usa-sr-only}
 
 ## Basic principles of modern software&nbsp;design
@@ -106,6 +106,8 @@ This approach will require coordination and buy-in from your procurement teams. 
 <p align="center">* * \*</p>
 
 Modern software development processes are founded on user-centered design, agile software development, product ownership, DevOps, building with loosely coupled parts, and modular contracting. By understanding those core concepts, you’re in a great position to understand how to budget for software more effectively, and to understand the rest of this handbook.
+
+**Next**: [Budgeting and overseeing tech projects]({{site.baseurl}}/state-field-guide/budgeting-tech/)
 
 ### Footnotes
 [^research]: A user story reads in form of "as a [role], I need [this thing], so I can [accomplish this]." For example, "as a social worker, I need case notes to be cached on my phone, so that I can access case notes in areas without mobile phone service." All technical work is done in the service of addressing a user story.

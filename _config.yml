@@ -68,9 +68,7 @@ dap_subagency: 18F,TTS
 primary_navigation:
   - name: Home
     url: /
-  - name: Getting Started
-    url: /getting-started/
-  - name: State Field Guide
+  - name: State Software Budgeting
     url: /state-field-guide/
   - name: Federal Field Guide
     url: /federal-field-guide/
